@@ -3,7 +3,7 @@
 为避免麻烦，只收录于中国大陆举办的讲座，尽量提供YouTube链接。
 「相关链接」这一栏提供的链接主要用于证实讲座的时间地点。
 
-演讲人  | 时间        |  演讲题目 | 链接 | 举办地/举办方 | 相关链接
+演讲人  | 时间        |  演讲题目 | 链接 | 讲座地点 | 相关链接
 --- | --- |  --- | --- | --- | --- 
 梁文道  | 2009年3月1日 | 台湾的本土意识与民国遗风 | [YouTube](https://www.youtube.com/watch?v=5ZLK5nCPEXU) | 福建凤凰剧院 | [梁文道：民国、台湾与我自己](http://liangwendao.org/archives/1504)
 朱学勤  | 2009年3月5日 | 这一天：一九七六年十月六日 | [YouTube](https://www.youtube.com/watch?v=C3lj1hmhvS4&t) | 华中科技大学 | [豆瓣同城](https://www.douban.com/event/10544040/)
