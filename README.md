@@ -43,7 +43,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009年3月5日</sub></td>
+    <td><sub>2009年4月19日</sub></td>
     <td><sub>秦晖</sub></td>
     <td><sub>断裂与联系——30年、60年、120年的中国历程</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=AXVQkAeIHGA">YouTube</a></sub></td>
