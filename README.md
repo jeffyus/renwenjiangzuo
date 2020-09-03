@@ -52,6 +52,15 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2009年6月12日</sub></td>
+    <td><sub>袁伟时</sub></td>
+    <td><sub>五四：传承正义，铭记教训</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=49EazRuPNNM">YouTube</a></sub></td>
+    <td><sub>华中科技大学</sub></td>
+    <td><sub><a href="https://www.douban.com/event/10784480/">豆瓣同城</a>，化成天下第1505期</sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>Unknown</sub></td>
     <td><sub>王曾瑜</sub></td>
     <td><sub>从宋代的政治看中国古代的专制主义</sub></td>
