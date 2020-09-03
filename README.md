@@ -78,4 +78,13 @@
     <td><sub>化成天下第1536期</sub></td>
 </tr></tbody>
 
+<tbody><tr>
+    <td><sub>2020年6月10日</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>美苏冷战起源的经济因素</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=3tRCTacjjXU">YouTube</a></sub></td>
+    <td><sub>华东师范大学</sub></td>
+    <td><sub><a href="http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">华东师范大学官网</a></sub></td>
+</tr></tbody>
+
 </table>
