@@ -79,6 +79,15 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>早于2015年5月26日</sub></td>
+    <td><sub>马勇</sub></td>
+    <td><sub>李鸿章与晚清大变局</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=Fvg06JuTG_A">YouTube</a></sub></td>
+    <td><sub>未知</sub></td>
+    <td><sub><a href="http://221.13.137.120:8098/videoinfo.asp?id=104633">超星名师讲坛</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2020年6月10日</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>美苏冷战起源的经济因素</sub></td>
@@ -86,7 +95,6 @@
     <td><sub>华东师范大学（在线讲座）</sub></td>
     <td><sub><a href="http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">华东师范大学官网</a></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>未知</sub></td>
