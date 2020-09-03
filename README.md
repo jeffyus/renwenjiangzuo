@@ -30,7 +30,7 @@
     <td><sub>这一天：一九七六年十月六日</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=C3lj1hmhvS4&t">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub><a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
+    <td><sub><a href="https://www.douban.com/event/10544040/">豆瓣同城</a>，化成天下第1452期</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -39,7 +39,7 @@
     <td><sub>这一天：改革开放三十年</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=jIh0P4VHW-Q">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub><a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
+    <td><sub><a href="https://www.douban.com/event/10544040/">豆瓣同城</a>，化成天下第1453期</sub></td>
 </tr></tbody>
 
 <tbody><tr>
