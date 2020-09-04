@@ -64,7 +64,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=AXVQkAeIHGA">YouTube</a></sub></td>
     <td><sub>西安交通大学</sub></td>
     <td><sub><a href="http://xsc.xjtu.edu.cn/info/1046/9018.htm">西安交通大学官网</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904190120/http://xsc.xjtu.edu.cn/info/1046/9018.htm">2020-9-4</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
