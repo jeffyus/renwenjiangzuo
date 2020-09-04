@@ -103,8 +103,8 @@
     <td><sub>从宋代的政治看中国古代的专制主义</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=o2_3LuffoSY">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub>化成天下第1536期<a href="https://dahouzi.cn/archives/187/">列表</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub>化成天下第1536期，<a href="https://dahouzi.cn/archives/187/">列表</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904232230/https://dahouzi.cn/archives/187/">2020-9-4</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -134,7 +134,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=3tRCTacjjXU">YouTube</a></sub></td>
     <td><sub>华东师范大学（在线讲座）</sub></td>
     <td><sub><a href="http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">华东师范大学官网</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904192248/http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">2020-9-4</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
