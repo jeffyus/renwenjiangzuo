@@ -128,6 +128,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2014-11-12</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>真实的幕后——东北亚安全与合作研究</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=jn8eQOtmFEA">YouTube</a></sub></td>
+    <td><sub>华东师范大学</sub></td>
+    <td><sub><a href="http://youth.ecnu.edu.cn/_t2008/1b/6e/c11404a138094/page.htm">华东师范大学官网</a></sub></td>
+    <th><sub></sub></th>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>早于2015-5-26</sub></td>
     <td><sub>马勇</sub></td>
     <td><sub>李鸿章与晚清大变局</sub></td>
@@ -135,16 +145,6 @@
     <td><sub>未知</sub></td>
     <td><sub><a href="http://221.13.137.120:8098/videoinfo.asp?id=104633">超星名师讲坛</a></sub></td>
     <td><sub></sub></td>
-</tr></tbody>
-
-<tbody><tr>
-    <td><sub>早于2020-3-18</sub></td>
-    <td><sub>沈志华</sub></td>
-    <td><sub>友谊的代价——东北亚安全与合作研究</sub></td>
-    <td><sub><a href="https://www.youtube.com/watch?v=jn8eQOtmFEA">YouTube</a></sub></td>
-    <td><sub>未知</sub></td>
-    <td><sub></sub></td>
-    <th><sub></sub></th>
 </tr></tbody>
 
 <tbody><tr>
