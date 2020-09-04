@@ -92,7 +92,7 @@
     <td><sub>沈志华</sub></td>
     <td><sub>读书与人生</sub></td>
     <td><sub><a href="https://youtu.be/f97eFeMkjzI">YouTube</a></sub></td>
-    <td><sub>中国社会科学院良乡高教园区</sub></td>
+    <td><sub>中国社会科学院</sub></td>
     <td><sub><a href="http://mchm.gscass.cn/html/news/2015-11-02/420.html">社科大师大讲堂</a></sub></td>
 </tr></tbody>
 
