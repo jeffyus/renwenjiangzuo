@@ -88,7 +88,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>早于2011年5月19日</sub></td>
+    <td><sub>2011年5月19日</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>读书与人生</sub></td>
     <td><sub><a href="https://youtu.be/f97eFeMkjzI">YouTube</a></sub></td>
