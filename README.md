@@ -84,7 +84,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=49EazRuPNNM">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
     <td><sub>化成天下第1505期，<a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">2020-9-4</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -94,7 +94,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=kekxDR868-0">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
     <td><sub>化成天下第1506期，<a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">2020-9-4</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
