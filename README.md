@@ -98,6 +98,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2009-6-18</sub></td>
+    <td><sub>张希清</sub></td>
+    <td><sub>科举制度与中国文化</sub></td>
+    <td><sub><a href="https://youtu.be/YK4n5jCu6o4">YouTube</a></sub></td>
+    <td><sub>华中科技大学</sub></td>
+    <td><sub>化成天下第1508期，<a href="https://dahouzi.cn/archives/187/">列表</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904232230/https://dahouzi.cn/archives/187/">2020-9-4</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2009-11-6</sub></td>
     <td><sub>王曾瑜</sub></td>
     <td><sub>从宋代的政治看中国古代的专制主义</sub></td>
