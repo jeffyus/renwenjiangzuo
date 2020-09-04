@@ -23,7 +23,7 @@
     <td><sub>中国历代疆域的变迁 </sub></td>
     <td><sub><a href="https://youtu.be/YCsrdyDhi9w">YouTube</a></sub></td>
     <td><sub>部级领导干部历史文化讲座</sub></td>
-    <td><sub><a href="http://culture.ifeng.com/gundong/detail_2012_02/29/12855499_0.shtml">历届部级领导干部讲座目录</a></sub></td>
+    <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">学养深厚精于表达才能给部长们上课</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
@@ -33,7 +33,7 @@
     <td><sub>“祖宗之法”与北宋政治 </sub></td>
     <td><sub></sub></td>
     <td><sub>部级领导干部历史文化讲座</sub></td>
-    <td><sub><a href="http://culture.ifeng.com/gundong/detail_2012_02/29/12855499_0.shtml">历届部级领导干部讲座目录</a></sub></td>
+    <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">学养深厚精于表达才能给部长们上课</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
   
