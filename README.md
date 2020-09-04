@@ -26,6 +26,16 @@
     <td><sub><a href="http://culture.ifeng.com/gundong/detail_2012_02/29/12855499_0.shtml">历届部级领导干部讲座目录</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
+
+<tbody><tr>
+    <td><sub>Maybe 2003</sub></td>
+    <td><sub>邓小南</sub></td>
+    <td><sub>“祖宗之法”与北宋政治 </sub></td>
+    <td><sub></sub></td>
+    <td><sub>部级领导干部历史文化讲座</sub></td>
+    <td><sub><a href="http://culture.ifeng.com/gundong/detail_2012_02/29/12855499_0.shtml">历届部级领导干部讲座目录</a></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
   
 <tbody><tr>
     <td><sub>2009年3月1日</sub></td>
