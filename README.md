@@ -128,6 +128,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>早于2020-3-18</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>友谊的代价——东北亚安全与合作研究</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=jn8eQOtmFEA">YouTube</a></sub></td>
+    <td><sub>未知</sub></td>
+    <td><sub></sub></td>
+    <th><sub></sub></th>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2020-6-10</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>美苏冷战起源的经济因素</sub></td>
@@ -135,16 +145,6 @@
     <td><sub>华东师范大学（在线讲座）</sub></td>
     <td><sub><a href="http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">华东师范大学官网</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200904192248/http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">2020-9-4</a></sub></td>
-</tr></tbody>
-
-<tbody><tr>
-    <td><sub>未知</sub></td>
-    <td><sub>沈志华</sub></td>
-    <td><sub>友谊的代价——东北亚安全与合作研究</sub></td>
-    <td><sub><a href="https://www.youtube.com/watch?v=jn8eQOtmFEA">YouTube</a></sub></td>
-    <td><sub>未知</sub></td>
-    <td><sub></sub></td>
-    <th><sub></sub></th>
 </tr></tbody>
 
 </table>
