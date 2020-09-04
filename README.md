@@ -5,7 +5,16 @@
 * 讲座顺序按时间从旧往新排列。
 
 <table>
-  
+
+<tbody><tr>
+    <td><sub>Maybe 2003</sub></td>
+    <td><sub>葛剑雄</sub></td>
+    <td><sub>中国历代疆域的变迁 </sub></td>
+    <td><sub><a href="https://youtu.be/YCsrdyDhi9w">YouTube</a></sub></td>
+    <td><sub>部级领导干部历史文化讲座</sub></td>
+    <td><sub><a href="http://culture.ifeng.com/gundong/detail_2012_02/29/12855499_0.shtml">历届部级领导干部讲座目录</a></sub></td>
+</tr></tbody>
+
 <thead><tr>
     <th><sub>时间</sub></th>
     <th><sub>演讲人</sub></th>
@@ -30,7 +39,7 @@
     <td><sub>这一天：一九七六年十月六日</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=C3lj1hmhvS4&t">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub><a href="https://www.douban.com/event/10544040/">豆瓣同城</a>，化成天下第1452期</sub></td>
+    <td><sub>化成天下第1452期，<a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -39,7 +48,7 @@
     <td><sub>这一天：改革开放三十年</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=jIh0P4VHW-Q">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub><a href="https://www.douban.com/event/10544040/">豆瓣同城</a>，化成天下第1453期</sub></td>
+    <td><sub>化成天下第1453期，<a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -57,7 +66,7 @@
     <td><sub>五四：传承正义，铭记教训</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=49EazRuPNNM">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub><a href="https://www.douban.com/event/10784480/">豆瓣同城</a>，化成天下第1505期</sub></td>
+    <td><sub>化成天下第1505期，<a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -66,7 +75,7 @@
     <td><sub>新文化运动几个争议问题管窥 </sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=kekxDR868-0">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub><a href="https://www.douban.com/event/10784480/">豆瓣同城</a>，化成天下第1506期</sub></td>
+    <td><sub>化成天下第1506期，<a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
