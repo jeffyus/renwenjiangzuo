@@ -24,7 +24,7 @@
     <td><sub><a href="https://youtu.be/YCsrdyDhi9w">YouTube</a></sub></td>
     <td><sub>部级领导干部历史文化讲座</sub></td>
     <td><sub><a href="http://culture.ifeng.com/gundong/detail_2012_02/29/12855499_0.shtml">历届部级领导干部讲座目录</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
   
 <tbody><tr>
@@ -34,7 +34,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=5ZLK5nCPEXU">YouTube</a></sub></td>
     <td><sub>福建凤凰剧院</sub></td>
     <td><sub><a href="http://liangwendao.org/archives/1504">梁文道：民国、台湾与我自己</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub><a href="https://web.archive.org/web/20160701021510/http://liangwendao.org/archives/1504/">2016-7-1</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -44,7 +44,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=C3lj1hmhvS4&t">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
     <td><sub>化成天下第1452期，<a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -54,7 +54,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=jIh0P4VHW-Q">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
     <td><sub>化成天下第1453期，<a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -64,7 +64,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=AXVQkAeIHGA">YouTube</a></sub></td>
     <td><sub>西安交通大学</sub></td>
     <td><sub><a href="http://xsc.xjtu.edu.cn/info/1046/9018.htm">西安交通大学官网</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -74,7 +74,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=49EazRuPNNM">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
     <td><sub>化成天下第1505期，<a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -84,7 +84,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=kekxDR868-0">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
     <td><sub>化成天下第1506期，<a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -94,7 +94,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=o2_3LuffoSY">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
     <td><sub>化成天下第1536期</sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -114,7 +114,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=Fvg06JuTG_A">YouTube</a></sub></td>
     <td><sub>未知</sub></td>
     <td><sub><a href="http://221.13.137.120:8098/videoinfo.asp?id=104633">超星名师讲坛</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -124,7 +124,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=3tRCTacjjXU">YouTube</a></sub></td>
     <td><sub>华东师范大学（在线讲座）</sub></td>
     <td><sub><a href="http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">华东师范大学官网</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
