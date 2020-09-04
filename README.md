@@ -103,7 +103,7 @@
     <td><sub>从宋代的政治看中国古代的专制主义</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=o2_3LuffoSY">YouTube</a></sub></td>
     <td><sub>华中科技大学</sub></td>
-    <td><sub>化成天下第1536期</sub></td>
+    <td><sub>化成天下第1536期<a href="https://dahouzi.cn/archives/187/">列表</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
