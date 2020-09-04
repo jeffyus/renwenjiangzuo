@@ -38,7 +38,7 @@
 </tr></tbody>
   
 <tbody><tr>
-    <td><sub>2009年3月1日</sub></td>
+    <td><sub>2009-3-1</sub></td>
     <td><sub>梁文道</sub></td>
     <td><sub>台湾的本土意识与民国遗风</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=5ZLK5nCPEXU">YouTube</a></sub></td>
@@ -48,7 +48,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009年3月5日</sub></td>
+    <td><sub>2009-3-5</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>这一天：一九七六年十月六日</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=C3lj1hmhvS4&t">YouTube</a></sub></td>
@@ -58,7 +58,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009年3月6日</sub></td>
+    <td><sub>2009-3-6</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>这一天：改革开放三十年</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=jIh0P4VHW-Q">YouTube</a></sub></td>
@@ -68,7 +68,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009年4月19日</sub></td>
+    <td><sub>2009-4-19</sub></td>
     <td><sub>秦晖</sub></td>
     <td><sub>断裂与联系——30年、60年、120年的中国历程</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=AXVQkAeIHGA">YouTube</a></sub></td>
@@ -78,7 +78,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009年6月12日</sub></td>
+    <td><sub>2009-6-12</sub></td>
     <td><sub>袁伟时</sub></td>
     <td><sub>五四：传承正义，铭记教训</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=49EazRuPNNM">YouTube</a></sub></td>
@@ -88,7 +88,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009年6月13日</sub></td>
+    <td><sub>2009-6-13</sub></td>
     <td><sub>袁伟时</sub></td>
     <td><sub>新文化运动几个争议问题管窥 </sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=kekxDR868-0">YouTube</a></sub></td>
@@ -98,7 +98,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>未知</sub></td>
+    <td><sub>2019-11-6</sub></td>
     <td><sub>王曾瑜</sub></td>
     <td><sub>从宋代的政治看中国古代的专制主义</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=o2_3LuffoSY">YouTube</a></sub></td>
@@ -108,7 +108,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2011年5月19日</sub></td>
+    <td><sub>2011-5-19</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>读书与人生</sub></td>
     <td><sub><a href="https://youtu.be/f97eFeMkjzI">YouTube</a></sub></td>
@@ -118,7 +118,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>早于2015年5月26日</sub></td>
+    <td><sub>早于2015-5-26</sub></td>
     <td><sub>马勇</sub></td>
     <td><sub>李鸿章与晚清大变局</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=Fvg06JuTG_A">YouTube</a></sub></td>
@@ -128,7 +128,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2020年6月10日</sub></td>
+    <td><sub>2020-6-10</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>美苏冷战起源的经济因素</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=3tRCTacjjXU">YouTube</a></sub></td>
