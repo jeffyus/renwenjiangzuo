@@ -84,7 +84,7 @@
 <tbody><tr>
     <td><sub>2006-2-10</sub></td>
     <td><sub>林蕴晖</sub></td>
-    <td><sub>三年困难: 共和国的第一场灾难 <br>Three Years of Difficulty: The First Disaster of the PRC</sub></td>
+    <td><sub>三年困难: 共和国的第一场灾难 Three Years<br>of Difficulty: The First Disaster of the PRC</sub></td>
     <td><sub><a href="https://youtu.be/BNDanH84Q40">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35896">官网</a></sub></td>
