@@ -328,3 +328,28 @@
 </tr></tbody>
 
 </table>
+
+## 华中科技大学化成天下
+
+<table>
+
+<thead><tr>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
+    <th><sub>相关链接及备注</sub></th>
+    <th><sub>WebArchive</sub></th>
+</tr></thead>
+
+<tbody><tr>
+    <td><sub>1076</sub></td>
+    <td><sub></sub></td>
+    <td><sub>江晓原</sub></td>
+    <td><sub>科学发展的历史图象-误导与重构 </sub></td>
+    <td><sub><a href="https://youtu.be/NNHujTYaDIw">Audio</a></sub></td>
+    <th><sub></sub></th>
+</tr></tbody>
+
+</table>
