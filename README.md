@@ -38,12 +38,22 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2005-4-15</sub></td>
+    <td><sub>2005-11-24</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>中苏同盟破裂的原因 Sino-Soviet Alliance: <br> The Rivalry of Mao and Stalin</sub></td>
     <td><sub><a href="https://youtu.be/oJ9lVF6Z3YU">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://www.facebook.com/160073330746129/posts/952438991509555/">重读共和国史</a></sub></td>
+    <td><sub>香港科技大学官网（链接失效）</sub></td>
+    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>2005-11-28</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>朝鲜战争 China Sends Troops to Korea: <br> The First War of the Republic</sub></td>
+    <td><sub><a href="https://youtu.be/J2tbLMIW4EI">YouTube</a></sub></td>
+    <td><sub>香港科技大学</sub></td>
+    <td><sub>香港科技大学官网（链接失效）</sub></td>
     <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
 </tr></tbody>
 
