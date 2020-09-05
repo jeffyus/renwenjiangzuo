@@ -168,6 +168,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2008-11-21</sub></td>
+    <td><sub>韩钢</sub></td>
+    <td><sub>改革开放的起步</sub></td>
+    <td><sub><a href="https://youtu.be/4eJBh5h4kqI">YouTube</a></sub></td>
+    <td><sub>北京大学</sub></td>
+    <td><sub><a href="https://bbs.pku.edu.cn/v2/collection-read.php?path=groups%2FGROUP_3%2FAcademicInfo%2FD4F25AB3E%2FD95C24BAC%2FDAD4119F6%2FD794EE145%2FM.1226973362.A">纪念改革开放30周年系列</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905190002/https://bbs.pku.edu.cn/v2/collection-read.php?path=groups%2FGROUP_3%2FAcademicInfo%2FD4F25AB3E%2FD95C24BAC%2FDAD4119F6%2FD794EE145%2FM.1226973362.A">2020-9-5</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2009-3-1</sub></td>
     <td><sub>梁文道</sub></td>
     <td><sub>台湾的本土意识与民国遗风</sub></td>
