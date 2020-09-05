@@ -127,7 +127,7 @@
 <tbody><tr>
     <td><sub>2007-9-17</sub></td>
     <td><sub>卜伟华</sub></td>
-    <td><sub>「文革」中的武斗  Resort to Violence in the Cultural Revolution</sub></td>
+    <td><sub>「文革」中的武斗  <br>Resort to Violence in the Cultural Revolution</sub></td>
     <td><sub><a href="https://youtu.be/d24B3FED-ws">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35906">官网</a></sub></td>
