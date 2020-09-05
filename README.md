@@ -64,7 +64,7 @@
     <td><sub>波匈事件与中国: 中共走上世界舞台 <br>China and the Polish-Hungarian Revolt in 1956: <br>Towards the International Stage</sub></td>
     <td><sub><a href="https://youtu.be/kcHyMylVX6c">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史系列<br>香港科技大学官网（链接失效）</sub></td>
+    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35894">官网</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
 </tr></tbody>
 
