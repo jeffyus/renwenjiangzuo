@@ -43,7 +43,7 @@
     <td><sub>中苏同盟破裂的原因 Sino-Soviet Alliance: <br> The Rivalry of Mao and Stalin</sub></td>
     <td><sub><a href="https://youtu.be/BJKLXMjxU1U">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史系列，<a href="https://143.89.105.177/dspace/handle/9999/35892">官网</a></sub></td>
+    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35892">官网</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
 </tr></tbody>
 
