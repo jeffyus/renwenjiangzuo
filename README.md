@@ -278,6 +278,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2011-11-2</sub></td>
+    <td><sub>韩钢</sub></td>
+    <td><sub>文革的发动——1966年的中国</sub></td>
+    <td><sub><a href="https://youtu.be/NOWIaTMp_CY">YouTube</a></sub></td>
+    <td><sub>华东师范大学</sub></td>
+    <td><sub><a href="https://www.douban.com/event/14909708/">豆瓣同城</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20141111235815/https://www.douban.com/event/14909708/">2014-11-11</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2014-11-12</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>真实的幕后——东北亚安全与合作研究</sub></td>
