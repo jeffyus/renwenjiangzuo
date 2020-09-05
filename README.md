@@ -288,6 +288,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2014-12-24</sub></td>
+    <td><sub>韩钢</sub></td>
+    <td><sub>领袖暮年：1976年的毛泽东</sub></td>
+    <td><sub><a href="https://youtu.be/i-lNa9k25lY">YouTube</a></sub></td>
+    <td><sub>复旦大学</sub></td>
+    <td><sub><a href="https://www.thepaper.cn/newsDetail_forward_1288590">澎湃新闻</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20141227170453/https://www.thepaper.cn/newsDetail_forward_1288590">2014-12-27</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>早于2015-5-26</sub></td>
     <td><sub>马勇</sub></td>
     <td><sub>李鸿章与晚清大变局</sub></td>
