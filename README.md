@@ -54,7 +54,7 @@
     <td><sub><a href="https://youtu.be/JZJX1GAqQrY">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35893">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200905160147/https://archives.ust.hk/dspace/handle/9999/35893">2020-9-5</a></sub></td>
+    <td><sub>无法抓取？</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -70,51 +70,47 @@
 <tbody><tr>
     <td><sub>2006-2-10</sub></td>
     <td><sub>林蕴晖</sub></td>
-    <td><sub>大跃进: 超英赶美与共产主义乌托邦 <br>The Great Leap Forward: The Communist Utopia</sub></td>
+    <td><sub>大跃进: 超英赶美与共产主义乌托邦</sub></td>
     <td><sub><a href="https://youtu.be/BNDanH84Q40">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35896">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a><br>
-        <a href="https://web.archive.org/web/20200905165514/https://archives.ust.hk/dspace/handle/9999/35896">2020-9-5</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905165514/https://archives.ust.hk/dspace/handle/9999/35896">2020-9-5</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>2006-2-10</sub></td>
     <td><sub>林蕴晖</sub></td>
-    <td><sub>三年困难: 共和国的第一场灾难 Three Years<br>of Difficulty: The First Disaster of the PRC</sub></td>
+    <td><sub>三年困难: 共和国的第一场灾难</sub></td>
     <td><sub><a href="https://youtu.be/BNDanH84Q40">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35896">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a><br>
-        <a href="https://web.archive.org/web/20200905165826/https://archives.ust.hk/dspace/handle/9999/35897">2020-9-5</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905165826/https://archives.ust.hk/dspace/handle/9999/35897">2020-9-5</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>2006-5-16</sub></td>
     <td><sub>韩钢</sub></td>
-    <td><sub>反右运动的前因后果<br>The Anti-Rightist Movement</sub></td>
+    <td><sub>反右运动的前因后果</sub></td>
     <td><sub><a href="https://youtu.be/ueMGzC_bTsI">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/bitstream/9999/32941/1/pao-02-a141.pdf">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a><br>
-        <a href="https://web.archive.org/web/20070322033958/http://www.ust.hk/~webccshs/forthcom.htm">2007-3-22</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20070322033958/http://www.ust.hk/~webccshs/forthcom.htm">2007-3-22</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>2006-5-18</sub></td>
     <td><sub>韩钢</sub></td>
-    <td><sub>刘少奇与四清运动<br>Liu Shao Qi & the Four Cleanup Movement</sub></td>
+    <td><sub>刘少奇与四清运动</sub></td>
     <td><sub><a href="https://youtu.be/HGHLTuHZG_w">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/bitstream/9999/32941/1/pao-02-a141.pdf">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a><br>
-        <a href="https://web.archive.org/web/20070322033958/http://www.ust.hk/~webccshs/forthcom.htm">2007-3-22</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20070322033958/http://www.ust.hk/~webccshs/forthcom.htm">2007-3-22</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>2007-9-14</sub></td>
     <td><sub>卜伟华</sub></td>
-    <td><sub>「文革」中的红卫兵运动 The Red Guards<br>Movement in the Cultural Revolution</sub></td>
+    <td><sub>「文革」中的红卫兵运动</sub></td>
     <td><sub><a href="https://youtu.be/n9-0lDybD4s">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35905">官网</a></sub></td>
@@ -124,7 +120,7 @@
 <tbody><tr>
     <td><sub>2007-9-17</sub></td>
     <td><sub>卜伟华</sub></td>
-    <td><sub>「文革」中的武斗  <br>Resort to Violence in the Cultural Revolution</sub></td>
+    <td><sub>「文革」中的武斗</sub></td>
     <td><sub><a href="https://youtu.be/d24B3FED-ws">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35906">官网</a></sub></td>
