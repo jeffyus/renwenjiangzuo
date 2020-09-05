@@ -22,8 +22,8 @@
     <td><sub>葛剑雄</sub></td>
     <td><sub>中国历代疆域的变迁 </sub></td>
     <td><sub><a href="https://youtu.be/YCsrdyDhi9w">YouTube</a></sub></td>
-    <td><sub>部级领导干部历史文化讲座</sub></td>
-    <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">关于讲座的凤凰网报道</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">部级领导干部历史文化讲座</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200904230537/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">2020-9-4</a></sub></td>
 </tr></tbody>
 
@@ -32,8 +32,8 @@
     <td><sub>邓小南</sub></td>
     <td><sub>“祖宗之法”与北宋政治 </sub></td>
     <td><sub></sub></td>
-    <td><sub>部级领导干部历史文化讲座</sub></td>
-    <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">关于讲座的凤凰网报道</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">部级领导干部历史文化讲座</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200904230537/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">2020-9-4</a></sub></td>
 </tr></tbody>
 
