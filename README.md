@@ -40,7 +40,7 @@
 <tbody><tr>
     <td><sub>2005-4-15</sub></td>
     <td><sub>沈志华</sub></td>
-    <td><sub>中苏同盟破裂的原因</sub></td>
+    <td><sub>中苏同盟破裂的原因<br>Sino-Soviet Alliance: The Rivalry of Mao and Stalin</sub></td>
     <td><sub><a href="https://youtu.be/oJ9lVF6Z3YU">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub><a href="https://www.facebook.com/160073330746129/posts/952438991509555/">重读共和国史</a></sub></td>
