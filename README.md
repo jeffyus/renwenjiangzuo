@@ -44,7 +44,8 @@
     <td><sub><a href="https://youtu.be/BJKLXMjxU1U">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35892">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a><br>
+        <a href="https://web.archive.org/web/20200905160147/https://archives.ust.hk/dspace/handle/9999/35892">2020-9-5</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
