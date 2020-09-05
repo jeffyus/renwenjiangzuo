@@ -2,7 +2,7 @@
 
 * 为避免麻烦，暂时只收录于中国大陆举办，或主讲人为中国大陆学者的讲座，尽量提供YouTube链接。
 * 「相关链接」主要用于佐证讲座的时间地点。
-* 「相关链接」尽量Archive防止丢失，所填时间为Archive日期。
+* 「相关链接」尽量WebArchive防止丢失，所填时间为Archive日期。
 * 讲座顺序按时间从旧往新排列。
 
 <table>
@@ -14,7 +14,7 @@
     <th><sub>音频链接</sub></th>
     <th><sub>地点</sub></th>
     <th><sub>相关链接及备注</sub></th>
-    <th><sub>Archive</sub></th>
+    <th><sub>WebArchive</sub></th>
 </tr></thead>
 
 <tbody><tr>
@@ -134,7 +134,7 @@
     <td><sub><a href="https://www.youtube.com/watch?v=jn8eQOtmFEA">YouTube</a></sub></td>
     <td><sub>华东师范大学</sub></td>
     <td><sub><a href="http://youth.ecnu.edu.cn/_t2008/1b/6e/c11404a138094/page.htm">华东师范大学官网</a></sub></td>
-    <th><sub></sub></th>
+    <td><sub><a href="https://web.archive.org/web/20200904235925/http://youth.ecnu.edu.cn/_t2008/1b/6e/c11404a138094/page.htm">2019-9-4</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
