@@ -71,9 +71,9 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2005-12-1</sub></td>
+    <td><sub>2006-5-16</sub></td>
     <td><sub>韩钢</sub></td>
-    <td><sub>反右运动的前因后果 The Anti-Rightist Movement</sub></td>
+    <td><sub>反右运动的前因后果<br>The Anti-Rightist Movement</sub></td>
     <td><sub><a href="https://youtu.be/ueMGzC_bTsI">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/bitstream/9999/32941/1/pao-02-a141.pdf">官网</a></sub></td>
