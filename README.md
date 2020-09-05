@@ -11,7 +11,7 @@
     <th><sub>时间</sub></th>
     <th><sub>演讲人</sub></th>
     <th><sub>题目</sub></th>
-    <th><sub>音频链接</sub></th>
+    <th><sub>链接</sub></th>
     <th><sub>地点</sub></th>
     <th><sub>相关链接及备注</sub></th>
     <th><sub>WebArchive</sub></th>
