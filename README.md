@@ -93,8 +93,8 @@
     <td><sub>反右运动的前因后果</sub></td>
     <td><sub><a href="https://youtu.be/ueMGzC_bTsI">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/bitstream/9999/32941/1/pao-02-a141.pdf">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20070322033958/http://www.ust.hk/~webccshs/forthcom.htm">2007-3-22</a></sub></td>
+    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35901">官网</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905172857/https://archives.ust.hk/dspace/handle/9999/35901">2007-3-22</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -103,8 +103,8 @@
     <td><sub>刘少奇与四清运动</sub></td>
     <td><sub><a href="https://youtu.be/HGHLTuHZG_w">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/bitstream/9999/32941/1/pao-02-a141.pdf">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20070322033958/http://www.ust.hk/~webccshs/forthcom.htm">2007-3-22</a></sub></td>
+    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35902">官网</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905173017/https://archives.ust.hk/dspace/handle/9999/35902">2007-3-22</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
