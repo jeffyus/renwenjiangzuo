@@ -98,6 +98,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2006-4-12</sub></td>
+    <td><sub>高华</sub></td>
+    <td><sub>再探林彪事件</sub></td>
+    <td><sub><a href="https://youtu.be/8rsqTEDy_Q4">YouTube</a></sub></td>
+    <td><sub>香港科技大学</sub></td>
+    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35898">官网</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905174031/https://archives.ust.hk/dspace/handle/9999/35899">2020-9-5</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2006-5-16</sub></td>
     <td><sub>韩钢</sub></td>
     <td><sub>反右运动的前因后果</sub></td>
