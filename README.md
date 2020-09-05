@@ -178,6 +178,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>Maybe 2008</sub></td>
+    <td><sub>韩钢</sub></td>
+    <td><sub>从华国锋主政到邓小平核心权力视角的解读</sub></td>
+    <td><sub><a href="https://youtu.be/a_bOGgAh58Y">YouTube</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub>改革开放30周年</sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2009-3-1</sub></td>
     <td><sub>梁文道</sub></td>
     <td><sub>台湾的本土意识与民国遗风</sub></td>
