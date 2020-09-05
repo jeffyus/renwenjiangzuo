@@ -40,7 +40,7 @@
 <tbody><tr>
     <td><sub>2005-11-24</sub></td>
     <td><sub>沈志华</sub></td>
-    <td><sub>中苏同盟破裂的原因 Sino-Soviet Alliance: <br> The Rivalry of Mao and Stalin</sub></td>
+    <td><sub>中苏同盟条约: 毛泽东与斯大林的争斗 Sino-Soviet<br>Alliance: The Rivalry of Mao and Stalin</sub></td>
     <td><sub><a href="https://youtu.be/BJKLXMjxU1U">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35892">官网</a></sub></td>
