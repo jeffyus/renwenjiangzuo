@@ -114,7 +114,7 @@
     <td><sub><a href="https://youtu.be/ueMGzC_bTsI">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35901">官网</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200905172857/https://archives.ust.hk/dspace/handle/9999/35901">22020-9-5</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905172857/https://archives.ust.hk/dspace/handle/9999/35901">2020-9-5</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
