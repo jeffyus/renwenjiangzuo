@@ -43,7 +43,7 @@
     <td><sub>中苏同盟条约: 毛泽东与斯大林的争斗</sub></td>
     <td><sub><a href="https://youtu.be/BJKLXMjxU1U">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（1/13），<a href="https://archives.ust.hk/dspace/handle/9999/35892">官网</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35892">重读共和国史系列（1/13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905160147/https://archives.ust.hk/dspace/handle/9999/35892">2020-9-5</a></sub></td>
 </tr></tbody>
 
@@ -53,7 +53,7 @@
     <td><sub>中国出兵朝鲜: 共和国的第一次战争</sub></td>
     <td><sub><a href="https://youtu.be/JZJX1GAqQrY">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（2/13），<a href="https://archives.ust.hk/dspace/handle/9999/35893">官网</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35893">重读共和国史系列（2/13）</a></sub></td>
     <td><sub>无法抓取？</sub></td>
 </tr></tbody>
 
@@ -63,7 +63,7 @@
     <td><sub>波匈事件与中国: 中共走上世界舞台</sub></td>
     <td><sub><a href="https://youtu.be/S5FQr5J6AuU">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（3/13），<a href="https://archives.ust.hk/dspace/handle/9999/35894">官网</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（3/13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905160147/https://archives.ust.hk/dspace/handle/9999/35894">2020-9-5</a></sub></td>
 </tr></tbody>
 
@@ -73,7 +73,7 @@
     <td><sub>大跃进: 超英赶美与共产主义乌托邦</sub></td>
     <td><sub><a href="https://youtu.be/BNDanH84Q40">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（4/13），<a href="https://archives.ust.hk/dspace/handle/9999/35896">官网</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（4/13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905165514/https://archives.ust.hk/dspace/handle/9999/35896">2020-9-5</a></sub></td>
 </tr></tbody>
 
@@ -83,7 +83,7 @@
     <td><sub>三年困难: 共和国的第一场灾难</sub></td>
     <td><sub><a href="https://youtu.be/_YLVxnLJiOY">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（5/13），<a href="https://archives.ust.hk/dspace/handle/9999/35897">官网</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（5/13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905165826/https://archives.ust.hk/dspace/handle/9999/35897">2020-9-5</a></sub></td>
 </tr></tbody>
 
@@ -93,7 +93,7 @@
     <td><sub>毛泽东何以发动文革</sub></td>
     <td><sub><a href="https://youtu.be/1oNhQysdLhw">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（6/13），<a href="https://archives.ust.hk/dspace/handle/9999/35898">官网</a></sub></td>
+<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（6/13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905173723/https://archives.ust.hk/dspace/handle/9999/35898">2020-9-5</a></sub></td>
 </tr></tbody>
 
@@ -103,7 +103,7 @@
     <td><sub>再探林彪事件</sub></td>
     <td><sub><a href="https://youtu.be/8rsqTEDy_Q4">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（7/13），<a href="https://archives.ust.hk/dspace/handle/9999/35898">官网</a></sub></td>
+<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（7/13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905174031/https://archives.ust.hk/dspace/handle/9999/35899">2020-9-5</a></sub></td>
 </tr></tbody>
 
@@ -113,7 +113,7 @@
     <td><sub>反右运动的前因后果</sub></td>
     <td><sub><a href="https://youtu.be/ueMGzC_bTsI">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>重读共和国史（8/13），<a href="https://archives.ust.hk/dspace/handle/9999/35901">官网</a></sub></td>
+<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（8/13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905172857/https://archives.ust.hk/dspace/handle/9999/35901">2020-9-5</a></sub></td>
 </tr></tbody>
 
