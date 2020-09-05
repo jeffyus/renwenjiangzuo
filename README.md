@@ -82,6 +82,17 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2006-5-16</sub></td>
+    <td><sub>韩钢</sub></td>
+    <td><sub>刘少奇与四清运动<br>Liu Shao Qi & the Four Cleanup Movement</sub></td>
+    <td><sub><a href="https://youtu.be/HGHLTuHZG_w">YouTube</a></sub></td>
+    <td><sub>香港科技大学</sub></td>
+    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/bitstream/9999/32941/1/pao-02-a141.pdf">官网</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a><br>
+        <a href="https://web.archive.org/web/20070322033958/http://www.ust.hk/~webccshs/forthcom.htm">2007-3-22</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2009-3-1</sub></td>
     <td><sub>梁文道</sub></td>
     <td><sub>台湾的本土意识与民国遗风</sub></td>
