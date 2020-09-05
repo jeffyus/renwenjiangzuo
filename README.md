@@ -50,7 +50,7 @@
 <tbody><tr>
     <td><sub>2005-11-28</sub></td>
     <td><sub>沈志华</sub></td>
-    <td><sub>朝鲜战争 China Sends Troops to Korea: <br> The First War of the Republic</sub></td>
+    <td><sub>中国出兵朝鲜: 共和国的第一次战争 China Sends Troops <br> to Korea: The First War of the Republic</sub></td>
     <td><sub><a href="https://youtu.be/J2tbLMIW4EI">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史系列<br>香港科技大学官网（链接失效）</sub></td>
