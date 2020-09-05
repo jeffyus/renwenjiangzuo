@@ -43,7 +43,7 @@
     <td><sub>中苏同盟破裂的原因 Sino-Soviet Alliance: <br> The Rivalry of Mao and Stalin</sub></td>
     <td><sub><a href="https://youtu.be/oJ9lVF6Z3YU">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>香港科技大学官网（链接失效）</sub></td>
+    <td><sub>重读共和国史系列<br>香港科技大学官网（链接失效）</sub></td>
     <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
 </tr></tbody>
 
@@ -53,7 +53,7 @@
     <td><sub>朝鲜战争 China Sends Troops to Korea: <br> The First War of the Republic</sub></td>
     <td><sub><a href="https://youtu.be/J2tbLMIW4EI">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>香港科技大学官网（链接失效）</sub></td>
+    <td><sub>重读共和国史系列<br>香港科技大学官网（链接失效）</sub></td>
     <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
 </tr></tbody>
 
@@ -63,7 +63,7 @@
     <td><sub>波匈事件与中国 China and the Polish-Hungarian <br>Revolt in 1956: Towards the International Stage</sub></td>
     <td><sub><a href="https://youtu.be/kcHyMylVX6c">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub>香港科技大学官网（链接失效）</sub></td>
+    <td><sub>重读共和国史系列<br>香港科技大学官网（链接失效）</sub></td>
     <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
 </tr></tbody>
 
