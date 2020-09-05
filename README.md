@@ -58,6 +58,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2005-12-1</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>波匈事件与中国 China and the Polish-Hungarian Revolt in 1956: <br>Towards the International Stage</sub></td>
+    <td><sub><a href="https://youtu.be/kcHyMylVX6c">YouTube</a></sub></td>
+    <td><sub>香港科技大学</sub></td>
+    <td><sub>香港科技大学官网（链接失效）</sub></td>
+    <td><sub><a href="https://web.archive.org/web/20170708224940/http://home.ust.hk/~avwork/MyDir/Archive/Archive/DHSS/SINO/SINO.html">2017-7-8</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2009-3-1</sub></td>
     <td><sub>梁文道</sub></td>
     <td><sub>台湾的本土意识与民国遗风</sub></td>
