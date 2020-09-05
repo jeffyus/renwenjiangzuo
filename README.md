@@ -60,7 +60,7 @@
 <tbody><tr>
     <td><sub>2005-12-1</sub></td>
     <td><sub>沈志华</sub></td>
-    <td><sub>波匈事件与中国 China and the Polish-Hungarian Revolt in 1956: <br>Towards the International Stage</sub></td>
+    <td><sub>波匈事件与中国 China and the Polish-Hungarian <br>Revolt in 1956: Towards the International Stage</sub></td>
     <td><sub><a href="https://youtu.be/kcHyMylVX6c">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>香港科技大学官网（链接失效）</sub></td>
