@@ -115,6 +115,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2007-9-14</sub></td>
+    <td><sub>卜伟华</sub></td>
+    <td><sub>「文革」中的红卫兵运动<br>The Red Guards Movement in the Cultural Revolution</sub></td>
+    <td><sub><a href="https://youtu.be/HGHLTuHZG_w">YouTube</a></sub></td>
+    <td><sub>香港科技大学</sub></td>
+    <td><sub>重读共和国史系列，<a href="https://archives.ust.hk/dspace/handle/9999/35905">官网</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905170511/https://archives.ust.hk/dspace/handle/9999/35905">2020-9-5</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2009-3-1</sub></td>
     <td><sub>梁文道</sub></td>
     <td><sub>台湾的本土意识与民国遗风</sub></td>
