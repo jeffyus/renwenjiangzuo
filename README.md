@@ -81,7 +81,7 @@
     <td><sub>2006-2-15</sub></td>
     <td><sub>林蕴晖</sub></td>
     <td><sub>三年困难: 共和国的第一场灾难</sub></td>
-    <td><sub><a href="https://youtu.be/BNDanH84Q40">YouTube</a></sub></td>
+    <td><sub><a href="https://youtu.be/_YLVxnLJiOY">YouTube</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub>重读共和国史（5/13），<a href="https://archives.ust.hk/dspace/handle/9999/35897">官网</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905165826/https://archives.ust.hk/dspace/handle/9999/35897">2020-9-5</a></sub></td>
