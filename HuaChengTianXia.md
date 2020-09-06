@@ -368,10 +368,10 @@
 
 <tbody><tr>
     <td><sub>1107</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-29)</sub></td>
+    <td><sub>高华</sub></td>
+    <td><sub>有关红军长征研究的若干问题</sub></td>
+    <td><sub><a href="https://youtu.be/ofhgxWMF7_g">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -379,10 +379,10 @@
 
 <tbody><tr>
     <td><sub>1108</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-06)</sub></td>
+    <td><sub>刘兵</sub></td>
+    <td><sub>科学与性别</sub></td>
+    <td><sub><a href="https://youtu.be/P9syIgGdowA">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -390,10 +390,10 @@
 
 <tbody><tr>
     <td><sub>1109</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-06)</sub></td>
+    <td><sub>刘扬忠</sub></td>
+    <td><sub>诗仙醉太白</sub></td>
+    <td><sub><a href="https://youtu.be/VEDNE1ieifc">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -401,10 +401,10 @@
 
 <tbody><tr>
     <td><sub>1110</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-06)</sub></td>
+    <td><sub>刘兵</sub></td>
+    <td><sub>戏剧舞台上的物理学家</sub></td>
+    <td><sub><a href="https://youtu.be/8xcT1EzsENc">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -412,10 +412,10 @@
 
 <tbody><tr>
     <td><sub>1111</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-13)</sub></td>
+    <td><sub>陈凡</sub></td>
+    <td><sub>科技创新与科技人才</sub></td>
+    <td><sub><a href="https://youtu.be/oQYuZcU6qzo">Audio</a><</sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -423,10 +423,10 @@
 
 <tbody><tr>
     <td><sub>1112</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-19)</sub></td>
+    <td><sub>陈凡</sub></td>
+    <td><sub>当代技术哲学的建制化及其转向</sub></td>
+    <td><sub><a href="https://youtu.be/fH2O8FN-DE4">Audio</a><</sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
