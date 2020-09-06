@@ -1,5 +1,7 @@
 # 华中科技大学化成天下
 
+参考资料：[链接一](https://dahouzi.cn/archives/187/)、[链接二]（https://dahouzi.cn/archives/189/）。里面时间并不准确，但是目前找不到更准确的资料。
+
 <table>
 
 <thead><tr>
