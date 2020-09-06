@@ -1,4 +1,4 @@
-# 华中科技大学化成天下列表
+# 华中科技大学化成天下
 
 <table>
 
@@ -62,17 +62,15 @@
     <th><sub></sub></th>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1078</sub></td>
     <td><sub></sub></td>
     <td><sub>鞠实儿</sub></td>
     <td><sub>逻辑学的未来</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/gUv_vfJFhLk">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>1079</sub></td>
