@@ -4168,7 +4168,7 @@
     <td><sub>1453</sub></td>
     <td><sub>2009-03-06</sub></td>
     <td><sub>朱学勤</sub></td>
-    <td><sub>这一天：一九七六年十月六日</sub></td>
+    <td><sub>改革开放三十年</sub></td>
     <td><sub><a href="https://youtu.be/jIh0P4VHW-Q">Audio</a></sub></td>
     <td><sub><a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200904192511/https://www.douban.com/event/10544040/">2019-9-4</a></sub></td>
