@@ -191,26 +191,6 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009-3-5</sub></td>
-    <td><sub>朱学勤</sub></td>
-    <td><sub>这一天：一九七六年十月六日</sub></td>
-    <td><sub><a href="https://www.youtube.com/watch?v=C3lj1hmhvS4&t">Audio</a></sub></td>
-    <td><sub>华中科技大学</sub></td>
-    <td><sub>化成天下第1452期，<a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200904192511/https://www.douban.com/event/10544040/">2019-9-4</a></sub></td>
-</tr></tbody>
-
-<tbody><tr>
-    <td><sub>2009-3-6</sub></td>
-    <td><sub>朱学勤</sub></td>
-    <td><sub>这一天：改革开放三十年</sub></td>
-    <td><sub><a href="https://www.youtube.com/watch?v=jIh0P4VHW-Q">Audio</a></sub></td>
-    <td><sub>华中科技大学</sub></td>
-    <td><sub>化成天下第1453期，<a href="https://www.douban.com/event/10544040/">豆瓣同城</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200904192511/https://www.douban.com/event/10544040/">2019-9-4</a></sub></td>
-</tr></tbody>
-
-<tbody><tr>
     <td><sub>2009-4-19</sub></td>
     <td><sub>秦晖</sub></td>
     <td><sub>断裂与联系——30年、60年、120年的中国历程</sub></td>
