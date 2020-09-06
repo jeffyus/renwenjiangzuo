@@ -74,7 +74,7 @@
 
 <tbody><tr>
     <td><sub>1079</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-09-22</sub></td>
     <td><sub>李昌平</sub></td>
     <td><sub>乡镇体制与农村制度体系重建</sub></td>
     <td><sub><a href="https://youtu.be/-NHFrBqjxTo">Audio</a></sub></td>
