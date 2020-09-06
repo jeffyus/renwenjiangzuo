@@ -491,10 +491,10 @@
 
 <tbody><tr>
     <td><sub>1118</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-01-02)</sub></td>
+    <td><sub>刘放桐</sub></td>
+    <td><sub>哲学上的革命变更和现代转型</sub></td>
+    <td><sub><a href="https://youtu.be/lb-A4niGjZ4">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -502,10 +502,10 @@
 
 <tbody><tr>
     <td><sub>1119</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-01-02)</sub></td>
+    <td><sub>刘放桐</sub></td>
+    <td><sub>马克思主义与杜威的实用主义</sub></td>
+    <td><sub><a href="https://youtu.be/f0zTXK6SuZM">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -524,10 +524,10 @@
 
 <tbody><tr>
     <td><sub>1121</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-06)</sub></td>
+    <td><sub>邓晓芒</sub></td>
+    <td><sub>中国人为什么没有信仰</sub></td>
+    <td><sub><a href="https://youtu.be/HKuXcauUz48">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -535,10 +535,10 @@
 
 <tbody><tr>
     <td><sub>1122</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-06)</sub></td>
+    <td><sub>杨叔子</sub></td>
+    <td><sub>科技发展的世纪回眸的前趋势与若干人文问题的思考</sub></td>
+    <td><sub><a href="https://youtu.be/dtfn5a8erM4">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
