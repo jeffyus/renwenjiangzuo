@@ -247,10 +247,10 @@
 
 <tbody><tr>
     <td><sub>1096</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-10)</sub></td>
+    <td><sub>陶东风</sub></td>
+    <td><sub>大话文学与当代中国的犬儒主义思潮</sub></td>
+    <td><sub><a href="https://youtu.be/XOXF0cN8dhc">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -258,10 +258,10 @@
 
 <tbody><tr>
     <td><sub>1097</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-10)</sub></td>
+    <td><sub>陶东风</sub></td>
+    <td><sub>文艺学学科的反思</sub></td>
+    <td><sub><a href="https://youtu.be/jvZNB7S98MY">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -269,9 +269,9 @@
 
 <tbody><tr>
     <td><sub>1098</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-10)</sub></td>
+    <td><sub>邓晓芒</sub></td>
+    <td><sub>西方伦理思想探源</sub></td>
     <td><sub></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
