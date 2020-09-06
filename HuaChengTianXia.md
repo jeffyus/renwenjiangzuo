@@ -1,6 +1,6 @@
 # 华中科技大学化成天下
 
-参考资料：[链接一](https://dahouzi.cn/archives/187/)、[链接二](https://dahouzi.cn/archives/189/) 。里面时间并不准确，似乎为原始mp3文件时间，但是目前找不到更准确的讲座时间。
+参考资料：[链接一](https://dahouzi.cn/archives/187/)、[链接二](https://dahouzi.cn/archives/189/) 。里面时间并不准确，似乎为原始音频归档时间，但是目前找不到更准确的讲座时间。采用此时间的条目会在时间上加注括号。对于已确定时间，则无括号。
 
 <table>
 
@@ -302,10 +302,10 @@
 
 <tbody><tr>
     <td><sub>1101</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-22)</sub></td>
+    <td><sub>张楚</sub></td>
+    <td><sub>信息网络中的若干规则</sub></td>
+    <td><sub><a href="https://youtu.be/up0ndVly7EA">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -313,10 +313,10 @@
 
 <tbody><tr>
     <td><sub>1102</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-22)</sub></td>
+    <td><sub>马治国</sub></td>
+    <td><sub>法学的功能以及对非法学专业素质培养的作用</sub></td>
+    <td><sub><a href="https://youtu.be/0aOOy2T2tF8">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
