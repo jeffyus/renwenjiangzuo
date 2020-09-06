@@ -415,7 +415,7 @@
     <td><sub>(2005-12-13)</sub></td>
     <td><sub>陈凡</sub></td>
     <td><sub>科技创新与科技人才</sub></td>
-    <td><sub><a href="https://youtu.be/oQYuZcU6qzo">Audio</a><</sub></td>
+    <td><sub><a href="https://youtu.be/oQYuZcU6qzo">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -426,7 +426,7 @@
     <td><sub>(2005-12-19)</sub></td>
     <td><sub>陈凡</sub></td>
     <td><sub>当代技术哲学的建制化及其转向</sub></td>
-    <td><sub><a href="https://youtu.be/fH2O8FN-DE4">Audio</a><</sub></td>
+    <td><sub><a href="https://youtu.be/fH2O8FN-DE4">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -434,10 +434,10 @@
 
 <tbody><tr>
     <td><sub>1113</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-19)</sub></td>
+    <td><sub>朱葆伟</sub></td>
+    <td><sub>科学技术与伦理责任</sub></td>
+    <td><sub><a href="https://youtu.be/JpmFtyuNL9w">Audio</a><</sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -445,10 +445,10 @@
 
 <tbody><tr>
     <td><sub>1114</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-19)</sub></td>
+    <td><sub>朱葆伟</sub></td>
+    <td><sub>高技术与社会公正</sub></td>
+    <td><sub><a href="https://youtu.be/SP6pLQ5754s">Audio</a><</sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -456,10 +456,10 @@
 
 <tbody><tr>
     <td><sub>1115</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-12-19)</sub></td>
+    <td><sub>吕忠梅</sub></td>
+    <td><sub>法学院与法院有多远</sub></td>
+    <td><sub><a href="https://youtu.be/K2KaYnz8rRE">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -467,10 +467,10 @@
 
 <tbody><tr>
     <td><sub>1116</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-01-02)</sub></td>
+    <td><sub>李醒民</sub></td>
+    <td><sub>爱因斯坦：伟大的人文的科学主义者和科学的人文主义者</sub></td>
+    <td><sub><a href="https://youtu.be/IEiKg40V1fM">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -478,10 +478,10 @@
 
 <tbody><tr>
     <td><sub>1117</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-01-02)</sub></td>
+    <td><sub>李醒民</sub></td>
+    <td><sub>诺贝尔自然科学奖与中国现实</sub></td>
+    <td><sub><a href="https://youtu.be/3a9W8oHQTuU">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
