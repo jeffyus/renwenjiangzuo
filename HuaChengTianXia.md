@@ -16,7 +16,7 @@
 
 <tbody><tr>
     <td><sub>1073</sub></td>
-    <td><sub>2005-06-23</sub></td>
+    <td><sub>(2005-06-23)</sub></td>
     <td><sub>蒙培元</sub></td>
     <td><sub>孔子哲学的原问题——-究天人之际</sub></td>
     <td><sub></sub></td>
@@ -46,7 +46,7 @@
 
 <tbody><tr>
     <td><sub>1076</sub></td>
-    <td><sub>2005-09-15</sub></td>
+    <td><sub>(2005-09-15)</sub></td>
     <td><sub>江晓原</sub></td>
     <td><sub>科学发展的历史图象-误导与重构 </sub></td>
     <td><sub><a href="https://youtu.be/NNHujTYaDIw">Audio</a></sub></td>
@@ -56,7 +56,7 @@
 
 <tbody><tr>
     <td><sub>1077</sub></td>
-    <td><sub>2005-09-16</sub></td>
+    <td><sub>(2005-09-16)</sub></td>
     <td><sub>江晓原</sub></td>
     <td><sub>中国人的性观念之演变</sub></td>
     <td><sub><a href="https://youtu.be/Xt31WXVVPMI">Audio</a></sub></td>
@@ -66,7 +66,7 @@
 
 <tbody><tr>
     <td><sub>1078</sub></td>
-    <td><sub>2005-09-21</sub></td>
+    <td><sub>(2005-09-21)</sub></td>
     <td><sub>鞠实儿</sub></td>
     <td><sub>逻辑学的未来</sub></td>
     <td><sub><a href="https://youtu.be/gUv_vfJFhLk">Audio</a></sub></td>
@@ -76,7 +76,7 @@
 
 <tbody><tr>
     <td><sub>1079</sub></td>
-    <td><sub>2005-09-22</sub></td>
+    <td><sub>(2005-09-22)</sub></td>
     <td><sub>李昌平</sub></td>
     <td><sub>乡镇体制与农村制度体系重建</sub></td>
     <td><sub><a href="https://youtu.be/-NHFrBqjxTo">Audio</a></sub></td>
@@ -86,7 +86,7 @@
 
 <tbody><tr>
     <td><sub>1080</sub></td>
-    <td><sub>2005-09-22</sub></td>
+    <td><sub>(2005-09-22)</sub></td>
     <td><sub>鞠实儿</sub></td>
     <td><sub>开放类逻辑</sub></td>
     <td><sub><a href="https://youtu.be/3YVYaVxYHOA">Audio</a></sub></td>
@@ -96,7 +96,7 @@
 
 <tbody><tr>
     <td><sub>1081</sub></td>
-    <td><sub>2005-09-22</sub></td>
+    <td><sub>(2005-09-22)</sub></td>
     <td><sub>翟振明</sub></td>
     <td><sub>克隆人涉及的形上学与伦理学问题</sub></td>
     <td><sub><a href="https://youtu.be/1nYE7QoPj6Q">Audio</a></sub></td>
@@ -106,7 +106,7 @@
 
 <tbody><tr>
     <td><sub>1082</sub></td>
-    <td><sub>2005-10-07</sub></td>
+    <td><sub>(2005-10-07)</sub></td>
     <td><sub>圣地亚</sub></td>
     <td><sub>美国的公共政策</sub></td>
     <td><sub><a href="https://youtu.be/indWrK7gW2o">Audio</a></sub></td>
@@ -116,7 +116,7 @@
 
 <tbody><tr>
     <td><sub>1083</sub></td>
-    <td><sub>2005-10-07</sub></td>
+    <td><sub>(2005-10-07)</sub></td>
     <td><sub>郑成思</sub></td>
     <td><sub>知识产权——基础研究、批评研究与对策研究</sub></td>
     <td><sub><a href="https://youtu.be/ZcuhvPG5C-g">Audio</a></sub></td>
@@ -126,7 +126,7 @@
 
 <tbody><tr>
     <td><sub>1084</sub></td>
-    <td><sub>2005-10-07</sub></td>
+    <td><sub>(2005-10-07)</sub></td>
     <td><sub>邴正</sub></td>
     <td><sub>当代中国文化的结构性矛盾</sub></td>
     <td><sub></sub></td>
@@ -136,7 +136,7 @@
 
 <tbody><tr>
     <td><sub>1085</sub></td>
-    <td><sub>2005-10-07</sub></td>
+    <td><sub>(2005-10-07)</sub></td>
     <td><sub>胡建淼</sub></td>
     <td><sub>法与人类文明</sub></td>
     <td><sub><a href="https://youtu.be/Z7ijJh8vNz4">Audio</a></sub></td>
@@ -146,7 +146,7 @@
 
 <tbody><tr>
     <td><sub>1086</sub></td>
-    <td><sub>2005-10-07</sub></td>
+    <td><sub>(2005-10-07)</sub></td>
     <td><sub>邴正</sub></td>
     <td><sub>发展观：和谐论与进化论的两难抉择</sub></td>
     <td><sub></sub></td>
@@ -156,7 +156,7 @@
 
 <tbody><tr>
     <td><sub>1087</sub></td>
-    <td><sub>2005-10-12</sub></td>
+    <td><sub>(2005-10-12)</sub></td>
     <td><sub>吴新雷</sub></td>
     <td><sub>人类文化遗产——昆曲的艺者的魅力</sub></td>
     <td><sub><a href="https://youtu.be/2wA2vHY9mEo">Audio</a></sub></td>
@@ -166,7 +166,7 @@
 
 <tbody><tr>
     <td><sub>1088</sub></td>
-    <td><sub>2005-10-12</sub></td>
+    <td><sub>(2005-10-12)</sub></td>
     <td><sub>吴新雷</sub></td>
     <td><sub>历史名剧桃花扇鉴赏</sub></td>
     <td><sub><a href="https://youtu.be/Vpv5NFkatFQ">Audio</a></sub></td>
@@ -176,7 +176,7 @@
 
 <tbody><tr>
     <td><sub>1089</sub></td>
-    <td><sub>2005-10-19</sub></td>
+    <td><sub>(2005-10-19)</sub></td>
     <td><sub>金吾仑</sub></td>
     <td><sub>创新是实现科学与人文相融合的重要途径</sub></td>
     <td><sub><a href="https://youtu.be/Dp4DYMKXOYo">Audio</a></sub></td>
@@ -186,7 +186,7 @@
 
 <tbody><tr>
     <td><sub>1090</sub></td>
-    <td><sub>2005-10-19</sub></td>
+    <td><sub>(2005-10-19)</sub></td>
     <td><sub>王初明</sub></td>
     <td><sub>补缺假设与外语学习</sub></td>
     <td><sub><a href="https://youtu.be/AwaqJxVx47Q">Audio</a></sub></td>
@@ -196,7 +196,7 @@
 
 <tbody><tr>
     <td><sub>1091</sub></td>
-    <td><sub>2005-10-19</sub></td>
+    <td><sub>(2005-10-19)</sub></td>
     <td><sub>阎康年</sub></td>
     <td><sub>牛顿的科学成就</sub></td>
     <td><sub><a href="https://youtu.be/G8ES_TqKlr8">Audio</a></sub></td>
@@ -206,7 +206,7 @@
 
 <tbody><tr>
     <td><sub>1092</sub></td>
-    <td><sub>2005-10-19</sub></td>
+    <td><sub>(2005-10-19)</sub></td>
     <td><sub>阎康年</sub></td>
     <td><sub>贝尔实验室成功之道</sub></td>
     <td><sub><a href="https://youtu.be/3KoDCjh-UaA">Audio</a></sub></td>
@@ -216,7 +216,7 @@
 
 <tbody><tr>
     <td><sub>1093</sub></td>
-    <td><sub>2005-10-27</sub></td>
+    <td><sub>(2005-10-27)</sub></td>
     <td><sub>陈静</sub></td>
     <td><sub>儒家伦理的历史解释和现代评价</sub></td>
     <td><sub><a href="https://youtu.be/R8zL8SZO2qc">Audio</a></sub></td>
@@ -230,16 +230,16 @@
     <td><sub>邓正来</sub></td>
     <td><sub>学问人生</sub></td>
     <td><sub><a href="https://youtu.be/8TtzHHpe6Og">Audio</a></sub></td>
-    <th><sub>时间确认</sub></th>
+    <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>1095</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-10-28)</sub></td>
+    <td><sub>陈静</sub></td>
+    <td><sub>中国哲学的宇宙理论与中国传统社会的形成 </sub></td>
+    <td><sub><a href="https://youtu.be/q79L12VhnZE">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
