@@ -4735,23 +4735,23 @@
 
 <tbody><tr>
     <td><sub>1505</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2009-6-12</sub></td>
+    <td><sub>袁伟时</sub></td>
+    <td><sub>五四：传承正义，铭记教训</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=49EazRuPNNM">Audio</a></sub></td>
+    <td><sub><a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">2020-9-4</a></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1506</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2009-6-12</sub></td>
+    <td><sub>袁伟时</sub></td>
+    <td><sub>新文化运动几个争议问题管窥</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=kekxDR868-0">Audio</a></sub></td>
+    <td><sub><a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">2020-9-4</a></sub></td>
 </tr></tbody>
 
 
@@ -4768,10 +4768,10 @@
 
 <tbody><tr>
     <td><sub>1508</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2009-6-18)</sub></td>
+    <td><sub>张希清</sub></td>
+    <td><sub>科举制度与中国文化</sub></td>
+    <td><sub><a href="https://youtu.be/YK4n5jCu6o4">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -5077,10 +5077,10 @@
 
 <tbody><tr>
     <td><sub>1536</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2009-11-6)</sub></td>
+    <td><sub>王曾瑜</sub></td>
+    <td><sub>从宋代的政治看中国古代的专制主义</sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=o2_3LuffoSY">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
