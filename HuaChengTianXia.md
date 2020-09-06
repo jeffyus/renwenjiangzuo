@@ -600,10 +600,10 @@
 
 <tbody><tr>
     <td><sub>1128</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-25)</sub></td>
+    <td><sub>许纪霖</sub></td>
+    <td><sub>中国知识分子的公共生活</sub></td>
+    <td><sub><a href="https://youtu.be/nekSzXWssAE">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -611,10 +611,10 @@
 
 <tbody><tr>
     <td><sub>1129</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-27)</sub></td>
+    <td><sub>许纪霖</sub></td>
+    <td><sub>中国的大学招生与精英流动</sub></td>
+    <td><sub><a href="https://youtu.be/XEFN0fhuxdg">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -622,9 +622,9 @@
 
 <tbody><tr>
     <td><sub>1130</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-28)</sub></td>
+    <td><sub>李培根</sub></td>
+    <td><sub>谈天、说地、做人</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
