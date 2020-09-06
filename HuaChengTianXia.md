@@ -280,10 +280,10 @@
 
 <tbody><tr>
     <td><sub>1099</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-10)</sub></td>
+    <td><sub>赵振宇</sub></td>
+    <td><sub>说了不白说——-论公民知情权和决定权</sub></td>
+    <td><sub><a href="https://youtu.be/Ttxa6bgBmEk">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -291,10 +291,10 @@
 
 <tbody><tr>
     <td><sub>1100</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-22)</sub></td>
+    <td><sub>胡智锋</sub></td>
+    <td><sub>五种视角看中国电视</sub></td>
+    <td><sub><a href="https://youtu.be/rPenXN449cs">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
