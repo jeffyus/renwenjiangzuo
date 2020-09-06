@@ -344,8 +344,38 @@
 </tr></thead>
 
 <tbody><tr>
-    <td><sub>1076</sub></td>
+    <td><sub>1073</sub></td>
+    <td><sub>2005-06-23</sub></td>
+    <td><sub>蒙培元</sub></td>
+    <td><sub>孔子哲学的原问题——-究天人之际</sub></td>
     <td><sub></sub></td>
+    <th><sub></sub></th>
+    <th><sub></sub></th>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>1074</sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <th><sub></sub></th>
+    <th><sub></sub></th>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>1075</sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <th><sub></sub></th>
+    <th><sub></sub></th>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>1076</sub></td>
+    <td><sub>2005-09-15</sub></td>
     <td><sub>江晓原</sub></td>
     <td><sub>科学发展的历史图象-误导与重构 </sub></td>
     <td><sub><a href="https://youtu.be/NNHujTYaDIw">Audio</a></sub></td>
@@ -355,10 +385,10 @@
 
 <tbody><tr>
     <td><sub>1077</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-09-16</sub></td>
     <td><sub>江晓原</sub></td>
     <td><sub>中国人的性观念之演变</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/Xt31WXVVPMI">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
