@@ -114,19 +114,19 @@
 
 <tbody><tr>
     <td><sub>1083</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-07</sub></td>
+    <td><sub>郑成思</sub></td>
+    <td><sub>知识产权——基础研究、批评研究与对策研究</sub></td>
+    <td><sub><a href="https://youtu.be/ZcuhvPG5C-g">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>1084</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-07</sub></td>
+    <td><sub>邴正</sub></td>
+    <td><sub>当代中国文化的结构性矛盾</sub></td>
     <td><sub></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
