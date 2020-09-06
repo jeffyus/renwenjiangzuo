@@ -578,10 +578,10 @@
 
 <tbody><tr>
     <td><sub>1126</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-18)</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>俄国解密档案与朝鲜战争的起源</sub></td>
+    <td><sub><a href="https://youtu.be/Q8gSTNBfPE4">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -589,10 +589,10 @@
 
 <tbody><tr>
     <td><sub>1127</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-18)</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>中苏分裂的真实原因和内在逻辑</sub></td>
+    <td><sub><a href="https://youtu.be/hFfDK4hMefY">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -995,9 +995,9 @@
 
 <tbody><tr>
     <td><sub>1164</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2006-06-14</sub></td>
+    <td><sub>余虹</sub></td>
+    <td><sub>当代审美文化的精神流向</sub></td>
     <td><sub></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
