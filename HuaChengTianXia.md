@@ -64,7 +64,7 @@
 
 <tbody><tr>
     <td><sub>1078</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-09-21</sub></td>
     <td><sub>鞠实儿</sub></td>
     <td><sub>逻辑学的未来</sub></td>
     <td><sub><a href="https://youtu.be/gUv_vfJFhLk">Audio</a></sub></td>
@@ -77,7 +77,7 @@
     <td><sub></sub></td>
     <td><sub>李昌平</sub></td>
     <td><sub>乡镇体制与农村制度体系重建</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/-NHFrBqjxTo">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
