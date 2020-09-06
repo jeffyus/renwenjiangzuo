@@ -176,20 +176,20 @@
 
 <tbody><tr>
     <td><sub>1089</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-19</sub></td>
+    <td><sub>金吾仑</sub></td>
+    <td><sub>创新是实现科学与人文相融合的重要途径</sub></td>
+    <td><sub><a href="https://youtu.be/Dp4DYMKXOYo">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>1090</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-19</sub></td>
+    <td><sub>王初明</sub></td>
+    <td><sub>补缺假设与外语学习</sub></td>
+    <td><sub><a href="https://youtu.be/AwaqJxVx47Q">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
