@@ -346,10 +346,10 @@
 
 <tbody><tr>
     <td><sub>1105</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-29)</sub></td>
+    <td><sub>孟建伟</sub></td>
+    <td><sub>科学精神与人文精神</sub></td>
+    <td><sub><a href="https://youtu.be/nOYUV1la2Ok">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -357,10 +357,10 @@
 
 <tbody><tr>
     <td><sub>1106</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-29)</sub></td>
+    <td><sub>高华</sub></td>
+    <td><sub>谈谈抗战历史的几个问题</sub></td>
+    <td><sub><a href="https://youtu.be/_GHoFbmi6YE">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
