@@ -196,30 +196,30 @@
 
 <tbody><tr>
     <td><sub>1091</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-19</sub></td>
+    <td><sub>阎康年</sub></td>
+    <td><sub>牛顿的科学成就</sub></td>
+    <td><sub><a href="https://youtu.be/G8ES_TqKlr8">Audio</a><</sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>1092</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-19</sub></td>
+    <td><sub>阎康年</sub></td>
+    <td><sub>贝尔实验室成功之道</sub></td>
+    <td><sub><a href="https://youtu.be/3KoDCjh-UaA">Audio</a><</sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>1093</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-27</sub></td>
+    <td><sub>陈静</sub></td>
+    <td><sub>儒家伦理的历史解释和现代评价</sub></td>
+    <td><sub><a href="https://youtu.be/R8zL8SZO2qc">Audio</a><</sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
