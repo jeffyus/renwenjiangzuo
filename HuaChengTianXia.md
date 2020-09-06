@@ -146,9 +146,9 @@
 
 <tbody><tr>
     <td><sub>1086</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-07</sub></td>
+    <td><sub>邴正</sub></td>
+    <td><sub>发展观：和谐论与进化论的两难抉择</sub></td>
     <td><sub></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
@@ -156,10 +156,10 @@
 
 <tbody><tr>
     <td><sub>1087</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-12</sub></td>
+    <td><sub>吴新雷</sub></td>
+    <td><sub>人类文化遗产——昆曲的艺者的魅力</sub></td>
+    <td><sub><a href="https://youtu.be/2wA2vHY9mEo">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
