@@ -96,7 +96,7 @@
     <td><sub>1081</sub></td>
     <td><sub>2005-09-22</sub></td>
     <td><sub>翟振明</sub></td>
-    <td><sub></sub></td>
+    <td><sub>克隆人涉及的形上学与伦理学问题</sub></td>
     <td><sub><a href="https://youtu.be/1nYE7QoPj6Q">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
@@ -104,10 +104,10 @@
 
 <tbody><tr>
     <td><sub>1082</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2005-10-07</sub></td>
+    <td><sub>圣地亚</sub></td>
+    <td><sub>美国的公共政策</sub></td>
+    <td><sub><a href="https://youtu.be/indWrK7gW2o">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
