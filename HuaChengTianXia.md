@@ -324,10 +324,10 @@
 
 <tbody><tr>
     <td><sub>1103</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-22)</sub></td>
+    <td><sub>吴彤</sub></td>
+    <td><sub>我国公众科学素质建设历程及反思</sub></td>
+    <td><sub><a href="https://youtu.be/lCO3uvymqxk">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -335,10 +335,10 @@
 
 <tbody><tr>
     <td><sub>1104</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-11-22)</sub></td>
+    <td><sub>吴彤</sub></td>
+    <td><sub>科学实践哲学新观点</sub></td>
+    <td><sub><a href="https://youtu.be/R6vNPlcZ80E">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
