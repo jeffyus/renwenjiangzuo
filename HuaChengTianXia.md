@@ -546,20 +546,20 @@
 
 <tbody><tr>
     <td><sub>1123</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-06)</sub></td>
+    <td><sub>高井洁司</sub></td>
+    <td><sub>日中关系与新闻报道</sub></td>
+    <td><sub><a href="https://youtu.be/DQy05YIWTXI">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>1124</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-14)</sub></td>
+    <td><sub>廖平胜</sub></td>
+    <td><sub>考试与人类社会发展</sub></td>
+    <td><sub><a href="https://youtu.be/F44YXzBVfGI">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
@@ -567,10 +567,10 @@
 
 <tbody><tr>
     <td><sub>1125</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-03-14)</sub></td>
+    <td><sub>沈红</sub></td>
+    <td><sub>国际比较视野下的学费与学生资助</sub></td>
+    <td><sub><a href="https://youtu.be/bcRQlun8BOk">Audio</a></sub></td>
     <th><sub></sub></th>
     <th><sub></sub></th>
 </tr></tbody>
