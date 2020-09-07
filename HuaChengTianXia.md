@@ -89,9 +89,9 @@
 
 <tbody><tr>
     <td><sub>1017</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-18)</sub></td>
+    <td><sub>葛剑雄</sub></td>
+    <td><sub>在非洲看历史文明</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -100,9 +100,9 @@
 
 <tbody><tr>
     <td><sub>1018</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-18)</sub></td>
+    <td><sub>葛剑雄</sub></td>
+    <td><sub>中国历代疆域的变迁及其现实意义</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -111,9 +111,9 @@
 
 <tbody><tr>
     <td><sub>1019</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-18)</sub></td>
+    <td><sub>葛剑雄</sub></td>
+    <td><sub>十三亿中国人的意义</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -122,9 +122,9 @@
 
 <tbody><tr>
     <td><sub>1020</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-18)</sub></td>
+    <td><sub>郭齐勇</sub></td>
+    <td><sub>关于儒家伦理的哲学与法学思考</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -133,9 +133,9 @@
 
 <tbody><tr>
     <td><sub>1021</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-18)</sub></td>
+    <td><sub>邓晓芒</sub></td>
+    <td><sub>康德的道德哲学</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -144,9 +144,9 @@
 
 <tbody><tr>
     <td><sub>1022</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-18)</sub></td>
+    <td><sub>涂又光</sub></td>
+    <td><sub>和谐与矛盾</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
