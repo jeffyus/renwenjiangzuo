@@ -222,44 +222,44 @@
 
 <tbody><tr>
     <td><sub>1029</sub></td>
-    <td><sub>(2005-04-04)</sub></td>
+    <td><sub>2005-04-02</sub></td>
     <td><sub>秦晖</sub></td>
     <td><sub>文明何以会冲突?文化怎样去保守? </sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1030</sub></td>
-    <td><sub>(2005-04-04)</sub></td>
+    <td><sub>2005-04-03</sub></td>
     <td><sub>秦晖</sub></td>
     <td><sub>中国人和美国人的问题意识</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1031</sub></td>
-    <td><sub>(2005-04-05)</sub></td>
+    <td><sub>2005-04-04</sub></td>
     <td><sub>金雁</sub></td>
     <td><sub>俄国政治文化中的传统与现代性</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1032</sub></td>
-    <td><sub>(2005-04-06)</sub></td>
+    <td><sub>2005-04-05</sub></td>
     <td><sub>金雁</sub></td>
     <td><sub>乌克兰大选风波背后的历史渊源</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
