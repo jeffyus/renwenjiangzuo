@@ -155,9 +155,9 @@
 
 <tbody><tr>
     <td><sub>1023</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-26)</sub></td>
+    <td><sub>张丽芳</sub></td>
+    <td><sub>大学生思维方式的国际比较</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -177,9 +177,9 @@
 
 <tbody><tr>
     <td><sub>1025</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-28)</sub></td>
+    <td><sub>张良皋</sub></td>
+    <td><sub>金陵十二钗—-《红楼梦中的超前女性》</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -188,9 +188,9 @@
 
 <tbody><tr>
     <td><sub>1026</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-03-26)</sub></td>
+    <td><sub>梁木生</sub></td>
+    <td><sub>迈向民主的经济分析</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -211,9 +211,9 @@
 
 <tbody><tr>
     <td><sub>1028</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-02)</sub></td>
+    <td><sub>卓南生</sub></td>
+    <td><sub>从《每日新安保》到《反分裂国家法》</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -222,9 +222,9 @@
 
 <tbody><tr>
     <td><sub>1029</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-04)</sub></td>
+    <td><sub>秦晖</sub></td>
+    <td><sub>文明何以会冲突?文化怎样去保守? </sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -233,9 +233,9 @@
 
 <tbody><tr>
     <td><sub>1030</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-04)</sub></td>
+    <td><sub>秦晖</sub></td>
+    <td><sub>中国人和美国人的问题意识</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -244,9 +244,9 @@
 
 <tbody><tr>
     <td><sub>1031</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-05)</sub></td>
+    <td><sub>金雁</sub></td>
+    <td><sub>俄国政治文化中的传统与现代性</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -255,9 +255,9 @@
 
 <tbody><tr>
     <td><sub>1032</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-06)</sub></td>
+    <td><sub>金雁</sub></td>
+    <td><sub>乌克兰大选风波背后的历史渊源</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
