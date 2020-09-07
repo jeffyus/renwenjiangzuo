@@ -3,13 +3,13 @@
 <table>
     
 <thead><tr>
-    <th><sub>时间</sub></th>
-    <th><sub>演讲人</sub></th>
-    <th><sub>题目</sub></th>
-    <th><sub>链接</sub></th>
-    <th><sub>简介</sub></th>
-    <th><sub>相关链接及备注</sub></th>
-    <th><sub>WebArchive</sub></th>
+    <th width=100><sub>时间</sub></th>
+    <th width=80><sub>演讲人</sub></th>
+    <th width=500><sub>题目</sub></th>
+    <th width=80><sub>链接</sub></th>
+    <th width=1000><sub>简介</sub></th>
+    <th width=200><sub>相关链接及备注</sub></th>
+    <th width=90><sub>WebArchive</sub></th>
 </tr></thead>
 
 
