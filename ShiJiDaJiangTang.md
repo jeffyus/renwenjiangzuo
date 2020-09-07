@@ -19,7 +19,7 @@
     <td><sub>展望新千年的中国经济</sub></td>
     <td><sub><a href="https://youtu.be/iAjCDI9SZV8">Video</a></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/1944.html">爱思想</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20150323132623/http://www.aisixiang.com/data/1944.html">2015-3-23</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
