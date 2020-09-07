@@ -9,7 +9,7 @@
     <th width=80><sub>链接</sub></th>
     <th width=800><sub>简介</sub></th>
     <th width=220><sub>相关链接及备注</sub></th>
-    <th width=90><sub>WebArchive</sub></th>
+    <th width=88><sub>WebArchive</sub></th>
 </tr></thead>
 
 
