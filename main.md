@@ -37,7 +37,7 @@
     <td><sub><a href="https://youtu.be/BJKLXMjxU1U">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35892">重读共和国史系列（1/13）</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200905160147/https://archives.ust.hk/dspace/handle/9999/35892">2020-9-5</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907103921/https://archives.ust.hk/dspace/handle/9999/35892">2020-9-7</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
