@@ -354,7 +354,7 @@
 
 
 <tbody><tr>
-    <td><sub>1041</sub></td>
+    <td><sub>1042</sub></td>
     <td><sub>(2005-04-27)</sub></td>
     <td><sub>周宁</sub></td>
     <td><sub>天地大舞台——义和团运动戏剧性格的文化启示</sub></td>
@@ -366,9 +366,9 @@
 
 <tbody><tr>
     <td><sub>1042</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-12)</sub></td>
+    <td><sub>周志忍</sub></td>
+    <td><sub>发达国家政府绩效管理</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -377,9 +377,9 @@
 
 <tbody><tr>
     <td><sub>1043</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-12)</sub></td>
+    <td><sub>龚群</sub></td>
+    <td><sub>西方伦理智慧</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -388,9 +388,9 @@
 
 <tbody><tr>
     <td><sub>1044</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-12)</sub></td>
+    <td><sub>杨帆</sub></td>
+    <td><sub>中国改革之争</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -399,9 +399,9 @@
 
 <tbody><tr>
     <td><sub>1045</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-12)</sub></td>
+    <td><sub>叶青</sub></td>
+    <td><sub>中部崛起与构建和谐社会</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -410,9 +410,9 @@
 
 <tbody><tr>
     <td><sub>1046</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-12)</sub></td>
+    <td><sub>朱学勤</sub></td>
+    <td><sub>从文化革命到“文化革命”（一）</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -421,9 +421,9 @@
 
 <tbody><tr>
     <td><sub>1047</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-12)</sub></td>
+    <td><sub>朱学勤</sub></td>
+    <td><sub>从文化革命到“文化革命”（二）</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
