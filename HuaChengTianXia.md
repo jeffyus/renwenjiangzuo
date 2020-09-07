@@ -322,9 +322,9 @@
 
 <tbody><tr>
     <td><sub>1038</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-26)</sub></td>
+    <td><sub>夏杰长</sub></td>
+    <td><sub>和谐社会视角下的财税政策新选择</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -333,9 +333,9 @@
 
 <tbody><tr>
     <td><sub>1039</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-26)</sub></td>
+    <td><sub>郭寿康</sub></td>
+    <td><sub>中国及国际知识产权保护回顾与展望</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -344,9 +344,9 @@
 
 <tbody><tr>
     <td><sub>1040</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-26)</sub></td>
+    <td><sub>周宁</sub></td>
+    <td><sub>二十世纪西方的中国形象</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -355,9 +355,9 @@
 
 <tbody><tr>
     <td><sub>1041</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-27)</sub></td>
+    <td><sub>周宁</sub></td>
+    <td><sub>天地大舞台——义和团运动戏剧性格的文化启示</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
