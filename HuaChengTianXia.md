@@ -1,8 +1,6 @@
 # 华中科技大学化成天下
 
-参考资料：[链接一](https://dahouzi.cn/archives/187/)、[链接二](https://dahouzi.cn/archives/189/) 。里面时间并不准确，似乎为原始音频归档时间，但是目前找不到更准确的讲座时间。采用此时间的条目会在时间上加注括号。对于已确定时间，则无括号。
-
-[化成天下网页快照](https://web.archive.org/web/20190811030149/http://uzone.univs.cn/schNewsList.action?univId=2566&fId=1733&sId=4462)
+参考资料：[链接一](https://dahouzi.cn/archives/187/)、[链接二](https://dahouzi.cn/archives/189/)、[化成天下网页快照](https://web.archive.org/web/20190811030149/http://uzone.univs.cn/schNewsList.action?univId=2566&fId=1733&sId=4462) 。里面时间并不准确，似乎为原始音频归档时间，但是目前找不到更准确的讲座时间。采用此时间的条目会在时间上加注括号。对于已确定时间，则无括号。
 
 <table>
 
