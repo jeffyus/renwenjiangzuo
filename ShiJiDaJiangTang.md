@@ -6,7 +6,7 @@
     <th width=100><sub>时间</sub></th>
     <th width=80><sub>演讲人</sub></th>
     <th width=500><sub>题目</sub></th>
-    <th width=80><sub>链接</sub></th>
+    <th width=60><sub>链接</sub></th>
     <th width=800><sub>简介</sub></th>
     <th width=220><sub>相关链接及备注</sub></th>
     <th width=88><sub>WebArchive</sub></th>
