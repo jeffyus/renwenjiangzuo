@@ -227,7 +227,7 @@
     <td><sub>文明何以会冲突?文化怎样去保守? </sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
 </tr></tbody>
 
 
@@ -238,7 +238,7 @@
     <td><sub>中国人和美国人的问题意识</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
 </tr></tbody>
 
 
@@ -249,7 +249,7 @@
     <td><sub>俄国政治文化中的传统与现代性</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
 </tr></tbody>
 
 
@@ -260,7 +260,7 @@
     <td><sub>乌克兰大选风波背后的历史渊源</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
 </tr></tbody>
 
 
