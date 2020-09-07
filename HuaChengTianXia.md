@@ -266,9 +266,9 @@
 
 <tbody><tr>
     <td><sub>1033</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-06)</sub></td>
+    <td><sub>曹锦清</sub></td>
+    <td><sub>社会转型与三农问题</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -277,9 +277,9 @@
 
 <tbody><tr>
     <td><sub>1034</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-12)</sub></td>
+    <td><sub>孔庆东</sub></td>
+    <td><sub>鲁迅的智慧</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -288,9 +288,9 @@
 
 <tbody><tr>
     <td><sub>1035</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-18)</sub></td>
+    <td><sub>孔庆东</sub></td>
+    <td><sub>老舍的大众化意义</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -299,9 +299,9 @@
 
 <tbody><tr>
     <td><sub>1036</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-04-19)</sub></td>
+    <td><sub>孙立平</sub></td>
+    <td><sub>断裂——中国社会结构演变新趋势</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -310,12 +310,13 @@
 
 <tbody><tr>
     <td><sub>1037</sub></td>
+    <td><sub>(2005-04-19)</sub></td>
+    <td><sub>孙立平</sub></td>
+    <td><sub>实践社会学与社会转型研究</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+</tr></tbody>
 </tr></tbody>
 
 
