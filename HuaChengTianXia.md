@@ -226,7 +226,7 @@
     <td><sub>秦晖</sub></td>
     <td><sub>文明何以会冲突?文化怎样去保守? </sub></td>
     <td><sub></sub></td>
-    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
+    <td><sub><a href="(http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
@@ -237,7 +237,7 @@
     <td><sub>秦晖</sub></td>
     <td><sub>中国人和美国人的问题意识</sub></td>
     <td><sub></sub></td>
-    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
+    <td><sub><a href="(http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
@@ -248,7 +248,7 @@
     <td><sub>金雁</sub></td>
     <td><sub>俄国政治文化中的传统与现代性</sub></td>
     <td><sub></sub></td>
-    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
+    <td><sub><a href="(http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
@@ -259,7 +259,7 @@
     <td><sub>金雁</sub></td>
     <td><sub>乌克兰大选风波背后的历史渊源</sub></td>
     <td><sub></sub></td>
-    <td><sub>[秦晖、金雁伉俪武汉讲座](http://bbs.tianya.cn/post-373-263-1.shtml)</sub></td>
+    <td><sub><a href="(http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
