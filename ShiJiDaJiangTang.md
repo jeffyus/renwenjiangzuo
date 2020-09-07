@@ -14,11 +14,11 @@
 </tr></thead>
 
 <tbody><tr>
-    <td><sub>（2001）第一部第1集</sub></td>
+    <td><sub>早于2001-01-10</sub></td>
     <td><sub>林毅夫</sub></td>
     <td><sub>展望新千年的中国经济</sub></td>
     <td><sub><a href="https://youtu.be/iAjCDI9SZV8">Video</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/1944.html">爱思想</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
