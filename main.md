@@ -17,7 +17,7 @@
     <td><sub><a href="https://youtu.be/YCsrdyDhi9w">Video</a></sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">部级领导干部历史文化讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200904230537/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">2020-9-4</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907103535/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">2020-9-7</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -27,7 +27,7 @@
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">部级领导干部历史文化讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200904230537/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">2020-9-4</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907103535/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">2020-9-7</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
