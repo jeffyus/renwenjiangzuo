@@ -27,8 +27,8 @@
     <td><sub>吴志攀</sub></td>
     <td><sub>国际化下的金融与法律</sub></td>
     <td><sub><a href="https://youtu.be/ykNPig_P1ds">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/1886.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200223005737/http://www.aisixiang.com/data/1886.html">2020-02-23</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
 </tr></tbody>
 
 
@@ -37,8 +37,8 @@
     <td><sub>郑晓瑛</sub></td>
     <td><sub>出生缺陷乾预工程（中国人口出生素质现状与分析）</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/1886.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200223005737/http://www.aisixiang.com/data/1886.html">2020-02-23</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
