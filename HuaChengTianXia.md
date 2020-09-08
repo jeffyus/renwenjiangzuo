@@ -1342,7 +1342,7 @@
 
 <tbody><tr>
     <td><sub>1133</sub></td>
-    <td><sub><(2006-04-04)/sub></td>
+    <td><sub>(2006-04-04)</sub></td>
     <td><sub>黄韬</sub></td>
     <td><sub>从医学看决策的艺术</sub></td>
     <td><sub></sub></td>
@@ -1430,6 +1430,28 @@
 
 <tbody><tr>
     <td><sub>1141</sub></td>
+    <td><sub>(2006-04-25)</sub></td>
+    <td><sub>陈卫平</sub></td>
+    <td><sub>儒家礼乐文明与近代都市文化互补</sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+
+<tbody><tr>
+    <td><sub>1142</sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+
+<tbody><tr>
+    <td><sub>1143</sub></td>
     <td><sub>(2006-04-23)</sub></td>
     <td><sub>曹顺庆</sub></td>
     <td><sub>文明冲突和文明对话</sub></td>
@@ -1440,7 +1462,18 @@
 
 
 <tbody><tr>
-    <td><sub>1142</sub></td>
+    <td><sub>1144</sub></td>
+    <td><sub>(2006-04-25)</sub></td>
+    <td><sub>方方</sub></td>
+    <td><sub>我与文学</sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+
+<tbody><tr>
+    <td><sub>1145</sub></td>
     <td><sub>(2006-04-23)</sub></td>
     <td><sub>曹顺庆</sub></td>
     <td><sub>没有学术大师的时代</sub></td>
@@ -1451,43 +1484,10 @@
 
 
 <tbody><tr>
-    <td><sub>1143</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-</tr></tbody>
-
-
-<tbody><tr>
-    <td><sub>1144</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-</tr></tbody>
-
-
-<tbody><tr>
-    <td><sub>1145</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-</tr></tbody>
-
-
-<tbody><tr>
     <td><sub>1146</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>鄢烈山</sub></td>
+    <td><sub>关于改革的共识</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1496,9 +1496,9 @@
 
 <tbody><tr>
     <td><sub>1147</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>王绍光</sub></td>
+    <td><sub>国家基本制度的重建</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1507,9 +1507,9 @@
 
 <tbody><tr>
     <td><sub>1148</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>邹诗鹏</sub></td>
+    <td><sub>当下时代的精神处境</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1518,9 +1518,9 @@
 
 <tbody><tr>
     <td><sub>1149</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>涂光晋</sub></td>
+    <td><sub>公共关系传播与危机管理</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1529,9 +1529,9 @@
 
 <tbody><tr>
     <td><sub>1150</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>王绍光</sub></td>
+    <td><sub>国家能力、政策导向与医疗卫生公平</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1539,10 +1539,10 @@
 
 <tbody><tr>
     <td><sub>1151</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>徐长福</sub></td>
+    <td><sub>理想为何难以实现？——“文革”启示之一</sub></td>
+    <td><sub><a href="https://youtu.be/XJZHeKi5hi0">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1550,10 +1550,10 @@
 
 <tbody><tr>
     <td><sub>1152</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>徐长福</sub></td>
+    <td><sub>怎样把人当人看？——“文革”启示之二一</sub></td>
+    <td><sub><a href="https://youtu.be/h66SetnvPsw">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1561,9 +1561,9 @@
 
 <tbody><tr>
     <td><sub>1153</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-19)</sub></td>
+    <td><sub>朱立</sub></td>
+    <td><sub>形象﹑国际形象与国际传播</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1572,9 +1572,9 @@
 
 <tbody><tr>
     <td><sub>1154</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-19)</sub></td>
+    <td><sub>朱孝远</sub></td>
+    <td><sub>为什么欧洲文艺复兴要从但丁开始</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1583,9 +1583,9 @@
 
 <tbody><tr>
     <td><sub>1155</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-19)</sub></td>
+    <td><sub>朱孝远</sub></td>
+    <td><sub>路德改教与农民革命</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
