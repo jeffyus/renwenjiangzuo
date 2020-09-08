@@ -11864,12 +11864,12 @@
 
 <tbody><tr>
     <td><sub>2092</sub></td>
+    <td><sub>2015-12-28</sub></td>
+    <td><sub>马勇</sub></td>
+    <td><sub>文明是这样冲突的</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:TwyUUURsKKAJ:www.dabpb.com/info/1004/19216.htm+&cd=2&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td>
 </tr></tbody>
 
 
