@@ -1320,9 +1320,9 @@
 
 <tbody><tr>
     <td><sub>1131</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-03)</sub></td>
+    <td><sub>刘洪一</sub></td>
+    <td><sub>犹太人与世界——一个文化命题及启发</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1331,9 +1331,9 @@
 
 <tbody><tr>
     <td><sub>1132</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>高小康</sub></td>
+    <td><sub>城市文化的美学思考</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1342,9 +1342,9 @@
 
 <tbody><tr>
     <td><sub>1133</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><(2006-04-04)/sub></td>
+    <td><sub>黄韬</sub></td>
+    <td><sub>从医学看决策的艺术</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1353,9 +1353,9 @@
 
 <tbody><tr>
     <td><sub>1134</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>俞兆平</sub></td>
+    <td><sub>美学的浪漫主义与政治学的浪漫主义</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1364,9 +1364,9 @@
 
 <tbody><tr>
     <td><sub>1135</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>俞兆平</sub></td>
+    <td><sub>中国现代文学古典主义思潮的历史定位</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1375,9 +1375,9 @@
 
 <tbody><tr>
     <td><sub>1136</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-08)</sub></td>
+    <td><sub>张庭国</sub></td>
+    <td><sub>家乡世界和他乡世界</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1386,9 +1386,9 @@
 
 <tbody><tr>
     <td><sub>1137</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>赵振宇</sub></td>
+    <td><sub>民主进程中的程序化建设</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1397,9 +1397,9 @@
 
 <tbody><tr>
     <td><sub>1138</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-17)</sub></td>
+    <td><sub>王树人</sub></td>
+    <td><sub>中西视野下的象思维与原创性问题</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1408,9 +1408,9 @@
 
 <tbody><tr>
     <td><sub>1139</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-17)</sub></td>
+    <td><sub>王树人</sub></td>
+    <td><sub>哲学之门——-老树半生为学的体会</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1419,9 +1419,9 @@
 
 <tbody><tr>
     <td><sub>1140</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-17)</sub></td>
+    <td><sub>吴青华</sub></td>
+    <td><sub>东西方价值观差异及其对创新能力影响</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1430,9 +1430,9 @@
 
 <tbody><tr>
     <td><sub>1141</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-23)</sub></td>
+    <td><sub>曹顺庆</sub></td>
+    <td><sub>文明冲突和文明对话</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1441,9 +1441,9 @@
 
 <tbody><tr>
     <td><sub>1142</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-23)</sub></td>
+    <td><sub>曹顺庆</sub></td>
+    <td><sub>没有学术大师的时代</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
