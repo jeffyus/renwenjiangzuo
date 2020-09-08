@@ -43,6 +43,15 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>早于2001-02-23</sub></td>
+    <td><sub>萧佐</sub></td>
+    <td><sub>空间科技与人类文明</sub></td>
+    <td><sub><a href="https://youtu.be/mWqIIY3FHZ0">Video</a></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/2085.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2085.html">2020-02-23</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2004-02-23</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>从文化革命到“文化革命”</sub></td>
@@ -53,7 +62,7 @@
 
 
 <tbody><tr>
-    <td><sub>2004-04-12</sub></td>
+    <td><sub>早于2004-04-10</sub></td>
     <td><sub>胡展奋</sub></td>
     <td><sub>来自职业乞丐的调查报告</sub></td>
     <td><sub><a href="https://youtu.be/pHcuCu5RzY0">Video</a></sub></td>
