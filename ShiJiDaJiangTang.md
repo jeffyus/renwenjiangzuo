@@ -1,6 +1,7 @@
 ## 世纪大讲堂
 
-[节目列表](http://apps.lib.whu.edu.cn/film/film.ASP?typeid=9)
+[节目列表1](http://apps.lib.whu.edu.cn/film/film.ASP?typeid=9)
+[节目列表2](http://wap.sciencenet.cn/blog-411752-426535.html?mobile=1)
 
 <table>
     
@@ -23,7 +24,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub></sub></td>
+    <td><sub>早于2001-02-23</sub></td>
     <td><sub>吴志攀</sub></td>
     <td><sub>国际化下的金融与法律</sub></td>
     <td><sub><a href="https://youtu.be/ykNPig_P1ds">Video</a></sub></td>
@@ -33,12 +34,21 @@
 
 
 <tbody><tr>
-    <td><sub>早于2001-06-05</sub></td>
+    <td><sub>早于2001-02-23</sub></td>
     <td><sub>郑晓瑛</sub></td>
     <td><sub>出生缺陷乾预工程（中国人口出生素质现状与分析）</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/1886.html">爱思想</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200223005737/http://www.aisixiang.com/data/1886.html">2020-02-23</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>早于2001-02-23</sub></td>
+    <td><sub>萧佐</sub></td>
+    <td><sub>空间科技与人类文明</sub></td>
+    <td><sub><a href="https://youtu.be/mWqIIY3FHZ0">Video</a></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/2085.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2085.html">2020-02-23</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -52,7 +62,7 @@
 
 
 <tbody><tr>
-    <td><sub>2004-04-12</sub></td>
+    <td><sub>早于2004-04-10</sub></td>
     <td><sub>胡展奋</sub></td>
     <td><sub>来自职业乞丐的调查报告</sub></td>
     <td><sub><a href="https://youtu.be/pHcuCu5RzY0">Video</a></sub></td>
