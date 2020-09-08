@@ -1126,7 +1126,7 @@
     <td><sub>(2005-12-19)</sub></td>
     <td><sub>朱葆伟</sub></td>
     <td><sub>科学技术与伦理责任</sub></td>
-    <td><sub><a href="https://youtu.be/JpmFtyuNL9w">Audio</a><</sub></td>
+    <td><sub><a href="https://youtu.be/JpmFtyuNL9w">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1137,7 +1137,7 @@
     <td><sub>(2005-12-19)</sub></td>
     <td><sub>朱葆伟</sub></td>
     <td><sub>高技术与社会公正</sub></td>
-    <td><sub><a href="https://youtu.be/SP6pLQ5754s">Audio</a><</sub></td>
+    <td><sub><a href="https://youtu.be/SP6pLQ5754s">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
