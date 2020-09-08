@@ -227,7 +227,7 @@
     <td><sub>文明何以会冲突?文化怎样去保守? </sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">WebArchive</a></sub></td>
 </tr></tbody>
 
 
@@ -238,7 +238,7 @@
     <td><sub>中国人和美国人的问题意识</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">WebArchive</a></sub></td>
 </tr></tbody>
 
 
@@ -249,7 +249,7 @@
     <td><sub>俄国政治文化中的传统与现代性</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">WebArchive</a></sub></td>
 </tr></tbody>
 
 
@@ -260,7 +260,7 @@
     <td><sub>乌克兰大选风波背后的历史渊源</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://bbs.tianya.cn/post-373-263-1.shtml">秦晖、金雁伉俪武汉讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">2020-9-7</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907170331/http://bbs.tianya.cn/post-373-263-1.shtml">WebArchive</a></sub></td>
 </tr></tbody>
 
 
@@ -5427,7 +5427,7 @@
     <td><sub>五四：传承正义，铭记教训</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=49EazRuPNNM">Audio</a></sub></td>
     <td><sub><a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">2020-9-4</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">WebArchive</a></sub></td>
 </tr></tbody>
 
 
@@ -5438,7 +5438,7 @@
     <td><sub>新文化运动几个争议问题管窥</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=kekxDR868-0">Audio</a></sub></td>
     <td><sub><a href="https://www.douban.com/event/10784480/">豆瓣同城</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">2020-9-4</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904192801/https://www.douban.com/event/10784480/">WebArchive</a></sub></td>
 </tr></tbody>
 
 
@@ -11770,7 +11770,7 @@
     <td><sub>儒家文化批判的新层次</sub></td>
     <td><sub><a href="https://youtu.be/-nr5Ag6ey64">Video</a></sub></td>
     <td><sub><a href="http://www.xiaomang.org/2015/12/new_levels_ccc.html">旁听晓芒</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200217083757/http://www.xiaomang.org/2015/12/new_levels_ccc.html">2020-2-17</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200217083757/http://www.xiaomang.org/2015/12/new_levels_ccc.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 
@@ -11908,12 +11908,12 @@
 
 <tbody><tr>
     <td><sub>2096</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2016-03-09</sub></td>
+    <td><sub>邓晓芒</sub></td>
+    <td><sub>文学冲突的四大主题</sub></td>
+    <td><sub><a href="https://youtu.be/-nr5Ag6ey64">Video</a></sub></td>
+    <td><sub><a href="http://www.xiaomang.org/2016/03/4_themes_of_literary_conflict.html">旁听晓芒</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200217080927/http://www.xiaomang.org/2016/03/4_themes_of_literary_conflict.htmll">WebArchive</a></sub></td>
 </tr></tbody>
 
 
