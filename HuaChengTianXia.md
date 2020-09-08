@@ -11765,12 +11765,12 @@
 
 <tbody><tr>
     <td><sub>2083</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2015-12-3</sub></td>
+    <td><sub>邓晓芒</sub></td>
+    <td><sub>儒家文化批判的新层次</sub></td>
+    <td><sub><a href="https://youtu.be/-nr5Ag6ey64">Video</a></sub></td>
+    <td><sub><a href="http://www.xiaomang.org/2015/12/new_levels_ccc.html">旁听晓芒</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200217083757/http://www.xiaomang.org/2015/12/new_levels_ccc.html">2020-2-17</a></sub></td>
 </tr></tbody>
 
 
