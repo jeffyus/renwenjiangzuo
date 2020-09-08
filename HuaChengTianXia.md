@@ -1126,7 +1126,7 @@
     <td><sub>(2005-12-19)</sub></td>
     <td><sub>朱葆伟</sub></td>
     <td><sub>科学技术与伦理责任</sub></td>
-    <td><sub><a href="https://youtu.be/JpmFtyuNL9w">Audio</a><</sub></td>
+    <td><sub><a href="https://youtu.be/JpmFtyuNL9w">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1137,7 +1137,7 @@
     <td><sub>(2005-12-19)</sub></td>
     <td><sub>朱葆伟</sub></td>
     <td><sub>高技术与社会公正</sub></td>
-    <td><sub><a href="https://youtu.be/SP6pLQ5754s">Audio</a><</sub></td>
+    <td><sub><a href="https://youtu.be/SP6pLQ5754s">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1317,24 +1317,22 @@
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1131</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-03)</sub></td>
+    <td><sub>刘洪一</sub></td>
+    <td><sub>犹太人与世界——一个文化命题及启发</sub></td>
+    <td><sub><a href="https://youtu.be/nYtAK_qVF3U">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1132</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>高小康</sub></td>
+    <td><sub>城市文化的美学思考</sub></td>
+    <td><sub><a href="https://youtu.be/n2_fmpO8II8">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1342,9 +1340,10 @@
 
 <tbody><tr>
     <td><sub>1133</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>黄韬</sub></td>
+    <td><sub>从医学看决策的艺术</sub></td>
+    <td><sub><a href="https://youtu.be/oaSJ9RKdQ4Y">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1353,10 +1352,10 @@
 
 <tbody><tr>
     <td><sub>1134</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>俞兆平</sub></td>
+    <td><sub>美学的浪漫主义与政治学的浪漫主义</sub></td>
+    <td><sub><a href="https://youtu.be/dCMskcmkZaQ">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1364,21 +1363,20 @@
 
 <tbody><tr>
     <td><sub>1135</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-04)</sub></td>
+    <td><sub>俞兆平</sub></td>
+    <td><sub>中国现代文学古典主义思潮的历史定位</sub></td>
+    <td><sub><a href="https://youtu.be/Mn2XLnfN7-g">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1136</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-08)</sub></td>
+    <td><sub>张庭国</sub></td>
+    <td><sub>家乡世界和他乡世界</sub></td>
+    <td><sub><a href="https://youtu.be/2QFBQem9U5g">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1386,10 +1384,10 @@
 
 <tbody><tr>
     <td><sub>1137</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-08)</sub></td>
+    <td><sub>赵振宇</sub></td>
+    <td><sub>民主进程中的程序化建设</sub></td>
+    <td><sub><a href="https://youtu.be/WNe90PhAP5Q">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1397,10 +1395,10 @@
 
 <tbody><tr>
     <td><sub>1138</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-17)</sub></td>
+    <td><sub>王树人</sub></td>
+    <td><sub>中西视野下的象思维与原创性问题</sub></td>
+    <td><sub><a href="https://youtu.be/XI0Wfi6gGVQ">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1408,10 +1406,10 @@
 
 <tbody><tr>
     <td><sub>1139</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-04-17)</sub></td>
+    <td><sub>王树人</sub></td>
+    <td><sub>哲学之门——-老树半生为学的体会</sub></td>
+    <td><sub><a href="https://youtu.be/80Mjh7sAfws">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -11908,12 +11906,13 @@
 
 <tbody><tr>
     <td><sub>2096</sub></td>
+    <td><sub>2016-03-09</sub></td>
+    <td><sub>邓晓芒</sub></td>
+    <td><sub>文学冲突的四大主题</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://www.xiaomang.org/2016/03/4_themes_of_literary_conflict.html">旁听晓芒</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200217080927/http://www.xiaomang.org/2016/03/4_themes_of_literary_conflict.html
+">2020-02-17</a></sub></td>
 </tr></tbody>
 
 
