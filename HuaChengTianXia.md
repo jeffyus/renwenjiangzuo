@@ -432,9 +432,9 @@
 
 <tbody><tr>
     <td><sub>1048</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-17)</sub></td>
+    <td><sub>漆多俊</sub></td>
+    <td><sub>转型时期法律的主要使命</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -443,9 +443,9 @@
 
 <tbody><tr>
     <td><sub>1049</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-17)</sub></td>
+    <td><sub>Berglind Asgeirsdottir</sub></td>
+    <td><sub>世界经合组织与高等教育</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -454,9 +454,9 @@
 
 <tbody><tr>
     <td><sub>1050</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-19)</sub></td>
+    <td><sub>董健</sub></td>
+    <td><sub>戏剧精神与和谐社会</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -464,9 +464,9 @@
 
 <tbody><tr>
     <td><sub>1051</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-19)</sub></td>
+    <td><sub>董健</sub></td>
+    <td><sub>中国文化中的民族主义问题</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -475,9 +475,9 @@
 
 <tbody><tr>
     <td><sub>1052</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-19)</sub></td>
+    <td><sub>温伟耀</sub></td>
+    <td><sub>基督教与先秦儒学——孔、孟与基督教的“人学”建构</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -497,9 +497,9 @@
 
 <tbody><tr>
     <td><sub>1054</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-26)</sub></td>
+    <td><sub>林瑞珠</sub></td>
+    <td><sub>知识经济下电子合同之发展与变革</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -508,9 +508,9 @@
 
 <tbody><tr>
     <td><sub>1055</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-26)</sub></td>
+    <td><sub>倪鹏飞</sub></td>
+    <td><sub>中国城市竞争力最新形势</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -519,9 +519,9 @@
 
 <tbody><tr>
     <td><sub>1056</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-26)</sub></td>
+    <td><sub>王岳川</sub></td>
+    <td><sub>发现东方与中国新世纪文化战略</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -530,9 +530,9 @@
 
 <tbody><tr>
     <td><sub>1057</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-05-26)</sub></td>
+    <td><sub>王岳川</sub></td>
+    <td><sub>全球化中的后现代美学</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -541,9 +541,9 @@
 
 <tbody><tr>
     <td><sub>1058</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-02)</sub></td>
+    <td><sub>樊富珉</sub></td>
+    <td><sub>提高人生的多元智慧</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -552,9 +552,9 @@
 
 <tbody><tr>
     <td><sub>1059</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-02)</sub></td>
+    <td><sub>樊富珉</sub></td>
+    <td><sub>生涯规划与人生发展</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -563,9 +563,9 @@
 
 <tbody><tr>
     <td><sub>1060</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-02)</sub></td>
+    <td><sub>杨东平</sub></td>
+    <td><sub>中国需要新的教育哲学</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -574,9 +574,9 @@
 
 <tbody><tr>
     <td><sub>1061</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-02)</sub></td>
+    <td><sub>邱仁宗</sub></td>
+    <td><sub>治疗性克隆与生殖克隆的伦理思辩</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -585,9 +585,9 @@
 
 <tbody><tr>
     <td><sub>1062</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-09)</sub></td>
+    <td><sub>David Cogliati</sub></td>
+    <td><sub>加拿大学生贷款</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -596,9 +596,9 @@
 
 <tbody><tr>
     <td><sub>1063</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-09)</sub></td>
+    <td><sub>郑也夫</sub></td>
+    <td><sub>消费主义批评</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -618,9 +618,9 @@
 
 <tbody><tr>
     <td><sub>1065</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-09)</sub></td>
+    <td><sub>洪浚浩</sub></td>
+    <td><sub>全球化时代的文化整合与文化冲突</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -629,9 +629,9 @@
 
 <tbody><tr>
     <td><sub>1066</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-09)</sub></td>
+    <td><sub>凌宇</sub></td>
+    <td><sub>人文精神的重构</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -640,9 +640,9 @@
 
 <tbody><tr>
     <td><sub>1067</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-09)</sub></td>
+    <td><sub>张志林、程练</sub></td>
+    <td><sub>哲学论辩与语言游戏</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -651,9 +651,9 @@
 
 <tbody><tr>
     <td><sub>1068</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-09)</sub></td>
+    <td><sub>叶舒宪</sub></td>
+    <td><sub>文化寻根与文化自觉</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -662,9 +662,9 @@
 
 <tbody><tr>
     <td><sub>1069</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-16)</sub></td>
+    <td><sub>叶舒宪</sub></td>
+    <td><sub>非物质文化遗产与非物质经济</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -673,9 +673,9 @@
 
 <tbody><tr>
     <td><sub>1070</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-16)</sub></td>
+    <td><sub>赵林</sub></td>
+    <td><sub>科学、宗教与哲学</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -684,9 +684,9 @@
 
 <tbody><tr>
     <td><sub>1071</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-23)</sub></td>
+    <td><sub>曾国屏</sub></td>
+    <td><sub>也说科学与人文：热力学诗人普里戈金的启示</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -695,9 +695,9 @@
 
 <tbody><tr>
     <td><sub>1072</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2005-06-23)</sub></td>
+    <td><sub>曾国屏</sub></td>
+    <td><sub>科学技术、产业与文明</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1312,7 +1312,7 @@
     <td><sub>(2006-03-28)</sub></td>
     <td><sub>李培根</sub></td>
     <td><sub>谈天、说地、做人</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/ChUN910_Qwg">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
