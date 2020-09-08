@@ -11908,21 +11908,12 @@
 
 <tbody><tr>
     <td><sub>2096</sub></td>
-<<<<<<< HEAD
     <td><sub>2016-03-09</sub></td>
     <td><sub>邓晓芒</sub></td>
     <td><sub>文学冲突的四大主题</sub></td>
     <td><sub><a href="https://youtu.be/-nr5Ag6ey64">Video</a></sub></td>
     <td><sub><a href="http://www.xiaomang.org/2016/03/4_themes_of_literary_conflict.html">旁听晓芒</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200217080927/http://www.xiaomang.org/2016/03/4_themes_of_literary_conflict.htmll">WebArchive</a></sub></td>
-=======
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
->>>>>>> 6d3e12136abb0d8794942999009797f2bc285a93
 </tr></tbody>
 
 
