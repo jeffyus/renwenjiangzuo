@@ -27,7 +27,7 @@
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">部级领导干部历史文化讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200907103535/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">WebArchive7</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200907103535/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -36,7 +36,7 @@
     <td><sub>毛泽东与赫鲁晓夫：中苏分裂的直接表现和深层原因</sub></td>
     <td><sub><a href="https://youtu.be/R_ohz8Ru_xI">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35900">香港科技大学官网</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35900">重读共和国史系列(1)</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200907103921/https://archives.ust.hk/dspace/handle/9999/35900">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -46,7 +46,7 @@
     <td><sub>中苏同盟条约: 毛泽东与斯大林的争斗</sub></td>
     <td><sub><a href="https://youtu.be/BJKLXMjxU1U">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35892">重读共和国史系列（1/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35892">重读共和国史系列(2)</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200907103921/https://archives.ust.hk/dspace/handle/9999/35892">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -56,7 +56,7 @@
     <td><sub>中国出兵朝鲜: 共和国的第一次战争</sub></td>
     <td><sub><a href="https://youtu.be/JZJX1GAqQrY">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35893">重读共和国史系列（2/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35893">重读共和国史系列（3）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200907102712/https://archives.ust.hk/dspace/handle/9999/35893">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -66,7 +66,7 @@
     <td><sub>波匈事件与中国: 中共走上世界舞台</sub></td>
     <td><sub><a href="https://youtu.be/S5FQr5J6AuU">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（3/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35894">重读共和国史系列（4）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905160147/https://archives.ust.hk/dspace/handle/9999/35894">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -76,7 +76,7 @@
     <td><sub>大跃进: 超英赶美与共产主义乌托邦</sub></td>
     <td><sub><a href="https://youtu.be/BNDanH84Q40">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35896">重读共和国史系列（4/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35896">重读共和国史系列（5）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905165514/https://archives.ust.hk/dspace/handle/9999/35896">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -86,7 +86,7 @@
     <td><sub>三年困难: 共和国的第一场灾难</sub></td>
     <td><sub><a href="https://youtu.be/_YLVxnLJiOY">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35897">重读共和国史系列（5/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35897">重读共和国史系列（6）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905165826/https://archives.ust.hk/dspace/handle/9999/35897">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -96,7 +96,7 @@
     <td><sub>毛泽东何以发动文革</sub></td>
     <td><sub><a href="https://youtu.be/1oNhQysdLhw">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35898">重读共和国史系列（6/13）</a></sub></td>
+<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35898">重读共和国史系列（7）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905173723/https://archives.ust.hk/dspace/handle/9999/35898">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -106,7 +106,7 @@
     <td><sub>再探林彪事件</sub></td>
     <td><sub><a href="https://youtu.be/8rsqTEDy_Q4">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35899">重读共和国史系列（7/13）</a></sub></td>
+<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35899">重读共和国史系列（8）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905174031/https://archives.ust.hk/dspace/handle/9999/35899">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -116,7 +116,7 @@
     <td><sub>反右运动的前因后果</sub></td>
     <td><sub><a href="https://youtu.be/ueMGzC_bTsI">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35901">重读共和国史系列（8/13）</a></sub></td>
+<td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35901">重读共和国史系列（9）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905172857/https://archives.ust.hk/dspace/handle/9999/35901">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -126,7 +126,7 @@
     <td><sub>刘少奇与四清运动</sub></td>
     <td><sub><a href="https://youtu.be/HGHLTuHZG_w">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35902">重读共和国史系列（9/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35902">重读共和国史系列（10）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905173017/https://archives.ust.hk/dspace/handle/9999/35902">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -136,7 +136,7 @@
     <td><sub>毛泽东与共产党的开门整风</sub></td>
     <td><sub><a href="https://youtu.be/6e2FLQqSVcs">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35903">重读共和国史系列（10/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35903">重读共和国史系列（11）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905172628/https://archives.ust.hk/dspace/handle/9999/35903">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -146,7 +146,7 @@
     <td><sub>毛泽东与反右运动的发起</sub></td>
     <td><sub><a href="https://youtu.be/lgxb2nNGv9M">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35904">重读共和国史系列（11/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35904">重读共和国史系列（12）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905172628/https://archives.ust.hk/dspace/handle/9999/35904">WebArchive5</a></sub></td>
 </tr></tbody>
 
@@ -156,7 +156,7 @@
     <td><sub>「文革」中的红卫兵运动</sub></td>
     <td><sub><a href="https://youtu.be/n9-0lDybD4s">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35905">重读共和国史系列（12/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35905">重读共和国史系列（13）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905170511/https://archives.ust.hk/dspace/handle/9999/35905">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -166,7 +166,7 @@
     <td><sub>「文革」中的武斗</sub></td>
     <td><sub><a href="https://youtu.be/d24B3FED-ws">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35905">重读共和国史系列（13/13）</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35905">重读共和国史系列（14）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200905170511/https://archives.ust.hk/dspace/handle/9999/35905">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -217,7 +217,7 @@
     <td><sub><a href="https://youtu.be/f97eFeMkjzI">Audio</a></sub></td>
     <td><sub>中国社会科学院</sub></td>
     <td><sub><a href="http://mchm.gscass.cn/html/news/2015-11-02/420.html">社科大师大讲堂</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200904165217/http://mchm.gscass.cn/html/news/2015-11-02/420.html">2019-9-4</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200904165217/http://mchm.gscass.cn/html/news/2015-11-02/420.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
