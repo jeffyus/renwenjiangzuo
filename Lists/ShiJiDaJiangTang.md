@@ -17,7 +17,7 @@
 </tr></thead>
 
 <tbody><tr>
-    <th><sub>第1部第1集</sub></th>
+    <td><sub>第1部第1集</sub></td>
     <td><sub>早于2001-01-10</sub></td>
     <td><sub>林毅夫</sub></td>
     <td><sub>展望新千年的中国经济</sub></td>
@@ -27,7 +27,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <th><sub>第1部第2集</sub></th>
+    <td><sub>第1部第2集</sub></td>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>吴志攀</sub></td>
     <td><sub>国际化下的金融与法律</sub></td>
@@ -38,7 +38,7 @@
 
 
 <tbody><tr>
-    <th><sub>第1部第3集</sub></th>
+    <td><sub>第1部第3集</sub></td>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>郑晓瑛</sub></td>
     <td><sub>出生缺陷干预工程</sub></td>
@@ -48,7 +48,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <th><sub>第1部第4集</sub></th>
+    <td><sub>第1部第4集</sub></td>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>萧佐</sub></td>
     <td><sub>空间科技与人类文明</sub></td>
@@ -58,7 +58,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <th><sub>第1部第5集</sub></th>
+    <td><sub>第1部第5集</sub></td>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>李伯谦</sub></td>
     <td><sub>夏商周断代工程</sub></td>
@@ -68,7 +68,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <th><sub>第1部第6集</sub></th>
+    <td><sub>第1部第6集</sub></td>
     <td><sub>早于2001-03-06</sub></td>
     <td><sub>武际可</sub></td>
     <td><sub>什么是分岔</sub></td>
@@ -78,7 +78,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <th><sub>第1部第7集</sub></th>
+    <td><sub>第1部第7集</sub></td>
     <td><sub>早于2001-03-06</sub></td>
     <td><sub>唐建国</sub></td>
     <td><sub>从基因组到蛋白质组</sub></td>
@@ -88,7 +88,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <th><sub>第1部第8集</sub></th>
+    <td><sub>第1部第8集</sub></td>
     <td><sub></sub></td>
     <td><sub>葛剑雄</sub></td>
     <td><sub>历史地理学会为未来带来什么</sub></td>
@@ -98,7 +98,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <th><sub>第1部第9集</sub></th>
+    <td><sub>第1部第9集</sub><td>
     <td><sub></sub></td>
     <td><sub>戴锦华</sub></td>
     <td><sub>活的知识一大众文化研究</sub></td>
@@ -123,7 +123,7 @@
 </tr></thead>
 
 <tbody><tr>
-    <th><sub>第7部第12集</sub></th>
+    <td><sub>第7部第12集</sub></td>
     <td><sub>2004-02-21</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>从文化革命到“文化革命”</sub></td>
@@ -148,7 +148,7 @@
 </tr></thead>
 
 <tbody><tr>
-    <th><sub>第51集</sub></th>
+    <td><sub>第51集</sub></td>
     <td><sub>早于2004-04-10</sub></td>
     <td><sub>胡展奋</sub></td>
     <td><sub>来自职业乞丐的调查报告</sub></td>
