@@ -69,7 +69,7 @@
 
 <tbody><tr>
     <td><sub>第1部第6集</sub></td>
-    <td><sub>早于2001-03-06</sub></td>
+    <td><sub>早于2001-03-05</sub></td>
     <td><sub>武际可</sub></td>
     <td><sub>什么是分岔</sub></td>
     <td><sub><a href="https://youtu.be/R5Ke6cB3um0">Video</a></sub></td>
@@ -79,7 +79,7 @@
 
 <tbody><tr>
     <td><sub>第1部第7集</sub></td>
-    <td><sub>早于2001-03-06</sub></td>
+    <td><sub>早于2001-03-05</sub></td>
     <td><sub>唐建国</sub></td>
     <td><sub>从基因组到蛋白质组</sub></td>
     <td><sub></sub></td>
@@ -89,7 +89,7 @@
 
 <tbody><tr>
     <td><sub>第1部第8集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>早于2001-03-05</sub></td>
     <td><sub>葛剑雄</sub></td>
     <td><sub>历史地理学会为未来带来什么</sub></td>
     <td><sub><a href="https://youtu.be/bkwBIDXLctA">Video</a></sub></td>
@@ -99,12 +99,162 @@
 
 <tbody><tr>
     <td><sub>第1部第9集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>早于2001-03-05</sub></td>
     <td><sub>戴锦华</sub></td>
     <td><sub>活的知识一大众文化研究</sub></td>
     <td><sub><a href="https://youtu.be/lO9aTxob7G0">Video</a></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/2267.html">爱思想</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20141115122240/http://www.aisixiang.com/data/2267.html">WebArchive</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第10集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>罗伯特·T·清崎</sub></td>
+    <td><sub>金钱未必使您富裕</sub></td>
+    <td><sub><a href="https://youtu.be/0L7wak5_V7w">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第11集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>王登峰</sub></td>
+    <td><sub>中国人的人格</sub></td>
+    <td><sub><a href="https://youtu.be/1Yg7TK6-qVw">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第12集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>李正孝</sub></td>
+    <td><sub>我眼中的纳米世界</sub></td>
+    <td><sub><a href="https://youtu.be/hHD11xGM6fQ">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第13集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>陈来</sub></td>
+    <td><sub>哲学的现代化与民族化</sub></td>
+    <td><sub><a href="https://youtu.be/fBOVMj8n2nk">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第14集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>梁从诫</sub></td>
+    <td><sub>环保与公民责任</sub></td>
+    <td><sub><a href="https://youtu.be/NytswMoz08M">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第15集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>温铁军</sub></td>
+    <td><sub>世纪之交的三农问题</sub></td>
+    <td><sub><a href="https://youtu.be/70FymiOiGG4">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第16集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>朱孝远</sub></td>
+    <td><sub>为什么欧洲最早进入近代社会</sub></td>
+    <td><sub><a href="https://youtu.be/x_biMAVE9zo">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第17集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>杨振宁</sub></td>
+    <td><sub>美与物理（上）</sub></td>
+    <td><sub><a href="https://youtu.be/_M26o1IswRQ">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第18集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>杨振宁</sub></td>
+    <td><sub>美与物理（下）</sub></td>
+    <td><sub><a href="https://youtu.be/z6RlHzLs4_A">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第19集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>梁能</sub></td>
+    <td><sub>WTO与中国企业的国际竞争力</sub></td>
+    <td><sub><a href="https://youtu.be/ueZsURScm0c">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第20集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>严文明</sub></td>
+    <td><sub>中国古代文明起源的探索</sub></td>
+    <td><sub><a href="https://youtu.be/nfsCs1RYjb4">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第21集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>胡坚</sub></td>
+    <td><sub>国际金融中心的发展规律与趋势</sub></td>
+    <td><sub><a href="https://youtu.be/XWKfN6Xq2TM">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第22集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>俞孔坚</sub></td>
+    <td><sub>理想人居 “天地、人、神的和谐”</sub></td>
+    <td><sub><a href="https://youtu.be/phyRxunGBDs">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第23集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>刘伟</sub></td>
+    <td><sub>中国的市场化进程和市场秩序建设</sub></td>
+    <td><sub><a href="https://youtu.be/I3BRUnSmjoo">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第1部第24集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>潘文石</sub></td>
+    <td><sub>大熊猫继续生存的机会</sub></td>
+    <td><sub><a href="https://youtu.be/qNp9E-3-9JA">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
 </tr></tbody>
 
 </table>
