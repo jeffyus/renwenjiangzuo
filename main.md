@@ -17,16 +17,6 @@
     <td><sub><a href="https://youtu.be/YCsrdyDhi9w">Video</a></sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">部级领导干部历史文化讲座</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200907103535/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">2020-9-7</a></sub></td>
-</tr></tbody>
-
-<tbody><tr>
-    <td><sub>Maybe 2003</sub></td>
-    <td><sub>邓小南</sub></td>
-    <td><sub>“祖宗之法”与北宋政治 </sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub><a href="http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">部级领导干部历史文化讲座</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200907103535/http://book.ifeng.com/gundong/detail_2012_02/29/12855000_0.shtml">WebArchive</a></sub></td>
 </tr></tbody>
 
