@@ -98,7 +98,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>第1部第9集</sub><td>
+    <td><sub>第1部第9集</sub></td>
     <td><sub></sub></td>
     <td><sub>戴锦华</sub></td>
     <td><sub>活的知识一大众文化研究</sub></td>
