@@ -4,17 +4,20 @@
 [节目列表2](http://wap.sciencenet.cn/blog-411752-426535.html?mobile=1)
 
 <table>
-    
+
+## 世纪大讲堂第1部
 <thead><tr>
-    <th width><sub>时间</sub></th>
-    <th width><sub>演讲人</sub></th>
-    <th width><sub>题目</sub></th>
-    <th width><sub>链接</sub></th>
-    <th width><sub>相关链接及备注</sub></th>
-    <th width><sub>WebArchive</sub></th>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
+    <th><sub>相关链接及备注</sub></th>
+    <th><sub>WebArchive</sub></th>
 </tr></thead>
 
 <tbody><tr>
+    <th><sub>第1部第1集</sub></th>
     <td><sub>早于2001-01-10</sub></td>
     <td><sub>林毅夫</sub></td>
     <td><sub>展望新千年的中国经济</sub></td>
@@ -24,6 +27,7 @@
 </tr></tbody>
 
 <tbody><tr>
+    <th><sub>第1部第2集</sub></th>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>吴志攀</sub></td>
     <td><sub>国际化下的金融与法律</sub></td>
@@ -34,15 +38,17 @@
 
 
 <tbody><tr>
+    <th><sub>第1部第3集</sub></th>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>郑晓瑛</sub></td>
-    <td><sub>出生缺陷乾预工程（中国人口出生素质现状与分析）</sub></td>
+    <td><sub>出生缺陷干预工程</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/1886.html">爱思想</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200223005737/http://www.aisixiang.com/data/1886.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
+    <th><sub>第1部第4集</sub></th>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>萧佐</sub></td>
     <td><sub>空间科技与人类文明</sub></td>
@@ -52,6 +58,7 @@
 </tr></tbody>
 
 <tbody><tr>
+    <th><sub>第1部第5集</sub></th>
     <td><sub>早于2001-02-23</sub></td>
     <td><sub>李伯谦</sub></td>
     <td><sub>夏商周断代工程</sub></td>
@@ -61,6 +68,7 @@
 </tr></tbody>
 
 <tbody><tr>
+    <th><sub>第1部第6集</sub></th>
     <td><sub>早于2001-03-06</sub></td>
     <td><sub>武际可</sub></td>
     <td><sub>什么是分岔</sub></td>
@@ -70,6 +78,7 @@
 </tr></tbody>
 
 <tbody><tr>
+    <th><sub>第1部第7集</sub></th>
     <td><sub>早于2001-03-06</sub></td>
     <td><sub>唐建国</sub></td>
     <td><sub>从基因组到蛋白质组</sub></td>
@@ -79,7 +88,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub></sub></td>
+    <th><sub>第1部第8集</sub></th>
     <td><sub>葛剑雄</sub></td>
     <td><sub>历史地理学会为未来带来什么</sub></td>
     <td><sub><a href="https://youtu.be/bkwBIDXLctA">Video</a></sub></td>
@@ -87,7 +96,23 @@
     <td><sub><a href="https://web.archive.org/web/20200909144051/http://www.iqh.net.cn/info.asp?column_id=1075">WebArchive</a></sub></td>
 </tr></tbody>
 
+</table>
+
+## 世纪大讲堂第7部
+
+<table>
+<thead><tr>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
+    <th><sub>相关链接及备注</sub></th>
+    <th><sub>WebArchive</sub></th>
+</tr></thead>
+
 <tbody><tr>
+    <th><sub>第7部第12集</sub></th>
     <td><sub>2004-02-21</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>从文化革命到“文化革命”</sub></td>
@@ -96,7 +121,23 @@
     <td><sub><a href="https://web.archive.org/web/20191230060220/http://www.aisixiang.com/data/2738.html">WebArchive</a></sub></td>
 </tr></tbody>
 
+</table>
+
+## 世纪大讲堂2004
+
+<table>
+<thead><tr>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
+    <th><sub>相关链接及备注</sub></th>
+    <th><sub>WebArchive</sub></th>
+</tr></thead>
+
 <tbody><tr>
+    <th><sub>第51集</sub></th>
     <td><sub>早于2004-04-10</sub></td>
     <td><sub>胡展奋</sub></td>
     <td><sub>来自职业乞丐的调查报告</sub></td>
