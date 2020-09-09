@@ -26,7 +26,7 @@
     <td><sub>毛泽东与赫鲁晓夫：中苏分裂的直接表现和深层原因</sub></td>
     <td><sub><a href="https://youtu.be/R_ohz8Ru_xI">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35900">重读共和国史系列(1)</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35900">重读共和国史系列（1）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200907103921/https://archives.ust.hk/dspace/handle/9999/35900">WebArchive</a></sub></td>
 </tr></tbody>
 
@@ -36,7 +36,7 @@
     <td><sub>中苏同盟条约: 毛泽东与斯大林的争斗</sub></td>
     <td><sub><a href="https://youtu.be/BJKLXMjxU1U">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
-    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35892">重读共和国史系列(2)</a></sub></td>
+    <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35892">重读共和国史系列（2）</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200907103921/https://archives.ust.hk/dspace/handle/9999/35892">WebArchive</a></sub></td>
 </tr></tbody>
 
