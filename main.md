@@ -137,7 +137,7 @@
     <td><sub><a href="https://youtu.be/lgxb2nNGv9M">Video</a></sub></td>
     <td><sub>香港科技大学</sub></td>
     <td><sub><a href="https://archives.ust.hk/dspace/handle/9999/35904">重读共和国史系列（12）</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200905172628/https://archives.ust.hk/dspace/handle/9999/35904">WebArchive5</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200905172628/https://archives.ust.hk/dspace/handle/9999/35904">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
