@@ -52,6 +52,15 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>早于2001-02-23</sub></td>
+    <td><sub>李伯谦</sub></td>
+    <td><sub>夏商周断代工程</sub></td>
+    <td><sub><a href="https://youtu.be/SI7b0uq9Jpo">Video</a></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/2265.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2265.html">2020-02-23</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2004-02-23</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>从文化革命到“文化革命”</sub></td>
