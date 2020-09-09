@@ -61,6 +61,24 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub></sub></td>
+    <td><sub>武际可</sub></td>
+    <td><sub>什么是分岔</sub></td>
+    <td><sub><a href="https://youtu.be/R5Ke6cB3um0">Video</a></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/12044.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20180310032216/http://www.aisixiang.com/data/12044.html">WebArchive</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>早于2001-03-06</sub></td>
+    <td><sub>唐建国</sub></td>
+    <td><sub>从基因组到蛋白质组</sub></td>
+    <td><sub></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/2089.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200909141727/http://www.aisixiang.com/data/2089.html">WebArchive</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2004-02-23</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>从文化革命到“文化革命”</sub></td>
