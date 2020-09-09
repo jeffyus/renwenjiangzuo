@@ -82,7 +82,7 @@
     <td><sub>早于2001-03-05</sub></td>
     <td><sub>唐建国</sub></td>
     <td><sub>从基因组到蛋白质组</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/Xbfxiw3uKc4">Video</a></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/2089.html">爱思想</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200909141727/http://www.aisixiang.com/data/2089.html">WebArchive</a></sub></td>
 </tr></tbody>
