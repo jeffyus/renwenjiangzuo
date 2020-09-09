@@ -79,6 +79,15 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub></sub></td>
+    <td><sub>葛剑雄</sub></td>
+    <td><sub>历史地理学会为未来带来什么</sub></td>
+    <td><sub><a href="https://youtu.be/bkwBIDXLctA">Video</a></sub></td>
+    <td><sub><a href="http://www.iqh.net.cn/info.asp?column_id=1075">中国历史地理研究</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200909144051/http://www.iqh.net.cn/info.asp?column_id=1075">WebArchive</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2004-02-21</sub></td>
     <td><sub>朱学勤</sub></td>
     <td><sub>从文化革命到“文化革命”</sub></td>
@@ -86,7 +95,6 @@
     <td><sub><a href="http://vip.v.ifeng.com/oldtvvip/renwenvip/201209/6556ebfa-708b-4997-9a68-acf634f9236f.shtml">凤凰网</a>，<a href="http://www.aisixiang.com/data/2738.html">爱思想</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20191230060220/http://www.aisixiang.com/data/2738.html">WebArchive</a></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>早于2004-04-10</sub></td>
