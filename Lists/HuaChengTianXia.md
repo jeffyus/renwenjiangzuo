@@ -1539,7 +1539,7 @@
 
 <tbody><tr>
     <td><sub>1151</sub></td>
-    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>2006-05-08</sub></td>
     <td><sub>徐长福</sub></td>
     <td><sub>理想为何难以实现？——“文革”启示之一</sub></td>
     <td><sub><a href="https://youtu.be/XJZHeKi5hi0">Audio</a></sub></td>
@@ -1550,7 +1550,7 @@
 
 <tbody><tr>
     <td><sub>1152</sub></td>
-    <td><sub>(2006-05-08)</sub></td>
+    <td><sub>2006-05-09</sub></td>
     <td><sub>徐长福</sub></td>
     <td><sub>怎样把人当人看？——“文革”启示之二一</sub></td>
     <td><sub><a href="https://youtu.be/h66SetnvPsw">Audio</a></sub></td>
