@@ -20,7 +20,7 @@
     <td><sub>展望新千年的中国经济</sub></td>
     <td><sub><a href="https://youtu.be/iAjCDI9SZV8">Video</a></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/1944.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20150323132623/http://www.aisixiang.com/data/1944.html">2015-3-23</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20150323132623/http://www.aisixiang.com/data/1944.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -39,7 +39,7 @@
     <td><sub>出生缺陷乾预工程（中国人口出生素质现状与分析）</sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/1886.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200223005737/http://www.aisixiang.com/data/1886.html">2020-02-23</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200223005737/http://www.aisixiang.com/data/1886.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -48,7 +48,7 @@
     <td><sub>空间科技与人类文明</sub></td>
     <td><sub><a href="https://youtu.be/mWqIIY3FHZ0">Video</a></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/2085.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2085.html">2020-02-23</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2085.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -57,7 +57,7 @@
     <td><sub>夏商周断代工程</sub></td>
     <td><sub><a href="https://youtu.be/SI7b0uq9Jpo">Video</a></sub></td>
     <td><sub><a href="http://www.aisixiang.com/data/2265.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2265.html">2020-02-23</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2265.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -66,7 +66,7 @@
     <td><sub>从文化革命到“文化革命”</sub></td>
     <td><sub><a href="https://youtu.be/zVpih-MvvT8">Video</a></sub></td>
     <td><sub><a href="https://github.com/jeffyus/renwenjiangzuo/edit/master/ShiJiDaJiangTang.md">凤凰网</a>，<a href="http://www.aisixiang.com/data/2738.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20191230060220/http://www.aisixiang.com/data/2738.html">2019-12-30</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20191230060220/http://www.aisixiang.com/data/2738.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 
