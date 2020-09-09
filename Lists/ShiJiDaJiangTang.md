@@ -89,11 +89,22 @@
 
 <tbody><tr>
     <th><sub>第1部第8集</sub></th>
+    <td><sub></sub></td>
     <td><sub>葛剑雄</sub></td>
     <td><sub>历史地理学会为未来带来什么</sub></td>
     <td><sub><a href="https://youtu.be/bkwBIDXLctA">Video</a></sub></td>
     <td><sub><a href="http://www.iqh.net.cn/info.asp?column_id=1075">中国历史地理研究</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200909144051/http://www.iqh.net.cn/info.asp?column_id=1075">WebArchive</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <th><sub>第1部第9集</sub></th>
+    <td><sub></sub></td>
+    <td><sub>戴锦华</sub></td>
+    <td><sub>活的知识一大众文化研究</sub></td>
+    <td><sub><a href="https://youtu.be/lO9aTxob7G0">Video</a></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/2267.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20141115122240/http://www.aisixiang.com/data/2267.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 </table>
