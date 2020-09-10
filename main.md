@@ -224,7 +224,7 @@
     <td><sub>2013-12-8</sub></td>
     <td><sub>金雁</sub></td>
     <td><sub>千年跌宕俄国史——兼论克柳切夫斯基《俄国史教程》</sub></td>
-    <td><sub><a href="https://youtu.be/_zvBB1u-N6o">Audio</a></sub></td>
+    <td><sub><a href="https://youtu.be/_zvBB1u-N6o">Video</a></sub></td>
     <td><sub>中国国家图书馆</sub></td>
     <td><sub><a href="http://vod.nlc.cn/show.php?id=1228">国图讲座</a></sub></td>
     <td><sub></sub></td>
@@ -238,6 +238,16 @@
     <td><sub>华东师范大学</sub></td>
     <td><sub><a href="http://youth.ecnu.edu.cn/_t2008/1b/6e/c11404a138094/page.htm">华东师范大学官网</a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20200904235925/http://youth.ecnu.edu.cn/_t2008/1b/6e/c11404a138094/page.htm">WebArchive</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>2014-11-20</sub></td>
+    <td><sub>陈兼、沈志华</sub></td>
+    <td><sub>唇齿相依亦相磕——中朝关系演变七十年</sub></td>
+    <td><sub><a href="https://youtu.be/xLtDnEJJxWc">Audio</a></sub></td>
+    <td><sub>上海师范大学</sub></td>
+    <td><sub><a href="http://www.shnu.edu.cn/e8/8b/c253a59531/page.htm">上海师范大学官网</a></sub></td>
+    <td><sub><a href="http://web.archive.org/web/20200910160810/http://www.shnu.edu.cn/e8/8b/c253a59531/page.htm">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
