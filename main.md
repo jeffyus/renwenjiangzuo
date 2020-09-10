@@ -221,6 +221,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2013-12-8</sub></td>
+    <td><sub>金雁</sub></td>
+    <td><sub>千年跌宕俄国史——兼论克柳切夫斯基《俄国史教程》</sub></td>
+    <td><sub><a href="https://youtu.be/_zvBB1u-N6o">Audio</a></sub></td>
+    <td><sub>中国国家图书馆</sub></td>
+    <td><sub><a href="http://vod.nlc.cn/show.php?id=1228">国图讲座</a></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2014-11-12</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>真实的幕后——东北亚安全与合作研究</sub></td>
