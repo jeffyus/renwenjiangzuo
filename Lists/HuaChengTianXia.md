@@ -1166,7 +1166,21 @@
     <td><sub></sub></td>
 </tr></tbody>
 
+</table>
+
 ## 2006
+
+<table>
+
+<thead><tr>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
+    <th><sub>相关链接及备注</sub></th>
+    <th><sub>WebArchive</sub></th>
+</tr></thead>
 
 <tbody><tr>
     <td><sub>1117</sub></td>
