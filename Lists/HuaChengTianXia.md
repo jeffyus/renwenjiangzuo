@@ -2,6 +2,8 @@
 
 参考资料：[链接一](https://dahouzi.cn/archives/187/)、[链接二](https://dahouzi.cn/archives/189/)、[化成天下网页快照](https://web.archive.org/web/20190811030149/http://uzone.univs.cn/schNewsList.action?univId=2566&fId=1733&sId=4462) 。里面时间并不准确，似乎为原始音频归档时间，但是目前找不到更准确的讲座时间。采用此时间的条目会在时间上加注括号。对于已确定时间，则无括号。
 
+## 2005
+
 <table>
 
 <thead><tr>
@@ -1164,6 +1166,7 @@
     <td><sub></sub></td>
 </tr></tbody>
 
+## 2006
 
 <tbody><tr>
     <td><sub>1117</sub></td>
@@ -1323,7 +1326,7 @@
     <td><sub>(2006-04-03)</sub></td>
     <td><sub>刘洪一</sub></td>
     <td><sub>犹太人与世界——一个文化命题及启发</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/nYtAK_qVF3U">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1334,18 +1337,17 @@
     <td><sub>(2006-04-04)</sub></td>
     <td><sub>高小康</sub></td>
     <td><sub>城市文化的美学思考</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/Xd97ePmOl-4U">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>1133</sub></td>
     <td><sub>(2006-04-04)</sub></td>
     <td><sub>黄韬</sub></td>
     <td><sub>从医学看决策的艺术</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/oaSJ9RKdQ4Y">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1356,7 +1358,7 @@
     <td><sub>(2006-04-04)</sub></td>
     <td><sub>俞兆平</sub></td>
     <td><sub>美学的浪漫主义与政治学的浪漫主义</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/dCMskcmkZaQ">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1367,7 +1369,7 @@
     <td><sub>(2006-04-04)</sub></td>
     <td><sub>俞兆平</sub></td>
     <td><sub>中国现代文学古典主义思潮的历史定位</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/Mn2XLnfN7-g">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1378,7 +1380,7 @@
     <td><sub>(2006-04-08)</sub></td>
     <td><sub>张庭国</sub></td>
     <td><sub>家乡世界和他乡世界</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/2QFBQem9U5g">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1389,7 +1391,7 @@
     <td><sub>(2006-04-04)</sub></td>
     <td><sub>赵振宇</sub></td>
     <td><sub>民主进程中的程序化建设</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/WNe90PhAP5Q">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1400,7 +1402,7 @@
     <td><sub>(2006-04-17)</sub></td>
     <td><sub>王树人</sub></td>
     <td><sub>中西视野下的象思维与原创性问题</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/zr1icddD4hU">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1411,7 +1413,7 @@
     <td><sub>(2006-04-17)</sub></td>
     <td><sub>王树人</sub></td>
     <td><sub>哲学之门——-老树半生为学的体会</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/80Mjh7sAfws">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1422,7 +1424,7 @@
     <td><sub>(2006-04-17)</sub></td>
     <td><sub>吴青华</sub></td>
     <td><sub>东西方价值观差异及其对创新能力影响</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/0ad0-ywTtCc">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1433,7 +1435,7 @@
     <td><sub>(2006-04-25)</sub></td>
     <td><sub>陈卫平</sub></td>
     <td><sub>儒家礼乐文明与近代都市文化互补</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/ssVvnqWMlIs">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1443,7 +1445,7 @@
     <td><sub>1142</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>核战阴影</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1455,7 +1457,7 @@
     <td><sub>(2006-04-23)</sub></td>
     <td><sub>曹顺庆</sub></td>
     <td><sub>文明冲突和文明对话</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/_KfBG7I0Nfs">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1477,7 +1479,7 @@
     <td><sub>(2006-04-23)</sub></td>
     <td><sub>曹顺庆</sub></td>
     <td><sub>没有学术大师的时代</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/OuQaLZMMbQs">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1488,7 +1490,7 @@
     <td><sub>(2006-05-08)</sub></td>
     <td><sub>鄢烈山</sub></td>
     <td><sub>关于改革的共识</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/1th235wwCyg">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1499,7 +1501,7 @@
     <td><sub>(2006-05-08)</sub></td>
     <td><sub>王绍光</sub></td>
     <td><sub>国家基本制度的重建</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/zKii8OoUt0g">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1510,7 +1512,7 @@
     <td><sub>(2006-05-08)</sub></td>
     <td><sub>邹诗鹏</sub></td>
     <td><sub>当下时代的精神处境</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/GvMWmat7UJI">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1532,7 +1534,7 @@
     <td><sub>(2006-05-08)</sub></td>
     <td><sub>王绍光</sub></td>
     <td><sub>国家能力、政策导向与医疗卫生公平</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="    https://youtu.be/i4vm4hCBW0A">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
