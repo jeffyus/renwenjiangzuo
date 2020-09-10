@@ -6,6 +6,8 @@
 <table>
 
 ## 世纪大讲堂第1部
+[YouTube播放列表](https://www.youtube.com/playlist?list=PLlk0tfW4OCYTCaxK9S8Hwy4UvQgpRDJpH)
+
 <thead><tr>
     <th><sub>期数</sub></th>
     <th><sub>时间</sub></th>
@@ -260,6 +262,8 @@
 </table>
 
 ## 世纪大讲堂第2部
+[YouTube播放列表](https://www.youtube.com/playlist?list=PLlk0tfW4OCYQZ1LVVtCoYIyX5tG_-YAmN)
+
 <table>
 <thead><tr>
     <th><sub>期数</sub></th>
