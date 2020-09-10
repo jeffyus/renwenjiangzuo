@@ -1580,7 +1580,7 @@
     <td><sub>(2006-05-19)</sub></td>
     <td><sub>朱立</sub></td>
     <td><sub>形象﹑国际形象与国际传播</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/0cNrM02l-4Q">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1591,7 +1591,7 @@
     <td><sub>(2006-05-19)</sub></td>
     <td><sub>朱孝远</sub></td>
     <td><sub>为什么欧洲文艺复兴要从但丁开始</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/K8jIHfk6z_M">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1602,7 +1602,7 @@
     <td><sub>(2006-05-19)</sub></td>
     <td><sub>朱孝远</sub></td>
     <td><sub>路德改教与农民革命</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/Dj7wF5MUwTA">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1610,10 +1610,10 @@
 
 <tbody><tr>
     <td><sub>1156</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-05-19)</sub></td>
+    <td><sub>王忠欣</sub></td>
+    <td><sub>启蒙和世俗化――欧美中现代化历程中宗教的发展与变化</sub></td>
+    <td><sub><a href="https://youtu.be/z0dyJYSMzms">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
