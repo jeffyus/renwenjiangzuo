@@ -20,7 +20,7 @@
 
 <tbody><tr>
     <td><sub>第1部第1集</sub></td>
-    <td><sub>早于2001-01-10</sub></td>
+    <td><sub>2001-01-06 (SAT)</sub></td>
     <td><sub>林毅夫</sub></td>
     <td><sub>展望新千年的中国经济</sub></td>
     <td><sub><a href="https://youtu.be/iAjCDI9SZV8">Video</a></sub></td>
@@ -30,7 +30,7 @@
 
 <tbody><tr>
     <td><sub>第1部第2集</sub></td>
-    <td><sub>早于2001-02-23</sub></td>
+    <td><sub>2001-01-13 (SAT)</sub></td>
     <td><sub>吴志攀</sub></td>
     <td><sub>国际化下的金融与法律</sub></td>
     <td><sub><a href="https://youtu.be/ykNPig_P1ds">Video</a></sub></td>
@@ -41,7 +41,7 @@
 
 <tbody><tr>
     <td><sub>第1部第3集</sub></td>
-    <td><sub>早于2001-02-23</sub></td>
+    <td><sub>2001-01-20 (SAT)</sub></td>
     <td><sub>郑晓瑛</sub></td>
     <td><sub>出生缺陷干预工程</sub></td>
     <td><sub><a href="https://youtu.be/r2FoiCbnARY">Video</a></sub></td>
@@ -51,7 +51,7 @@
 
 <tbody><tr>
     <td><sub>第1部第4集</sub></td>
-    <td><sub>早于2001-02-23</sub></td>
+    <td><sub>2001-01-27 (SAT)</sub></td>
     <td><sub>萧佐</sub></td>
     <td><sub>空间科技与人类文明</sub></td>
     <td><sub><a href="https://youtu.be/mWqIIY3FHZ0">Video</a></sub></td>
@@ -61,7 +61,7 @@
 
 <tbody><tr>
     <td><sub>第1部第5集</sub></td>
-    <td><sub>早于2001-02-23</sub></td>
+    <td><sub>2001-02-03 (SAT)</sub></td>
     <td><sub>李伯谦</sub></td>
     <td><sub>夏商周断代工程</sub></td>
     <td><sub><a href="https://youtu.be/SI7b0uq9Jpo">Video</a></sub></td>
@@ -71,7 +71,7 @@
 
 <tbody><tr>
     <td><sub>第1部第6集</sub></td>
-    <td><sub>早于2001-03-05</sub></td>
+    <td><sub>2001-02-10 (SAT)</sub></td>
     <td><sub>武际可</sub></td>
     <td><sub>什么是分岔</sub></td>
     <td><sub><a href="https://youtu.be/R5Ke6cB3um0">Video</a></sub></td>
@@ -81,7 +81,7 @@
 
 <tbody><tr>
     <td><sub>第1部第7集</sub></td>
-    <td><sub>早于2001-03-05</sub></td>
+    <td><sub>2001-02-17 (SAT)</sub></td>
     <td><sub>唐建国</sub></td>
     <td><sub>从基因组到蛋白质组</sub></td>
     <td><sub><a href="https://youtu.be/Xbfxiw3uKc4">Video</a></sub></td>
@@ -91,7 +91,7 @@
 
 <tbody><tr>
     <td><sub>第1部第8集</sub></td>
-    <td><sub>早于2001-03-05</sub></td>
+    <td><sub>2001-02-24 (SAT)</sub></td>
     <td><sub>葛剑雄</sub></td>
     <td><sub>历史地理学会为未来带来什么</sub></td>
     <td><sub><a href="https://youtu.be/bkwBIDXLctA">Video</a></sub></td>
@@ -101,7 +101,7 @@
 
 <tbody><tr>
     <td><sub>第1部第9集</sub></td>
-    <td><sub>早于2001-03-05</sub></td>
+    <td><sub>2001-03-03 (SAT)</sub></td>
     <td><sub>戴锦华</sub></td>
     <td><sub>活的知识一大众文化研究</sub></td>
     <td><sub><a href="https://youtu.be/lO9aTxob7G0">Video</a></sub></td>
@@ -111,7 +111,7 @@
 
 <tbody><tr>
     <td><sub>第1部第10集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-03-10 (SAT)</sub></td>
     <td><sub>罗伯特·T·清崎</sub></td>
     <td><sub>金钱未必使您富裕</sub></td>
     <td><sub><a href="https://youtu.be/0L7wak5_V7w">Video</a></sub></td>
@@ -121,7 +121,7 @@
 
 <tbody><tr>
     <td><sub>第1部第11集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-03-17 (SAT)</sub></td>
     <td><sub>王登峰</sub></td>
     <td><sub>中国人的人格</sub></td>
     <td><sub><a href="https://youtu.be/1Yg7TK6-qVw">Video</a></sub></td>
@@ -131,7 +131,7 @@
 
 <tbody><tr>
     <td><sub>第1部第12集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-03-31 (SAT)</sub></td>
     <td><sub>李正孝</sub></td>
     <td><sub>我眼中的纳米世界</sub></td>
     <td><sub><a href="https://youtu.be/hHD11xGM6fQ">Video</a></sub></td>
@@ -141,7 +141,7 @@
 
 <tbody><tr>
     <td><sub>第1部第13集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-04-07 (SAT)</sub></td>
     <td><sub>陈来</sub></td>
     <td><sub>哲学的现代化与民族化</sub></td>
     <td><sub><a href="https://youtu.be/fBOVMj8n2nk">Video</a></sub></td>
@@ -151,7 +151,7 @@
 
 <tbody><tr>
     <td><sub>第1部第14集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-04-14 (SAT)</sub></td>
     <td><sub>梁从诫</sub></td>
     <td><sub>环保与公民责任</sub></td>
     <td><sub><a href="https://youtu.be/NytswMoz08M">Video</a></sub></td>
@@ -161,7 +161,7 @@
 
 <tbody><tr>
     <td><sub>第1部第15集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-04-21 (SAT)</sub></td>
     <td><sub>温铁军</sub></td>
     <td><sub>世纪之交的三农问题</sub></td>
     <td><sub><a href="https://youtu.be/70FymiOiGG4">Video</a></sub></td>
@@ -251,7 +251,7 @@
 
 <tbody><tr>
     <td><sub>第1部第24集</sub></td>
-    <td><sub>早于2001年6月13日</sub></td>
+    <td><sub>2001-07-07 Sat</sub></td>
     <td><sub>潘文石</sub></td>
     <td><sub>大熊猫继续生存的机会</sub></td>
     <td><sub><a href="https://youtu.be/qNp9E-3-9JA">Video</a></sub></td>
