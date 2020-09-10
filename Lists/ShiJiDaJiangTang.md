@@ -251,7 +251,7 @@
 
 <tbody><tr>
     <td><sub>第1部第24集</sub></td>
-    <td><sub>2001-07-07 Sat</sub></td>
+    <td><sub>2001-07-07 (SAT)</sub></td>
     <td><sub>潘文石</sub></td>
     <td><sub>大熊猫继续生存的机会</sub></td>
     <td><sub><a href="https://youtu.be/qNp9E-3-9JA">Video</a></sub></td>
