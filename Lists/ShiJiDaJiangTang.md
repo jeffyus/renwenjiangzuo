@@ -249,16 +249,189 @@
 
 <tbody><tr>
     <td><sub>第1部第24集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>早于2001年6月13日</sub></td>
     <td><sub>潘文石</sub></td>
     <td><sub>大熊猫继续生存的机会</sub></td>
     <td><sub><a href="https://youtu.be/qNp9E-3-9JA">Video</a></sub></td>
+    <td><sub><a href="http://www.aisixiang.com/data/2096.html">爱思想</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20150611210441/http://www.aisixiang.com/data/2096.html">WebArchive</a></sub></td>
+</tr></tbody>
+
+</table>
+
+## 世纪大讲堂第2部
+<table>
+<thead><tr>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
+    <th><sub>相关链接及备注</sub></th>
+    <th><sub>WebArchive</sub></th>
+</tr></thead>
+
+<tbody><tr>
+    <td><sub>第2部第1集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>徐庆平</sub></td>
+    <td><sub>审美需要真诚和自信</sub></td>
+    <td><sub><a href="https://youtu.be/vwj2ohoBTQM">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第2集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>李晓明</sub></td>
+    <td><sub>网络与生活的互动</sub></td>
+    <td><sub><a href="https://youtu.be/3SmXn9jC5iQ">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第3集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>王诗成</sub></td>
+    <td><sub>从打结谈起</sub></td>
+    <td><sub><a href="https://youtu.be/1MkdXxB5esA">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第4集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>彭培根</sub></td>
+    <td><sub>揭开后现代广义的神秘面纱</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第5集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>丁大卫</sub></td>
+    <td><sub>网络经济如何演绎</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第6集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>吴澄</sub></td>
+    <td><sub>用信息技术提高企业竞争力</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第7集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>张信刚</sub></td>
+    <td><sub>从利玛窦到北京申奥</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第8集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>杨壮</sub></td>
+    <td><sub>美日人才管特征及对中国企业的借鉴</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第9集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>曹凤歧</sub></td>
+    <td><sub>中国资本市场的热点问题</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第10集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>李强</sub></td>
+    <td><sub>中国大陆的贫富差距</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第11集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>甘培忠</sub></td>
+    <td><sub>中国市场经济体制下的市场主体立法</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第12集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>王逸舟</sub></td>
+    <td><sub>9.11综合症剖析</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第13集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>房宁</sub></td>
+    <td><sub>反思全球化</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第14集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>尹鸿</sub></td>
+    <td><sub>好莱坞的全球化与中国电影的发展</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第15集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>杨帆</sub></td>
+    <td><sub>较利益的动态性和中国入世的政策选择</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第2部第16集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>孙士海</sub></td>
+    <td><sub>印度的经济改革和经济发展</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
 </table>
-
 ## 世纪大讲堂第7部
 
 <table>
