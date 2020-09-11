@@ -1446,56 +1446,56 @@
 
 <tbody><tr>
     <td><sub>1141</sub></td>
-    <td><sub>(2006-04-25)</sub></td>
+    <td><sub>2006-04-19</sub></td>
     <td><sub>陈卫平</sub></td>
     <td><sub>儒家礼乐文明与近代都市文化互补</sub></td>
     <td><sub><a href="https://youtu.be/ssVvnqWMlIs">Audio</a></sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:el-dlZqy9JIJ:www.dabpb.com/info/1004/27877.htm+&cd=17&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1142</sub></td>
+    <td><sub>2006-04-20</sub></td>
+    <td><sub>王逸舟</sub></td>
+    <td><sub>全球新格局与中国新外交</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
-    <td><sub>核战阴影</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:el-dlZqy9JIJ:www.dabpb.com/info/1004/27877.htm+&cd=17&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1143</sub></td>
-    <td><sub>(2006-04-23)</sub></td>
+    <td><sub>2006-04-21</sub></td>
     <td><sub>曹顺庆</sub></td>
     <td><sub>文明冲突和文明对话</sub></td>
     <td><sub><a href="https://youtu.be/_KfBG7I0Nfs">Audio</a></sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:el-dlZqy9JIJ:www.dabpb.com/info/1004/27877.htm+&cd=17&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1144</sub></td>
-    <td><sub>(2006-04-25)</sub></td>
+    <td><sub>2006-04-22</sub></td>
     <td><sub>方方</sub></td>
     <td><sub>我与文学</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:el-dlZqy9JIJ:www.dabpb.com/info/1004/27877.htm+&cd=17&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1145</sub></td>
-    <td><sub>(2006-04-23)</sub></td>
+    <td><sub>2006-04-22</sub></td>
     <td><sub>曹顺庆</sub></td>
     <td><sub>没有学术大师的时代</sub></td>
     <td><sub><a href="https://youtu.be/OuQaLZMMbQs">Audio</a></sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:el-dlZqy9JIJ:www.dabpb.com/info/1004/27877.htm+&cd=17&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td></sub></td>
 </tr></tbody>
 
 
@@ -1548,7 +1548,7 @@
     <td><sub>(2006-05-08)</sub></td>
     <td><sub>王绍光</sub></td>
     <td><sub>国家能力、政策导向与医疗卫生公平</sub></td>
-    <td><sub><a href="    https://youtu.be/i4vm4hCBW0A">Audio</a></sub></td>
+    <td><sub><a href="https://youtu.be/i4vm4hCBW0A">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
