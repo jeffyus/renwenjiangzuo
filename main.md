@@ -290,4 +290,15 @@
     <td><sub><a href="https://web.archive.org/web/20200904192248/http://history.ecnu.edu.cn/a3/d6/c21736a304086/page.htm">WebArchive</a></sub></td>
 </tr></tbody>
 
+<tbody><tr>
+    <td><sub>2020</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>贸易战启示——苏联的战后战略与冷战起源</sub></td>
+    <td><sub><a href="https://youtu.be/RVgoL1olvDQ">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+
 </table>
