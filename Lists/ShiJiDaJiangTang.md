@@ -438,6 +438,91 @@
 
 </table>
 
+## 世纪大讲堂第3部
+
+<table>
+<thead><tr>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
+    <th><sub>相关链接及备注</sub></th>
+    <th><sub>WebArchive</sub></th>
+</tr></thead>
+
+<tbody><tr>
+    <td><sub>第3部第01集</sub></td>
+    <td><sub>2001-11-03 (SAT)</sub></td>
+    <td><sub>纪宝成</sub></td>
+    <td><sub>新世纪发展人文社会科学高等教育的思考</sub></td>
+    <td><sub><a href="https://youtu.be/ipZdHyS-i-k">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第02集</sub></td>
+    <td><sub>2001-11-10 (SAT)</sub></td>
+    <td><sub>李维安</sub></td>
+    <td><sub>从日本经济的低迷看中国公司治理改革</sub></td>
+    <td><sub><a href="https://youtu.be/21FTfnkWY70">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第03集</sub></td>
+    <td><sub>2001-11-17 (SAT)</sub></td>
+    <td><sub>李银河</sub></td>
+    <td><sub>同性恋者的处境</sub></td>
+    <td><sub><a href="https://youtu.be/TjRJj3lZU0w">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第04集</sub></td>
+    <td><sub>2001-11-24 (SAT)</sub></td>
+    <td><sub>贾建华</sub></td>
+    <td><sub>中国对外贸易的反倾销问题</sub></td>
+    <td><sub><a href="https://youtu.be/ZMD7ibt8pB4">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第05集</sub></td>
+    <td><sub>2001-12-01 (SAT)</sub></td>
+    <td><sub>陈庆云</sub></td>
+    <td><sub>新世纪的公共管理</sub></td>
+    <td><sub><a href="https://youtu.be/RrFU8O6xJeQ">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第06集</sub></td>
+    <td><sub>2001-12-08 (SAT)</sub></td>
+    <td><sub>陆俊</sub></td>
+    <td><sub>网络伦理的理论（理性）建构</sub></td>
+    <td><sub><a href="https://youtu.be/wWA0aILAkL8">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第07集</sub></td>
+    <td><sub>2001-12-15 (SAT)</sub></td>
+    <td><sub>陆南泉</sub></td>
+    <td><sub>俄罗斯经济出现的新态势</sub></td>
+    <td><sub><a href="https://youtu.be/CG24gyULqME">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+</table>
+
 ## 世纪大讲堂第7部
 
 <table>
