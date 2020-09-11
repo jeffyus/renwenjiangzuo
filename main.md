@@ -201,6 +201,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>2009-4-23</sub></td>
+    <td><sub>沈志华、韩钢</sub></td>
+    <td><sub>脆弱的联盟：冷战史中的中国角色</sub></td>
+    <td><sub><a href="https://youtu.be/5ilJW7MdP6U">Audio</a></sub></td>
+    <td><sub>上海季风书园</sub></td>
+    <td><sub><a href="https://www.douban.com/group/topic/19217443/">豆瓣</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200911183029/https://www.douban.com/group/topic/19217443/">WebArchive</a></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2011-5-19</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>读书与人生</sub></td>
