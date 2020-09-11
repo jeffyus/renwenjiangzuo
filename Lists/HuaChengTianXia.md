@@ -1596,17 +1596,15 @@
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1155</sub></td>
-    <td><sub>(2006-05-19)</sub></td>
+    <td><sub>2006-05-16</sub></td>
     <td><sub>朱孝远</sub></td>
     <td><sub>路德改教与农民革命</sub></td>
     <td><sub><a href="https://youtu.be/Dj7wF5MUwTA">Audio</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://www.hist.pku.edu.cn/jsjj/sjgdsjys/249113.htm">朱孝远简历</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20190412012437/https://www.hist.pku.edu.cn/jsjj/sjgdsjys/249113.htm">WebArchive</a></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>1156</sub></td>
@@ -1621,12 +1619,12 @@
 
 <tbody><tr>
     <td><sub>1157</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2006-05-22</sub></td>
+    <td><sub>张颐武</sub></td>
+    <td><sub>全球化的文化挑战</sub></td>
+    <td><sub><a href="https://youtu.be/hQ045RXVjE0">Audio</a></sub></td>
+    <td><sub><a href="http://www.shxx6.com/a/xinling/2019/0403/1432.html">讲座报道</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20200911001038/http://www.shxx6.com/a/xinling/2019/0403/1432.html">WebArchive</a></sub></td>
 </tr></tbody>
 
 
