@@ -172,7 +172,7 @@
 
 <tbody><tr>
     <td><sub>第1部第16集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-04-28 (SAT)</sub></td>
     <td><sub>朱孝远</sub></td>
     <td><sub>为什么欧洲最早进入近代社会</sub></td>
     <td><sub><a href="https://youtu.be/x_biMAVE9zo">Video</a></sub></td>
@@ -182,7 +182,7 @@
 
 <tbody><tr>
     <td><sub>第1部第17集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-05-05 (SAT)</sub></td>
     <td><sub>杨振宁</sub></td>
     <td><sub>美与物理（上）</sub></td>
     <td><sub><a href="https://youtu.be/_M26o1IswRQ">Video</a></sub></td>
@@ -192,7 +192,7 @@
 
 <tbody><tr>
     <td><sub>第1部第18集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-05-12 (SAT)</sub></td>
     <td><sub>杨振宁</sub></td>
     <td><sub>美与物理（下）</sub></td>
     <td><sub><a href="https://youtu.be/z6RlHzLs4_A">Video</a></sub></td>
@@ -202,7 +202,7 @@
 
 <tbody><tr>
     <td><sub>第1部第19集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-05-19 (SAT)</sub></td>
     <td><sub>梁能</sub></td>
     <td><sub>WTO与中国企业的国际竞争力</sub></td>
     <td><sub><a href="https://youtu.be/ueZsURScm0c">Video</a></sub></td>
@@ -212,7 +212,7 @@
 
 <tbody><tr>
     <td><sub>第1部第20集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-06-09 (SAT)</sub></td>
     <td><sub>严文明</sub></td>
     <td><sub>中国古代文明起源的探索</sub></td>
     <td><sub><a href="https://youtu.be/nfsCs1RYjb4">Video</a></sub></td>
@@ -222,7 +222,7 @@
 
 <tbody><tr>
     <td><sub>第1部第21集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-06-16 (SAT)</sub></td>
     <td><sub>胡坚</sub></td>
     <td><sub>国际金融中心的发展规律与趋势</sub></td>
     <td><sub><a href="https://youtu.be/XWKfN6Xq2TM">Video</a></sub></td>
@@ -232,7 +232,7 @@
 
 <tbody><tr>
     <td><sub>第1部第22集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-06-23 (SAT)</sub></td>
     <td><sub>俞孔坚</sub></td>
     <td><sub>理想人居 “天地、人、神的和谐”</sub></td>
     <td><sub><a href="https://youtu.be/phyRxunGBDs">Video</a></sub></td>
@@ -242,7 +242,7 @@
 
 <tbody><tr>
     <td><sub>第1部第23集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-06-30 (SAT)</sub></td>
     <td><sub>刘伟</sub></td>
     <td><sub>中国的市场化进程和市场秩序建设</sub></td>
     <td><sub><a href="https://youtu.be/I3BRUnSmjoo">Video</a></sub></td>
@@ -278,7 +278,7 @@
 
 <tbody><tr>
     <td><sub>第2部第1集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-07-14 (SAT)</sub></td>
     <td><sub>徐庆平</sub></td>
     <td><sub>审美需要真诚和自信</sub></td>
     <td><sub><a href="https://youtu.be/vwj2ohoBTQM">Video</a></sub></td>
@@ -288,7 +288,7 @@
 
 <tbody><tr>
     <td><sub>第2部第2集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-07-21 (SAT)</sub></td>
     <td><sub>李晓明</sub></td>
     <td><sub>网络与生活的互动</sub></td>
     <td><sub><a href="https://youtu.be/3SmXn9jC5iQ">Video</a></sub></td>
@@ -298,7 +298,7 @@
 
 <tbody><tr>
     <td><sub>第2部第3集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-07-28 (SAT)</sub></td>
     <td><sub>王诗成</sub></td>
     <td><sub>从打结谈起</sub></td>
     <td><sub><a href="https://youtu.be/1MkdXxB5esA">Video</a></sub></td>
@@ -308,7 +308,7 @@
 
 <tbody><tr>
     <td><sub>第2部第4集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-08-04 (SAT)</sub></td>
     <td><sub>彭培根</sub></td>
     <td><sub>揭开后现代广义的神秘面纱</sub></td>
     <td><sub><a href="https://youtu.be/u7ifb1MHwG4">Video</a></sub></td>
@@ -318,7 +318,7 @@
 
 <tbody><tr>
     <td><sub>第2部第5集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-08-11 (SAT)</sub></td>
     <td><sub>丁大卫</sub></td>
     <td><sub>网络经济如何演绎</sub></td>
     <td><sub><a href="https://youtu.be/-MwsfPhewyo">Video</a></sub></td>
@@ -328,7 +328,7 @@
 
 <tbody><tr>
     <td><sub>第2部第6集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-08-18 (SAT)</sub></td>
     <td><sub>吴澄</sub></td>
     <td><sub>用信息技术提高企业竞争力</sub></td>
     <td><sub><a href="https://youtu.be/PTHHhNER3vw">Video</a></sub></td>
@@ -338,7 +338,7 @@
 
 <tbody><tr>
     <td><sub>第2部第7集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-08-25 (SAT)</sub></td>
     <td><sub>张信刚</sub></td>
     <td><sub>从利玛窦到北京申奥</sub></td>
     <td><sub><a href="https://youtu.be/vZ4BJhkHwxs">Video</a></sub></td>
@@ -348,7 +348,7 @@
 
 <tbody><tr>
     <td><sub>第2部第8集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-09-01 (SAT)</sub></td>
     <td><sub>杨壮</sub></td>
     <td><sub>美日人才管特征及对中国企业的借鉴</sub></td>
     <td><sub><a href="https://youtu.be/LL2-qFf1_Yo">Video</a></sub></td>
@@ -358,7 +358,7 @@
 
 <tbody><tr>
     <td><sub>第2部第9集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-09-08 (SAT)</sub></td>
     <td><sub>曹凤歧</sub></td>
     <td><sub>中国资本市场的热点问题</sub></td>
     <td><sub><a href="https://youtu.be/zx5nxJil7Q4">Video</a></sub></td>
@@ -368,7 +368,7 @@
 
 <tbody><tr>
     <td><sub>第2部第10集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-09-15 (SAT)</sub></td>
     <td><sub>李强</sub></td>
     <td><sub>中国大陆的贫富差距</sub></td>
     <td><sub><a href="https://youtu.be/lhxFAXohcfA">Video</a></sub></td>
@@ -378,7 +378,7 @@
 
 <tbody><tr>
     <td><sub>第2部第11集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-09-22 (SAT)</sub></td>
     <td><sub>甘培忠</sub></td>
     <td><sub>中国市场经济体制下的市场主体立法</sub></td>
     <td><sub><a href="https://youtu.be/q6kj7bd-TlU">Video</a></sub></td>
@@ -388,7 +388,7 @@
 
 <tbody><tr>
     <td><sub>第2部第12集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-09-29 (SAT)</sub></td>
     <td><sub>王逸舟</sub></td>
     <td><sub>9.11综合症剖析</sub></td>
     <td><sub><a href="https://youtu.be/cwAiRwqUyn0">Video</a></sub></td>
@@ -398,7 +398,7 @@
 
 <tbody><tr>
     <td><sub>第2部第13集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-10-06 (SAT)</sub></td>
     <td><sub>房宁</sub></td>
     <td><sub>反思全球化</sub></td>
     <td><sub><a href="https://youtu.be/rVKR2Ouhsv4">Video</a></sub></td>
@@ -408,7 +408,7 @@
 
 <tbody><tr>
     <td><sub>第2部第14集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-10-13 (SAT)</sub></td>
     <td><sub>尹鸿</sub></td>
     <td><sub>好莱坞的全球化与中国电影的发展</sub></td>
     <td><sub><a href="https://youtu.be/Va3P5u4GsqY">Video</a></sub></td>
@@ -418,7 +418,7 @@
 
 <tbody><tr>
     <td><sub>第2部第15集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-10-20 (SAT)</sub></td>
     <td><sub>杨帆</sub></td>
     <td><sub>比较利益的动态性和中国入世的政策选择</sub></td>
     <td><sub><a href="https://youtu.be/CI5IkdCMDuo">Video</a></sub></td>
@@ -428,7 +428,7 @@
 
 <tbody><tr>
     <td><sub>第2部第16集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2001-10-27 (SAT)</sub></td>
     <td><sub>孙士海</sub></td>
     <td><sub>印度的经济改革和经济发展</sub></td>
     <td><sub><a href="https://youtu.be/V874DQBx4hk">Video</a></sub></td>
