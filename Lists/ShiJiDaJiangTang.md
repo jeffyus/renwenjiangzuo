@@ -521,6 +521,16 @@
     <td><sub></sub></td>
 </tr></tbody>
 
+<tbody><tr>
+    <td><sub>第3部第08集</sub></td>
+    <td><sub>2001-12-22 (SAT)</sub></td>
+    <td><sub>许子东</sub></td>
+    <td><sub>文学中的上海、北京与香港</sub></td>
+    <td><sub><a href="https://youtu.be/CG24gyULqME">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
 </table>
 
 ## 世纪大讲堂第7部

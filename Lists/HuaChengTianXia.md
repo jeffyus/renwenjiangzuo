@@ -1641,10 +1641,10 @@
 
 <tbody><tr>
     <td><sub>1159</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-09)</sub></td>
+    <td><sub>杨帆</sub></td>
+    <td><sub>经济增长与经济安全</sub></td>
+    <td><sub><a href="https://youtu.be/OCNnaqA8zM4">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1652,10 +1652,10 @@
 
 <tbody><tr>
     <td><sub>1160</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-09)</sub></td>
+    <td><sub>刘晓力</sub></td>
+    <td><sub>认知科学中的哲学争论</sub></td>
+    <td><sub><a href="https://youtu.be/xlB9NkKcTQE">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1663,10 +1663,10 @@
 
 <tbody><tr>
     <td><sub>1161</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-09)</sub></td>
+    <td><sub>刘晓力</sub></td>
+    <td><sub>哥德尔的遗产及哥德尔百年启示</sub></td>
+    <td><sub><a href="https://youtu.be/uNlhWdDvjEY">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1674,10 +1674,10 @@
 
 <tbody><tr>
     <td><sub>1162</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-09)</sub></td>
+    <td><sub>马天俊</sub></td>
+    <td><sub>辩证法的家族</sub></td>
+    <td><sub><a href="https://youtu.be/xPodCXyTdHw">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1685,10 +1685,10 @@
 
 <tbody><tr>
     <td><sub>1163</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-14)</sub></td>
+    <td><sub>程光炜</sub></td>
+    <td><sub>安静的中国人：人文知识分子的命运与选择</sub></td>
+    <td><sub><a href="https://youtu.be/3C5wXBKFtmU">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
