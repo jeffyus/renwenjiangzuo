@@ -15,8 +15,8 @@
     <th><sub>演讲人</sub></th>
     <th><sub>题目</sub></th>
     <th><sub>链接</sub></th>
-    <th><sub>相关链接及备注</sub></th>
-    <th><sub>WebArchive</sub></th>
+    <th><sub>演讲人简介</sub></th>
+
 </tr></thead>
 
 <tbody><tr>
@@ -25,8 +25,7 @@
     <td><sub>林毅夫</sub></td>
     <td><sub>展望新千年的中国经济</sub></td>
     <td><sub><a href="https://youtu.be/iAjCDI9SZV8">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/1944.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20150323132623/http://www.aisixiang.com/data/1944.html">WebArchive</a></sub></td>
+    <td><sub>北京大学中国经济研究中心主任</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -35,8 +34,7 @@
     <td><sub>吴志攀</sub></td>
     <td><sub>国际化下的金融与法律</sub></td>
     <td><sub><a href="https://youtu.be/ykNPig_P1ds">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学法学院院长</sub></td>
 </tr></tbody>
 
 
@@ -46,8 +44,7 @@
     <td><sub>郑晓瑛</sub></td>
     <td><sub>出生缺陷干预工程</sub></td>
     <td><sub><a href="https://youtu.be/r2FoiCbnARY">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/1886.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200223005737/http://www.aisixiang.com/data/1886.html">WebArchive</a></sub></td>
+    <td><sub>北京大学人口所所长</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -56,8 +53,7 @@
     <td><sub>萧佐</sub></td>
     <td><sub>空间科技与人类文明</sub></td>
     <td><sub><a href="https://youtu.be/mWqIIY3FHZ0">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/2085.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2085.html">WebArchive</a></sub></td>
+    <td><sub>北京大学地球物理系教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -66,8 +62,7 @@
     <td><sub>李伯谦</sub></td>
     <td><sub>夏商周断代工程</sub></td>
     <td><sub><a href="https://youtu.be/SI7b0uq9Jpo">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/2265.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200908125733/http://www.aisixiang.com/data/2265.html">WebArchive</a></sub></td>
+    <td><sub>北京大学中国考古学研究中心主任</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -76,8 +71,7 @@
     <td><sub>武际可</sub></td>
     <td><sub>什么是分岔</sub></td>
     <td><sub><a href="https://youtu.be/R5Ke6cB3um0">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/12044.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20180310032216/http://www.aisixiang.com/data/12044.html">WebArchive</a></sub></td>
+    <td><sub>北京大学力学系教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -86,8 +80,7 @@
     <td><sub>唐建国</sub></td>
     <td><sub>从基因组到蛋白质组</sub></td>
     <td><sub><a href="https://youtu.be/Xbfxiw3uKc4">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/2089.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200909141727/http://www.aisixiang.com/data/2089.html">WebArchive</a></sub></td>
+    <td><sub>北京大学生命科学学院教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -96,8 +89,7 @@
     <td><sub>葛剑雄</sub></td>
     <td><sub>历史地理学会为未来带来什么</sub></td>
     <td><sub><a href="https://youtu.be/bkwBIDXLctA">Video</a></sub></td>
-    <td><sub><a href="http://www.iqh.net.cn/info.asp?column_id=1075">中国历史地理研究</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20200909144051/http://www.iqh.net.cn/info.asp?column_id=1075">WebArchive</a></sub></td>
+    <td><sub>复旦大学历史地理研究所所长</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -106,8 +98,7 @@
     <td><sub>戴锦华</sub></td>
     <td><sub>活的知识一大众文化研究</sub></td>
     <td><sub><a href="https://youtu.be/lO9aTxob7G0">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/2267.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20141115122240/http://www.aisixiang.com/data/2267.html">WebArchive</a></sub></td>
+    <td><sub>北京大学中文系教授></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -116,8 +107,7 @@
     <td><sub>罗伯特·T·清崎</sub></td>
     <td><sub>金钱未必使您富裕</sub></td>
     <td><sub><a href="https://youtu.be/0L7wak5_V7w">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>《富爸爸》 丛书作者</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -126,8 +116,7 @@
     <td><sub>王登峰</sub></td>
     <td><sub>中国人的人格</sub></td>
     <td><sub><a href="https://youtu.be/1Yg7TK6-qVw">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学心理学系教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -136,8 +125,7 @@
     <td><sub>李正孝</sub></td>
     <td><sub>我眼中的纳米世界</sub></td>
     <td><sub><a href="https://youtu.be/hHD11xGM6fQ">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学技术物理系博士</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -146,8 +134,7 @@
     <td><sub>陈来</sub></td>
     <td><sub>哲学的现代化与民族化</sub></td>
     <td><sub><a href="https://youtu.be/fBOVMj8n2nk">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学哲学系教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -156,8 +143,7 @@
     <td><sub>梁从诫</sub></td>
     <td><sub>环保与公民责任</sub></td>
     <td><sub><a href="https://youtu.be/NytswMoz08M">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>自然之友协会会长</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -166,8 +152,7 @@
     <td><sub>温铁军</sub></td>
     <td><sub>世纪之交的三农问题</sub></td>
     <td><sub><a href="https://youtu.be/70FymiOiGG4">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>中宏网首席经济学家</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -176,8 +161,7 @@
     <td><sub>朱孝远</sub></td>
     <td><sub>为什么欧洲最早进入近代社会</sub></td>
     <td><sub><a href="https://youtu.be/x_biMAVE9zo">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学历史系教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -186,8 +170,7 @@
     <td><sub>杨振宁</sub></td>
     <td><sub>美与物理（上）</sub></td>
     <td><sub><a href="https://youtu.be/_M26o1IswRQ">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>清华大学教授诺贝尔物理奖得主</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -196,8 +179,7 @@
     <td><sub>杨振宁</sub></td>
     <td><sub>美与物理（下）</sub></td>
     <td><sub><a href="https://youtu.be/z6RlHzLs4_A">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>清华大学教授诺贝尔物理奖得主</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -206,8 +188,7 @@
     <td><sub>梁能</sub></td>
     <td><sub>WTO与中国企业的国际竞争力</sub></td>
     <td><sub><a href="https://youtu.be/ueZsURScm0c">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学中国经济研究中心教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -216,8 +197,7 @@
     <td><sub>严文明</sub></td>
     <td><sub>中国古代文明起源的探索</sub></td>
     <td><sub><a href="https://youtu.be/nfsCs1RYjb4">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学考古文博院教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -226,8 +206,7 @@
     <td><sub>胡坚</sub></td>
     <td><sub>国际金融中心的发展规律与趋势</sub></td>
     <td><sub><a href="https://youtu.be/XWKfN6Xq2TM">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学经济学院副院长</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -236,8 +215,7 @@
     <td><sub>俞孔坚</sub></td>
     <td><sub>理想人居 “天地、人、神的和谐”</sub></td>
     <td><sub><a href="https://youtu.be/phyRxunGBDs">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学景观设计规划中心主任</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -246,8 +224,7 @@
     <td><sub>刘伟</sub></td>
     <td><sub>中国的市场化进程和市场秩序建设</sub></td>
     <td><sub><a href="https://youtu.be/I3BRUnSmjoo">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>北京大学经济学院副院长</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -256,8 +233,7 @@
     <td><sub>潘文石</sub></td>
     <td><sub>大熊猫继续生存的机会</sub></td>
     <td><sub><a href="https://youtu.be/qNp9E-3-9JA">Video</a></sub></td>
-    <td><sub><a href="http://www.aisixiang.com/data/2096.html">爱思想</a></sub></td>
-    <td><sub><a href="https://web.archive.org/web/20150611210441/http://www.aisixiang.com/data/2096.html">WebArchive</a></sub></td>
+    <td><sub>北京大学生命科学学院教授</sub></td>
 </tr></tbody>
 
 </table>
