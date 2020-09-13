@@ -531,6 +531,56 @@
     <td><sub></sub></td>
 </tr></tbody>
 
+<tbody><tr>
+    <td><sub>第3部第09集</sub></td>
+    <td><sub>2001-12-29 (SAT)</sub></td>
+    <td><sub>黄平</sub></td>
+    <td><sub>人口流动给我们带来的挑战</sub></td>
+    <td><sub><a href="https://youtu.be/an77sokGG9c">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第10集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>范曾</sub></td>
+    <td><sub>二十世纪美的误区和古典主义精神复归</sub></td>
+    <td><sub><a href="https://youtu.be/cqIEALSaEz8">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第11集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>李培林</sub></td>
+    <td><sub>是什么改变了你的社会位置</sub></td>
+    <td><sub><a href="https://youtu.be/XF8YhKHLyMk">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第12集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>陈洪</sub></td>
+    <td><sub>佛教与中国人</sub></td>
+    <td><sub><a href="">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>第3部第13集</sub></td>
+    <td><sub></sub></td>
+    <td><sub>郭可信</sub></td>
+    <td><sub>美轮美奂的穹顶建筑与材料的微结构</sub></td>
+    <td><sub><a href="https://youtu.be/cC9_GtJP9BU">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
 </table>
 
 ## 世纪大讲堂第7部
