@@ -161,6 +161,16 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>Maybe 2007</sub></td>
+    <td><sub>高华</sub></td>
+    <td><sub>新中国五十年代初如何社会统合——十五个“小人物”的回忆录研究</sub></td>
+    <td><sub><a href="https://youtu.be/tNnbXr5pGzo">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub><a href="https://ww2.usc.cuhk.edu.hk/PaperCollection/Details.aspx?id=6500">原载《领导者》杂志第17期</a></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>2008-11-21</sub></td>
     <td><sub>韩钢</sub></td>
     <td><sub>改革开放的起步</sub></td>
