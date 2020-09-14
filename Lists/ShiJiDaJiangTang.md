@@ -98,7 +98,7 @@
     <td><sub>戴锦华</sub></td>
     <td><sub>活的知识一大众文化研究</sub></td>
     <td><sub><a href="https://youtu.be/lO9aTxob7G0">Video</a></sub></td>
-    <td><sub>北京大学中文系教授></sub></td>
+    <td><sub>北京大学中文系教授</sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -117,6 +117,15 @@
     <td><sub>中国人的人格</sub></td>
     <td><sub><a href="https://youtu.be/1Yg7TK6-qVw">Video</a></sub></td>
     <td><sub>北京大学心理学系教授</sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>未收录待考证</sub></td>
+    <td><sub>2001-03-24 (SAT)</sub></td>
+    <td><sub>史林</sub></td>
+    <td><sub>曾国潘从政为官方略</sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
@@ -189,6 +198,15 @@
     <td><sub>WTO与中国企业的国际竞争力</sub></td>
     <td><sub><a href="https://youtu.be/ueZsURScm0c">Video</a></sub></td>
     <td><sub>北京大学中国经济研究中心教授</sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>未收录待考证</sub></td>
+    <td><sub>2001-05-26 (SAT)</sub></td>
+    <td><sub>海闻</sub></td>
+    <td><sub>WTO与强国梦</sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
