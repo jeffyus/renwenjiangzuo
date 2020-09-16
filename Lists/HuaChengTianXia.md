@@ -1707,10 +1707,10 @@
 
 <tbody><tr>
     <td><sub>1165</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2020-06-20)</sub></td>
+    <td><sub>张良皋</sub></td>
+    <td><sub>中华文明探源</sub></td>
+    <td><sub><a href="https://youtu.be/77rdqVUAst4">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1718,9 +1718,9 @@
 
 <tbody><tr>
     <td><sub>1166</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>2020-06-13</sub></td>
+    <td><sub>朱青生</sub></td>
+    <td><sub>2005年中国当代艺术—当代艺术年鉴的编辑</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1729,9 +1729,9 @@
 
 <tbody><tr>
     <td><sub>1167</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2020-06-20)</sub></td>
+    <td><sub>朱青生</sub></td>
+    <td><sub>现代艺术与现代化</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
