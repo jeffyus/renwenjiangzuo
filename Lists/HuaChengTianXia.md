@@ -1707,7 +1707,7 @@
 
 <tbody><tr>
     <td><sub>1165</sub></td>
-    <td><sub>(2020-06-20)</sub></td>
+    <td><sub>(2006-06-20)</sub></td>
     <td><sub>张良皋</sub></td>
     <td><sub>中华文明探源</sub></td>
     <td><sub><a href="https://youtu.be/77rdqVUAst4">Audio</a></sub></td>
@@ -1718,21 +1718,22 @@
 
 <tbody><tr>
     <td><sub>1166</sub></td>
-    <td><sub>2020-06-13</sub></td>
+    <td><sub>2006-06-13</sub></td>
     <td><sub>朱青生</sub></td>
     <td><sub>2005年中国当代艺术—当代艺术年鉴的编辑</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>
+    </sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
 
 <tbody><tr>
     <td><sub>1167</sub></td>
-    <td><sub>(2020-06-20)</sub></td>
+    <td><sub>(2006-06-20)</sub></td>
     <td><sub>朱青生</sub></td>
     <td><sub>现代艺术与现代化</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/qbyf3VR-sE4">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1740,10 +1741,10 @@
 
 <tbody><tr>
     <td><sub>1168</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-20)</sub></td>
+    <td><sub>潭汝谦</sub></td>
+    <td><sub>日本论及日本文化论</sub></td>
+    <td><sub><a href="https://youtu.be/EiGFNVUcIU4">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1751,9 +1752,9 @@
 
 <tbody><tr>
     <td><sub>1169</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-20)</sub></td>
+    <td><sub>孙宝厚</sub></td>
+    <td><sub>国家审计</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1762,9 +1763,9 @@
 
 <tbody><tr>
     <td><sub>1170</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-26)</sub></td>
+    <td><sub>王德峰</sub></td>
+    <td><sub>哲学与民族的文化生命</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1773,9 +1774,9 @@
 
 <tbody><tr>
     <td><sub>1171</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-26)</sub></td>
+    <td><sub>王金林</sub></td>
+    <td><sub>海德格尔与马克思</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1784,10 +1785,10 @@
 
 <tbody><tr>
     <td><sub>1172</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-26)</sub></td>
+    <td><sub>王德峰</sub></td>
+    <td><sub>马克思学说的当代命运</sub></td>
+    <td><sub><a href="https://youtu.be/KCRdsZG23T8">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1795,10 +1796,10 @@
 
 <tbody><tr>
     <td><sub>1173</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-29)</sub></td>
+    <td><sub>涂又光</sub></td>
+    <td><sub>论教育的总过程</sub></td>
+    <td><sub><a href="https://youtu.be/6WgO9hLNMr0">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1806,9 +1807,9 @@
 
 <tbody><tr>
     <td><sub>1174</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-06-29)</sub></td>
+    <td><sub>王玉明</sub></td>
+    <td><sub>一个科技工作者的人文修养</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1817,9 +1818,9 @@
 
 <tbody><tr>
     <td><sub>1175</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-09)</sub></td>
+    <td><sub>沈向洋</sub></td>
+    <td><sub>有效的科研法则</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1828,10 +1829,10 @@
 
 <tbody><tr>
     <td><sub>1176</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-16)</sub></td>
+    <td><sub>甘绍平</sub></td>
+    <td><sub>什么是社会最根本的价值基准</sub></td>
+    <td><sub><a href="https://youtu.be/1-EEc-KKBk4">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1839,20 +1840,20 @@
 
 <tbody><tr>
     <td><sub>1177</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-17)</sub></td>
+    <td><sub>甘绍平</sub></td>
+    <td><sub>人权的边界</sub></td>
+    <td><sub><a href="https://youtu.be/r77q8221FQU">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>1178</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-17)</sub></td>
+    <td><sub>郑杭生</sub></td>
+    <td><sub>社会实践结构性巨变的主要趋势</sub></td>
+    <td><sub><a href="https://youtu.be/K3NYmC4QK98">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1860,10 +1861,10 @@
 
 <tbody><tr>
     <td><sub>1179</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-24)</sub></td>
+    <td><sub>张鸣</sub></td>
+    <td><sub>废科举——百年之羞与百年之痒</sub></td>
+    <td><sub><a href="https://youtu.be/-8wnYiSeFmU">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1871,10 +1872,10 @@
 
 <tbody><tr>
     <td><sub>1180</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-24)</sub></td>
+    <td><sub>张鸣</sub></td>
+    <td><sub>关于农业合作化问题的历史思考</sub></td>
+    <td><sub><a href="https://youtu.be/luQ6q0P0gqM">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
