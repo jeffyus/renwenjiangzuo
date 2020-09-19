@@ -120,15 +120,6 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>未收录待考证</sub></td>
-    <td><sub>2001-03-24 (SAT)</sub></td>
-    <td><sub>史林</sub></td>
-    <td><sub>曾国潘从政为官方略</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-</tr></tbody>
-
-<tbody><tr>
     <td><sub>第1部第12集</sub></td>
     <td><sub>2001-03-31 (SAT)</sub></td>
     <td><sub>李正孝</sub></td>
@@ -201,7 +192,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>未收录待考证</sub></td>
+    <td><sub>VCD未收录</sub></td>
     <td><sub>2001-05-26 (SAT)</sub></td>
     <td><sub>海闻</sub></td>
     <td><sub>WTO与强国梦</sub></td>
