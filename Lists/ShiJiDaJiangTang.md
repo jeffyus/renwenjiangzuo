@@ -196,7 +196,7 @@
     <td><sub>2001-05-26 (SAT)</sub></td>
     <td><sub>海闻</sub></td>
     <td><sub>WTO与强国梦</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/UYDrdt64zoY">Video</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
