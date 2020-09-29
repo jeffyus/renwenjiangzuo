@@ -1883,9 +1883,9 @@
 
 <tbody><tr>
     <td><sub>1181</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-24)</sub></td>
+    <td><sub>陈怡</sub></td>
+    <td><sub>唐佛说禅——谈文化融合</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
