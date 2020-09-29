@@ -1886,7 +1886,7 @@
     <td><sub>(2006-09-24)</sub></td>
     <td><sub>陈怡</sub></td>
     <td><sub>唐佛说禅——谈文化融合</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/yNbzvAzvvlo">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1894,10 +1894,10 @@
 
 <tbody><tr>
     <td><sub>1182</sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-24)</sub></td>
     <td><sub>顾宝昌</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>新时期的中国人口态势</sub></td>
+    <td><sub><a href="https://youtu.be/oavdNTfHlkw">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1905,10 +1905,10 @@
 
 <tbody><tr>
     <td><sub>1183</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-30)</sub></td>
+    <td><sub>王彬彬</sub></td>
+    <td><sub>影视中的帝王崇拜与权谋文化</sub></td>
+    <td><sub><a href="https://youtu.be/HWaKK6FYtJY">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1916,9 +1916,9 @@
 
 <tbody><tr>
     <td><sub>1184</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-12)</sub></td>
+    <td><sub>金大陆</sub></td>
+    <td><sub>崇武的审美及其蜕变</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -1927,10 +1927,10 @@
 
 <tbody><tr>
     <td><sub>1185</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-30)</sub></td>
+    <td><sub>李龙</sub></td>
+    <td><sub>《法学纵横》</sub></td>
+    <td><sub><a href="https://youtu.be/KrRMptzB1vk">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1938,10 +1938,10 @@
 
 <tbody><tr>
     <td><sub>1186</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-30)</sub></td>
+    <td><sub>威尔纳劳克</sub></td>
+    <td><sub>从经济角度看中德关系</sub></td>
+    <td><sub><a href="https://youtu.be/RKRInyJxcvU">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1949,10 +1949,10 @@
 
 <tbody><tr>
     <td><sub>1187</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-09-30)</sub></td>
+    <td><sub>金大陆</sub></td>
+    <td><sub>新代际关系研究</sub></td>
+    <td><sub><a href="https://youtu.be/6n-q4DIv9zE">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1960,10 +1960,10 @@
 
 <tbody><tr>
     <td><sub>1188</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-14)</sub></td>
+    <td><sub>杨奎松</sub></td>
+    <td><sub>毛泽东与镇反运动</sub></td>
+    <td><sub><a href="https://youtu.be/ISe5EOX55fg">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1982,14 +1982,13 @@
 
 <tbody><tr>
     <td><sub>1190</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-14)</sub></td>
+    <td><sub>杨奎松</sub></td>
+    <td><sub>中共与西安事变的关系问题</sub></td>
+    <td><sub><a href="https://youtu.be/CkIN_jkZzTY">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>1191</sub></td>
@@ -2001,24 +2000,22 @@
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1192</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-14)</sub></td>
+    <td><sub>冉永平</sub></td>
+    <td><sub>英语学习与使用中的语用文化</sub></td>
+    <td><sub><a href="https://youtu.be/psXzxc6tXAs">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1193</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-21)</sub></td>
+    <td><sub>邢东风</sub></td>
+    <td><sub>禅宗及禅学研究</sub></td>
+    <td><sub><a href="https://youtu.be/9x74sNKMIPQ">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2026,9 +2023,9 @@
 
 <tbody><tr>
     <td><sub>1194</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-22)</sub></td>
+    <td><sub>楼宇烈</sub></td>
+    <td><sub>玄学与人生</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -2037,10 +2034,10 @@
 
 <tbody><tr>
     <td><sub>1195</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-21)</sub></td>
+    <td><sub>胡新和</sub></td>
+    <td><sub>当代科技革命与若干哲学问题</sub></td>
+    <td><sub><a href="https://youtu.be/A3R7itpoAU0">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2048,10 +2045,10 @@
 
 <tbody><tr>
     <td><sub>1196</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-21)</sub></td>
+    <td><sub>胡新和</sub></td>
+    <td><sub>薛定谔的创新之路</sub></td>
+    <td><sub><a href="https://youtu.be/qS7Yq5z44IM">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2059,10 +2056,10 @@
 
 <tbody><tr>
     <td><sub>1197</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-21)</sub></td>
+    <td><sub>刘大椿</sub></td>
+    <td><sub>日神精神与酒神精神</sub></td>
+    <td><sub><a href="https://youtu.be/muoBthB8E2c">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2070,9 +2067,9 @@
 
 <tbody><tr>
     <td><sub>1198</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-27)</sub></td>
+    <td><sub>范建得</sub></td>
+    <td><sub>法律变革与科技变迁</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -2081,10 +2078,10 @@
 
 <tbody><tr>
     <td><sub>1199</sub></td>
+    <td><sub>(2006-10-27)</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>挪威国家生活、教育、就业状况</sub></td>
+    <td><sub><a href="https://youtu.be/6v1dnWEHOcQ">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2092,10 +2089,10 @@
 
 <tbody><tr>
     <td><sub>1200</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-27)</sub></td>
+    <td><sub>何怀宏</sub></td>
+    <td><sub>中国人文经典阅读</sub></td>
+    <td><sub><a href="https://youtu.be/KjykkL21YYI">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2103,10 +2100,10 @@
 
 <tbody><tr>
     <td><sub>1201</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-10-27)</sub></td>
+    <td><sub>何怀宏</sub></td>
+    <td><sub>西方人文经典阅读</sub></td>
+    <td><sub><a href="https://youtu.be/eMLaqifwSOc">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2114,14 +2111,13 @@
 
 <tbody><tr>
     <td><sub>1202</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-11-02)</sub></td>
+    <td><sub>李金铨</sub></td>
+    <td><sub>全球媒介奇观,一个故事，八个版本</sub></td>
+    <td><sub><a href="https://youtu.be/cfFHfjqr0d8">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>1203</sub></td>
@@ -2146,14 +2142,13 @@
 
 <tbody><tr>
     <td><sub>1205</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-11-10)</sub></td>
+    <td><sub>严陆光</sub></td>
+    <td><sub>我的父亲严济慈</sub></td>
+    <td><sub><a href="https://youtu.be/a2rTy9HAvdM">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>1206</sub></td>
@@ -2165,35 +2160,32 @@
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1207</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-11-18)</sub></td>
+    <td><sub>吴国盛</sub></td>
+    <td><sub>究竟什么是科学</sub></td>
+    <td><sub><a href="https://youtu.be/XE0rZvFz1JM">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
-
 
 <tbody><tr>
     <td><sub>1208</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-11-18)</sub></td>
+    <td><sub>吴国盛</sub></td>
+    <td><sub>技术的本质</sub></td>
+    <td><sub><a href="https://youtu.be/5Oup2BZUNT8">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
-
 <tbody><tr>
     <td><sub>1209</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-11-23)</sub></td>
+    <td><sub>任东来</sub></td>
+    <td><sub>美国的强盛之道</sub></td>
+    <td><sub><a href="https://youtu.be/RDp73RtZEGw">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -2201,10 +2193,10 @@
 
 <tbody><tr>
     <td><sub>1210</sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>(2006-11-23)</sub></td>
+    <td><sub>任东来</sub></td>
+    <td><sub>美国最高法院与司法审查</sub></td>
+    <td><sub><a href="https://youtu.be/NnxnYaff9o0">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
