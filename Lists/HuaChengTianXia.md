@@ -6546,8 +6546,8 @@
 <tbody><tr>
     <td><sub>1606</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>刘申宁</sub></td>
+    <td><sub>李鸿章是个什么人？ </sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -6557,8 +6557,8 @@
 <tbody><tr>
     <td><sub>1607</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>石毓智</sub></td>
+    <td><sub>儒家文化对中国教育的影响 </sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -6568,8 +6568,8 @@
 <tbody><tr>
     <td><sub>1608</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>刘申宁</sub></td>
+    <td><sub>近代中国的集权与分权</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -7041,8 +7041,8 @@
 <tbody><tr>
     <td><sub>1651</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>龚群</sub></td>
+    <td><sub>人的尊严及其实现</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -7052,8 +7052,8 @@
 <tbody><tr>
     <td><sub>1652</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>王海明</sub></td>
+    <td><sub>惩罚无辜可能是一种善：论道德终极标准</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
@@ -7063,8 +7063,8 @@
 <tbody><tr>
     <td><sub>1653</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>邓晓芒</sub></td>
+    <td><sub>哲学启蒙课</sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
