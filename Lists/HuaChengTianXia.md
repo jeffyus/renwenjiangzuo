@@ -820,7 +820,7 @@
     <td><sub>(2005-10-07)</sub></td>
     <td><sub>邴正</sub></td>
     <td><sub>当代中国文化的结构性矛盾</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/17AqN8MM1Z8">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -840,7 +840,7 @@
     <td><sub>(2005-10-07)</sub></td>
     <td><sub>邴正</sub></td>
     <td><sub>发展观：和谐论与进化论的两难抉择</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/_dAf8zXbGGY">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
@@ -1460,7 +1460,7 @@
     <td><sub>2006-04-20</sub></td>
     <td><sub>王逸舟</sub></td>
     <td><sub>全球新格局与中国新外交</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/4JHxx8_l_gI">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:el-dlZqy9JIJ:www.dabpb.com/info/1004/27877.htm+&cd=17&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td></sub></td>
 </tr></tbody>
