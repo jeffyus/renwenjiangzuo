@@ -1482,7 +1482,7 @@
     <td><sub>2006-04-22</sub></td>
     <td><sub>方方</sub></td>
     <td><sub>我与文学</sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://youtu.be/w-u8os-X2_Y">Audio</a></sub></td>
     <td><sub></sub></td>
     <td><sub><a href="http://webcache.googleusercontent.com/search?q=cache:el-dlZqy9JIJ:www.dabpb.com/info/1004/27877.htm+&cd=17&hl=en&ct=clnk&gl=uk&client=firefox-b-d">Cache</a></sub></td></sub></td>
 </tr></tbody>
