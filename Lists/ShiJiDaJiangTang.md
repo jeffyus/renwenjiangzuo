@@ -572,11 +572,11 @@
 
 <table>
 <thead><tr>
-    <th><sub>期数</sub></th>
-    <th><sub>时间</sub></th>
-    <th><sub>演讲人</sub></th>
-    <th><sub>题目</sub></th>
-    <th><sub>链接</sub></th>
+    <th><sub></sub></th>
+    <th><sub>2002年11月23日</sub></th>
+    <th><sub>秦晖</sub></th>
+    <th><sub>转轨经济的比较研究</sub></th>
+    <th><sub>https://m.youtube.com/watch?v=9DNOcTWIlqo</sub></th>
     <th><sub>相关链接及备注</sub></th>
     <th><sub>WebArchive</sub></th>
 </tr></thead>
