@@ -191,7 +191,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009-3-1</sub></td>
+    <td><sub>2009-03-01</sub></td>
     <td><sub>梁文道</sub></td>
     <td><sub>台湾的本土意识与民国遗风</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=5ZLK5nCPEXU">Audio</a></sub></td>
@@ -201,7 +201,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009-4-19</sub></td>
+    <td><sub>2009-04-19</sub></td>
     <td><sub>秦晖</sub></td>
     <td><sub>断裂与联系——30年、60年、120年的中国历程</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=AXVQkAeIHGA">Audio</a></sub></td>
@@ -211,7 +211,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2009-4-23</sub></td>
+    <td><sub>2009-04-23</sub></td>
     <td><sub>沈志华、韩钢</sub></td>
     <td><sub>脆弱的联盟：冷战史中的中国角色</sub></td>
     <td><sub><a href="https://youtu.be/5ilJW7MdP6U">Audio</a></sub></td>
@@ -221,7 +221,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2011-5-19</sub></td>
+    <td><sub>2011-05-19</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>读书与人生</sub></td>
     <td><sub><a href="https://youtu.be/f97eFeMkjzI">Audio</a></sub></td>
@@ -231,7 +231,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2011-11-2</sub></td>
+    <td><sub>2011-11-02</sub></td>
     <td><sub>韩钢</sub></td>
     <td><sub>文革的发动——1966年的中国</sub></td>
     <td><sub><a href="https://youtu.be/NOWIaTMp_CY">Audio</a></sub></td>
@@ -241,7 +241,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2013-12-8</sub></td>
+    <td><sub>2013-12-08</sub></td>
     <td><sub>金雁</sub></td>
     <td><sub>千年跌宕俄国史——兼论克柳切夫斯基《俄国史教程》</sub></td>
     <td><sub><a href="https://youtu.be/_zvBB1u-N6o">Video</a></sub></td>
@@ -281,7 +281,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>早于2015-5-26</sub></td>
+    <td><sub>早于2015-05-26</sub></td>
     <td><sub>马勇</sub></td>
     <td><sub>李鸿章与晚清大变局</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=Fvg06JuTG_A">Video</a></sub></td>
@@ -291,7 +291,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2020-6-10</sub></td>
+    <td><sub>2020-06-10</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>美苏冷战起源的经济因素</sub></td>
     <td><sub><a href="https://www.youtube.com/watch?v=3tRCTacjjXU">Video</a></sub></td>
@@ -301,7 +301,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2020</sub></td>
+    <td><sub>2020-11-05</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>贸易战启示——苏联的战后战略与冷战起源</sub></td>
     <td><sub><a href="https://youtu.be/RVgoL1olvDQ">Video</a></sub></td>
@@ -310,5 +310,14 @@
     <td><sub></sub></td>
 </tr></tbody>
 
+<tbody><tr>
+    <td><sub>2020-11-05</sub></td>
+    <td><sub>沈志华</sub></td>
+    <td><sub>苏联社会主义模式的建立与终结</sub></td>
+    <td><sub><a href="https://youtu.be/2mabILsvOow">Video1</a></sub></td>
+    <td><sub>首都师范大学</sub></td>
+    <td><sub><a href="https://history.cnu.edu.cn/kxyj/xzhd/179580.htm">首都师范大学官网</a></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
 
 </table>
