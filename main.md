@@ -301,7 +301,7 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>2020-11-05</sub></td>
+    <td><sub>2020-XX-XX</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>贸易战启示——苏联的战后战略与冷战起源</sub></td>
     <td><sub><a href="https://youtu.be/RVgoL1olvDQ">Video</a></sub></td>
@@ -314,9 +314,9 @@
     <td><sub>2020-11-05</sub></td>
     <td><sub>沈志华</sub></td>
     <td><sub>苏联社会主义模式的建立与终结</sub></td>
-    <td><sub><a href="https://youtu.be/2mabILsvOow">Video1</a></sub></td>
+    <td><sub><a href="https://youtu.be/2mabILsvOow">Video1</a><br><a href="https://youtu.be/TSw3v2EN9bw">Video2</a></sub></td>
     <td><sub>首都师范大学</sub></td>
-    <td><sub><a href="https://history.cnu.edu.cn/kxyj/xzhd/179580.htm">首都师范大学官网</a></sub></td>
+    <td><sub><a href="https://history.cnu.edu.cn/kxyj/xzhd/179580.htm">“四史系列讲座”第7讲</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
