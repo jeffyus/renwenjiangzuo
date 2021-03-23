@@ -317,7 +317,7 @@
     <td><sub><a href="https://youtu.be/2mabILsvOow">Video1</a><br><a href="https://youtu.be/TSw3v2EN9bw">Video2</a></sub></td>
     <td><sub>首都师范大学</sub></td>
     <td><sub><a href="https://history.cnu.edu.cn/kxyj/xzhd/179580.htm">“四史系列讲座”第7讲</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20210323194543/https://history.cnu.edu.cn/kxyj/xzhd/179580.htm">WebArchive</a></sub></td>
 </tr></tbody>
 
 </table>
