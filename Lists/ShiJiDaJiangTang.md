@@ -528,7 +528,7 @@
 
 <tbody><tr>
     <td><sub>第3部第10集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2002-01-05 (SAT)</sub></td>
     <td><sub>范曾</sub></td>
     <td><sub>二十世纪美的误区和古典主义精神复归</sub></td>
     <td><sub><a href="https://youtu.be/cqIEALSaEz8">Video</a></sub></td>
@@ -538,7 +538,7 @@
 
 <tbody><tr>
     <td><sub>第3部第11集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2002-01-12 (SAT)</sub></td>
     <td><sub>李培林</sub></td>
     <td><sub>是什么改变了你的社会位置</sub></td>
     <td><sub><a href="https://youtu.be/XF8YhKHLyMk">Video</a></sub></td>
@@ -548,7 +548,7 @@
 
 <tbody><tr>
     <td><sub>第3部第12集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2002-01-19 (SAT)</sub></td>
     <td><sub>陈洪</sub></td>
     <td><sub>佛教与中国人</sub></td>
     <td><sub><a href="">Video</a></sub></td>
@@ -558,7 +558,7 @@
 
 <tbody><tr>
     <td><sub>第3部第13集</sub></td>
-    <td><sub></sub></td>
+    <td><sub>2002-01-26 (SAT)</sub></td>
     <td><sub>郭可信</sub></td>
     <td><sub>美轮美奂的穹顶建筑与材料的微结构</sub></td>
     <td><sub><a href="https://youtu.be/cC9_GtJP9BU">Video</a></sub></td>
@@ -572,11 +572,11 @@
 
 <table>
 <thead><tr>
-    <th><sub></sub></th>
-    <th><sub>2002年11月23日</sub></th>
-    <th><sub>秦晖</sub></th>
-    <th><sub>转轨经济的比较研究</sub></th>
-    <th><sub>https://m.youtube.com/watch?v=9DNOcTWIlqo</sub></th>
+    <th><sub>期数</sub></th>
+    <th><sub>时间</sub></th>
+    <th><sub>演讲人</sub></th>
+    <th><sub>题目</sub></th>
+    <th><sub>链接</sub></th>
     <th><sub>相关链接及备注</sub></th>
     <th><sub>WebArchive</sub></th>
 </tr></thead>
