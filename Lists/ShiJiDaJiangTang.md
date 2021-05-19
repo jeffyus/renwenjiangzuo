@@ -425,6 +425,7 @@
 
 ## 世纪大讲堂第3部
 
+[YouTube播放列表](https://youtube.com/playlist?list=PLlk0tfW4OCYTZL2LGySew4lX4ZSTVWOHh)
 <table>
 <thead><tr>
     <th><sub>期数</sub></th>
