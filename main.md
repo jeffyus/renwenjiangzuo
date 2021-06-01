@@ -295,9 +295,9 @@
     <td><sub>王赓武、葛兆光、朱云汉</sub></td>
     <td><sub>从全球史近世中国的看兴衰</sub></td>
     <td><sub><a href="https://youtu.be/64Yzb911G1U">Video</a></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>香港大学</sub></td>
+    <td><sub><a href="https://www.hkihss.hku.hk/en/events/chinese-history-in-the-dominant-narratives-of-world-global-history-20181114/">香港大学官网</a></sub></td>
+    <td><sub><a href="https://web.archive.org/web/20210601095708/https://www.hkihss.hku.hk/en/events/chinese-history-in-the-dominant-narratives-of-world-global-history-20181114/">WebArchive</a></sub></td>
 </tr></tbody>
 
 <tbody><tr>
