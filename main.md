@@ -289,6 +289,16 @@
     <td><sub><a href="http://221.13.137.120:8098/videoinfo.asp?id=104633">超星名师讲坛</a></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
+    
+<tbody><tr>
+    <td><sub>2018-11-14</sub></td>
+    <td><sub>王赓武、葛兆光、朱云汉</sub></td>
+    <td><sub>从全球史近世中国的看兴衰</sub></td>
+    <td><sub><a href="https://youtu.be/64Yzb911G1U">Video</a></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
 
 <tbody><tr>
     <td><sub>2020-06-10</sub></td>
