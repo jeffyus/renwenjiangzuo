@@ -9,3 +9,4 @@
 * [主表](https://github.com/jeffyus/renwenjiangzuo/blob/master/main.md)
 * [华中科技大学化成天下](https://github.com/jeffyus/renwenjiangzuo/blob/master/Lists/HuaChengTianXia.md)
 * [凤凰卫视世纪大讲堂](https://github.com/jeffyus/renwenjiangzuo/blob/master/Lists/ShiJiDaJiangTang.md)
+* [中国历史](https://github.com/jeffyus/renwenjiangzuo/blob/master/Lists/HistoryOfChina.md)
