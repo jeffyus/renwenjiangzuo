@@ -18,7 +18,7 @@
     <td><sub>姜生</sub></td>
     <td><sub>从大圣到贱贼：秦始皇形象在汉代的崩塌  </sub></td>
     <td><sub><a href="https://youtu.be/ZaGtMklzlEE">Video</a></sub></td>
-    <td><sub></sub></td>
+    <td><sub>腾讯会议</sub></td>
     <td><sub><a href="https://www.sohu.com/a/611399819_121124388">【学闻】姜生：从大圣到贱贼：秦始皇形象在汉代的崩塌 </a></sub></td>
     <td><sub><a href="https://web.archive.org/web/20230118194910/https://www.sohu.com/a/611399819_121124388">WebArchive</a></sub></td>
 </tr></tbody>
