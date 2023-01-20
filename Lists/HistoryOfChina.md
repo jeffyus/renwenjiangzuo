@@ -12,7 +12,7 @@
 </tr></thead>
 
 <tbody><tr>
-    <td><sub>2022-11-30</sub></td>
+    <td><sub>2022-06-24</sub></td>
     <td><sub>王震中</sub></td>
     <td><sub>夏商周复合制王朝国家形态结构说</sub></td>
     <td><sub><a href="https://youtu.be/ZaGtMklzlEE">Video</a></sub></td>
