@@ -53,7 +53,7 @@
     <td><sub>2022-12-21</sub></td>
     <td><sub>孟宪实</sub></td>
     <td><sub>唐朝与西域 </sub></td>
-    <td><sub><a href="https://youtu.be/ZaGtMklzlEE">Video</a></sub></td>
+    <td><sub><a href="https://www.youtube.com/watch?v=QizxL1zV46E">Video</a></sub></td>
     <td><sub></sub></td>
     <td><sub>上海大学西域研究前沿报告</sub></td>
     <td><sub></sub></td>
